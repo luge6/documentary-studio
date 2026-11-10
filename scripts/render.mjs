@@ -58,7 +58,7 @@ async function renderRange(f0, f1, outFile, label = '') {
     const b = Buffer.from(await page.evaluate(t => window.grabFrame(t), f / FPS), 'base64');
     if (!ff.stdin.write(b)) await new Promise(r => ff.stdin.once('drain', r));
     const done = f - f0 + 1;
-    if (done % 120 === 0 || f === f1 - 1) { const el = (Date.now() - t0) / 1000; console.log(`${label} ${done}/${f1 - f0} frames  ${(done / el).toFixed(2)} fps  eta ${Math.round((f1 - f0 - done) / (done / el))}s`); }
+    if (done % 240 === 0 && f1 - f0 > 480) { const el = (Date.now() - t0) / 1000; console.log(`${label} ${done}/${f1 - f0} frames  ${(done / el).toFixed(2)} fps  eta ${Math.round((f1 - f0 - done) / (done / el))}s`); }
   }
   ff.stdin.end(); await new Promise(r => ff.on('close', r)); await browser.close();
 }
@@ -101,12 +101,24 @@ try {
     await renderRange(Math.round(a * FPS), Math.round(b * FPS), path.join(PROJ, 'build', 'preview.mp4'), 'preview');
     console.log(path.join(PROJ, 'build', 'preview.mp4'));
   } else {
+    // Resumable: the video is rendered in fixed chunks; finished chunks are kept and skipped on re-run.
     const N = Number(opt('--workers') || Math.max(1, Math.min(4, os.cpus().length)));
-    const total = Math.ceil(TL.duration * FPS); const per = Math.ceil(total / N);
-    console.log(`rendering ${total} frames (${TL.duration.toFixed(1)}s @ ${FPS}fps) with ${N} workers`);
-    const segs = [];
-    await Promise.all(Array.from({ length: N }, (_, k) => { const a = k * per, b = Math.min(total, a + per); const f = path.join(PROJ, 'build', `seg_${k}.mp4`); segs.push(f); return a < b ? renderRange(a, b, f, `[w${k}]`) : null; }));
-    const list = path.join(PROJ, 'build', 'segs.txt'); fs.writeFileSync(list, segs.filter(f => fs.existsSync(f)).map(f => `file '${f}'`).join('\n'));
+    const total = Math.ceil(TL.duration * FPS), CH = 480;
+    const hash = (await import('node:crypto')).createHash('sha1').update(fs.readFileSync(path.join(PROJ, 'timeline.json'))).update(QUAL).digest('hex').slice(0, 10);
+    const dir = path.join(PROJ, 'build', `chunks_${hash}`); fs.mkdirSync(dir, { recursive: true });
+    const chunks = []; for (let a = 0, k = 0; a < total; a += CH, k++) chunks.push({ a, b: Math.min(total, a + CH), f: path.join(dir, `chunk_${String(k).padStart(4, '0')}.mp4`) });
+    const todo = chunks.filter(c => !fs.existsSync(c.f));
+    console.log(`rendering ${total} frames (${TL.duration.toFixed(1)}s @ ${FPS}fps): ${chunks.length - todo.length}/${chunks.length} chunks already done, ${todo.length} to go, ${N} workers`);
+    let next = 0, done = chunks.length - todo.length; const t0 = Date.now();
+    await Promise.all(Array.from({ length: Math.min(N, todo.length) }, async (_, w) => {
+      while (next < todo.length) {
+        const c = todo[next++]; const part = c.f.replace(/\.mp4$/, '.part.mp4');
+        await renderRange(c.a, c.b, part, `[w${w}]`); fs.renameSync(part, c.f); done++;
+        const el = (Date.now() - t0) / 1000, rate = (done - (chunks.length - todo.length)) / el;
+        console.log(`chunk ${done}/${chunks.length} done  eta ${Math.round((chunks.length - done) / rate)}s`);
+      }
+    }));
+    const list = path.join(dir, 'list.txt'); fs.writeFileSync(list, chunks.map(c => `file '${c.f}'`).join('\n'));
     execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', list, '-c', 'copy', path.join(PROJ, 'build', 'video_silent.mp4')]);
     console.log('DONE', path.join(PROJ, 'build', 'video_silent.mp4'));
   }
