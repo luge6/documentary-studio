@@ -1,6 +1,6 @@
 # 168 Bodies Found in a Florida Pond With Brains Intact After 7000 Years
 
-*Recording script - about 1,444 words, roughly 10 minutes at a calm documentary pace.*
+*Recording script - about 1,809 words, roughly 12 minutes at a calm documentary pace.*
 
 > **How to record:** read only the normal text. Headings in [brackets] are chapter cards - do not read them,
 > just leave a short breath before starting each new chapter. Record in one take or several, but export a
@@ -30,13 +30,17 @@ examiner took one look at the bones and ruled out a modern crime. These were old
 was how old.
 
 What the developers did next was unusual. Instead of quietly pouring concrete over the problem, they
-stopped work and paid for scientific dating. Two bones were sent to a laboratory for radiocarbon
-testing. The results came back at about seven thousand two hundred and seven thousand three hundred
-years. That makes these people older than writing. Older than Stonehenge. Older than the Great
-Pyramid of Egypt by more than two thousand years.
+stopped work and paid for scientific dating. For a moment, the future of the site depended on a few
+people deciding that the past mattered more than a construction schedule. Two bones were sent to a
+laboratory for radiocarbon testing. The results came back at about seven thousand two hundred and
+seven thousand three hundred years.
 
-And one more thing was already clear. These people had not been dumped in the pond. They had been
-placed there, carefully, one by one.
+That makes these people older than writing. Older than Stonehenge. Older than the Great Pyramid of
+Egypt by more than two thousand years. When the Windover people were laid in this pond, there were
+no empires anywhere on Earth. No kings, no alphabet, no written word. On the other side of the
+world, farming villages were still slowly spreading across Europe. And one more thing was already
+clear. These people had not been dumped in the pond. They had been placed there, carefully, one by
+one.
 
 
 ## [Chapter 2 - Draining a Graveyard]
@@ -44,21 +48,26 @@ placed there, carefully, one by one.
 Archaeologists from Florida State University took over the site. But they faced a problem no
 textbook had an answer for. Their cemetery was underwater. Digging blind through mud and water would
 destroy the very thing they wanted to study. So they came up with an engineering solution. The team
-surrounded the pond with a ring of one hundred and sixty wells. Pumps drew the groundwater down,
-lowering the water table until the peat at the bottom of the pond could be reached and excavated by
-hand.
+surrounded the pond with a ring of one hundred and sixty wells. Without them, every shovel of peat
+would have filled with water the moment it was lifted. With them, the bottom of the pond slowly
+became a dig site.
 
-Season after season, they worked down through the peat, recording the exact position of every bone
-before anything was lifted. What emerged was not a jumble of bones. It was an organized cemetery.
-About a hundred of the burials had never been disturbed. Their skeletons were still fully
-articulated, every bone still lying next to the one it once joined. Most of the dead had been laid
-on their sides, with their knees drawn up toward the chest, as if they were asleep.
+Pumps drew the groundwater down, lowering the water table until the peat at the bottom of the pond
+could be reached and excavated by hand. Season after season, they worked down through the peat,
+recording the exact position of every bone before anything was lifted. And everything had to be
+handled with extreme care. Material that has spent thousands of years under water can crack and
+crumble quickly once it is exposed to open air.
 
-And many of them had been pinned in place. Sharpened wooden stakes had been driven down through
-their wrappings and into the peat below. Why would anyone stake the dead to the bottom of a pond?
-One explanation is practical. A body underwater can float back to the surface. The stakes held them
-down. Whatever the reason, the people of Windover chose water as the resting place for their dead.
-And that water would keep their secret for seven thousand years.
+What emerged was not a jumble of bones. It was an organized cemetery. About a hundred of the burials
+had never been disturbed. Their skeletons were still fully articulated, every bone still lying next
+to the one it once joined. Most of the dead had been laid on their sides, with their knees drawn up
+toward the chest, as if they were asleep. And many of them had been pinned in place. Sharpened
+wooden stakes had been driven down through their wrappings and into the peat below.
+
+Why would anyone stake the dead to the bottom of a pond? One explanation is practical. A body
+underwater can float back to the surface. The stakes held them down. Whatever the reason, the people
+of Windover chose water as the resting place for their dead. And that water would keep their secret
+for seven thousand years.
 
 
 ## [Chapter 3 - Brains in the Peat]
@@ -78,12 +87,14 @@ skin, but the acidic water of those bogs slowly dissolved their bones.
 At Windover, the water was close to neutral. The skin and flesh were gone, but the bones survived,
 and so did what was sealed inside the skulls. Then came the discovery that made Windover famous
 among scientists around the world. In 1988, researchers announced that they had recovered DNA from
-one of the Windover brains, one of the oldest human genetic samples ever studied at the time. It was
-a message written in genes, sent from people who lived thousands of years before Columbus, before
-the pyramids, before almost everything we call history.
+one of the Windover brains, one of the oldest human genetic samples ever studied at the time. At the
+time, this was cutting-edge science. Only four years earlier, researchers had recovered DNA from an
+extinct animal for the very first time. Ancient human DNA was a brand new frontier.
 
-And the DNA confirmed what the burials already suggested. These were ancient Native Americans, part
-of a long story that stretches back to the first people in the Americas.
+It was a message written in genes, sent from people who lived thousands of years before Columbus,
+before the pyramids, before almost everything we call history. And the DNA confirmed what the
+burials already suggested. These were ancient Native Americans, part of a long story that stretches
+back to the first people in the Americas.
 
 
 ## [Chapter 4 - Woven for the Dead]
@@ -91,57 +102,75 @@ of a long story that stretches back to the first people in the Americas.
 The pond preserved something else that almost never survives from the Stone Age. Cloth. Thirty-seven
 of the graves contained woven fabric. Eighty-six pieces in all, made from plant fibers. The dead had
 been wrapped in it before burial. Some were bundled in tight, finely made weaves. Others in looser,
-more open ones. The weaving was complex, using several different techniques. These were skilled
-craftspeople, and their textiles are among the oldest of their kind ever found.
+more open ones. Think about what that cloth required. Plant fibers had to be gathered, processed,
+twisted into cord and then woven by hand. A single burial wrap could represent many hours of work.
 
-Alongside the bodies lay the objects of everyday life. Tools of bone and antler. Shark teeth. Pieces
-of bottle gourd, used as containers. These people had no metal and no pottery. Everything they made
-came from the land, the water and the animals around them. They lived from Florida's rivers, marshes
-and coast, moving with the seasons and returning, again and again, to this one small pond. The care
-in these burials is unmistakable. The wrapping, the objects, the careful placement. This was a
-community that honored its dead.
+The weaving was complex, using several different techniques. These were skilled craftspeople, and
+their textiles are among the oldest of their kind ever found. And that work was not spent on
+clothing for the living. It was spent on the dead. That tells us something about how much these
+people mattered to each other. Alongside the bodies lay the objects of everyday life. Tools of bone
+and antler. Shark teeth. Pieces of bottle gourd, used as containers.
+
+These people had no metal and no pottery. Everything they made came from the land, the water and the
+animals around them. They lived from Florida's rivers, marshes and coast, moving with the seasons
+and returning, again and again, to this one small pond. The care in these burials is unmistakable.
+The wrapping, the objects, the careful placement. This was a community that honored its dead.
 
 
 ## [Chapter 5 - The Boy Who Was Carried]
 
 The bones also tell personal stories. The people buried here ranged from newborn babies to elders
-more than sixty years old. Many of the adults had worn joints and arthritis, the marks of hard,
-physical lives spent walking, carrying and working. But one skeleton stopped the researchers in
-their tracks. A boy, about fifteen years old. He had been born with spina bifida, a condition in
-which the spine does not form properly.
+more than sixty years old. Children were buried here too, many of them. In a world without medicine,
+childhood was dangerous, and the pond holds that loss alongside everything else. Many of the adults
+had worn joints and arthritis, the marks of hard, physical lives spent walking, carrying and
+working. But one skeleton stopped the researchers in their tracks. A boy, about fifteen years old.
 
-He had also lost one of his feet, and the bone of his lower leg had healed over. He had survived
-that injury for a long time. In a band of hunter-gatherers that moved through the landscape on foot,
-a child like this could not have kept up on his own. He would have needed help every single day. And
-he got it. Someone fed him. Someone carried him. Someone cared for him, year after year, for his
-entire life.
+He had been born with spina bifida, a condition in which the spine does not form properly. He had
+also lost one of his feet, and the bone of his lower leg had healed over. He had survived that
+injury for a long time. In a band of hunter-gatherers that moved through the landscape on foot, a
+child like this could not have kept up on his own. He would have needed help every single day.
 
+And he got it. Someone fed him. Someone carried him. Someone cared for him, year after year, for his
+entire life. Think about what that meant in practice. Every time the group moved, someone had to
+carry him. Every meal, someone made sure he ate. Not for a week or a season, but for fifteen years.
 Seven thousand years ago, with no medicine, no metal and no writing, the people of Windover looked
-after their most vulnerable. It is a powerful reminder that compassion is far older than
-civilization.
+after their most vulnerable.
+
+It is a powerful reminder that compassion is far older than civilization.
 
 
 ## [Chapter 6 - Why a Pond?]
 
 Which brings us back to the strangest question of all. Why bury the dead in water? No one knows for
 certain. The people of Windover left no written record. Only the choices they made, preserved in the
-peat. We do know the pond was not used once. It was returned to again and again, generation after
-generation, as if it were a place that mattered deeply to them. Some see the water as a doorway, a
-passage between the world of the living and the world of the dead.
+peat. Burying the dead underwater is rare in the archaeological record. Most ancient people buried
+their dead in the ground, in caves or in mounds. Windover is different, and that difference is part
+of its mystery.
 
-Others think the reason was practical. Under the water, the dead were safe from animals, and safe
-from the heat of the Florida sun. Perhaps it was both. A sacred place that also protected the people
-they loved. Whatever they believed, their choice worked better than they could ever have imagined.
+We do know the pond was not used once. It was returned to again and again, generation after
+generation, as if it were a place that mattered deeply to them. Some see the water as a doorway, a
+passage between the world of the living and the world of the dead. Others think the reason was
+practical. Under the water, the dead were safe from animals, and safe from the heat of the Florida
+sun.
+
+Perhaps it was both. A sacred place that also protected the people they loved. Whatever they
+believed, their choice worked better than they could ever have imagined.
 
 
 ## [Chapter 7 - What the Pond Kept]
 
 In 1987, Windover was declared a National Historic Landmark, one of the most important
-archaeological sites in North America. And in a decision that still surprises people, the
-archaeologists did not empty the entire pond. Part of it was deliberately left untouched, sealed in
-its peat, waiting for scientists with better tools and better questions than ours. Somewhere beneath
-that dark water, more of the people of Windover may still be lying exactly where they were placed.
-Wrapped in cloth. Pinned to the bottom. Waiting.
+archaeological sites in North America. Today, the people of Windover are also part of a larger
+conversation. These were ancestors of Native American communities, and many people believe their
+remains deserve not just study, but respect. How to balance scientific discovery with the wishes of
+Indigenous people is a question archaeology is still learning to answer. Windover is part of that
+story too.
 
-One hundred and sixty-eight people. Seven thousand years. And brains that refused to disappear. The
-pond kept them safe for all that time. Now it is our turn to remember them.
+And in a decision that still surprises people, the archaeologists did not empty the entire pond.
+Part of it was deliberately left untouched, sealed in its peat, waiting for scientists with better
+tools and better questions than ours. Somewhere beneath that dark water, more of the people of
+Windover may still be lying exactly where they were placed. Wrapped in cloth. Pinned to the bottom.
+Waiting. One hundred and sixty-eight people. Seven thousand years. And brains that refused to
+disappear.
+
+The pond kept them safe for all that time. Now it is our turn to remember them.

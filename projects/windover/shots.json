@@ -4,214 +4,1203 @@
  "subtitles": false,
  "music": "auto",
  "chapters": [
-  {"title": "Cold open", "beats": [
-   {"say": "In 1982, a man clearing land for a new road in central Florida dipped his backhoe into a small, muddy pond.",
-    "shot": {"type": "landscape", "terrain": "plains", "time": "dusk", "caption": "Central Florida", "sub": "1982"}},
-   {"say": "When the bucket came up, something pale was sitting in the black mud. Human skulls. Not one. Several.",
-    "shot": {"type": "statement", "text": "Human skulls. Not one. Several.", "emphasis": ["skulls", "several"]}},
-   {"say": "The police were called. Everyone assumed it was a crime scene. A forgotten murder, perhaps, or an old family cemetery nobody had written down.",
-    "shot": {"type": "board", "title": "Windover pond", "cards": [
-      {"kind": "clip", "source": "Local news", "headline": "Skulls found at construction site", "cue": "police"},
-      {"kind": "note", "text": "Homicide?", "cue": "murder"},
-      {"kind": "note", "text": "Old family cemetery?", "cue": "cemetery"}]}},
-   {"say": "But these bones were not decades old. They were more than seven thousand years old.",
-    "shot": {"type": "number", "value": "7000", "suffix": "+", "label": "years old", "kicker": "Age of the bones"}},
-   {"say": "And when scientists looked inside the skulls, they found something that should not exist.",
-    "shot": {"type": "xray", "focus": "skull", "cue": "something", "label": "Soft tissue detected", "detail": "Inside the cranium", "markerShape": "sphere", "subject": "Windover burial", "scan": "Cranial scan"}},
-   {"say": "Human brains. Shrunken and dark, but still there, after seven thousand years under water.",
-    "shot": {"type": "statement", "text": "Human brains. Still there after 7,000 years.", "emphasis": ["brains"]}},
-   {"say": "In the end, the pond gave up one hundred and sixty-eight people. This is the story of Windover, and of the people who were laid to rest beneath it.",
-    "shot": {"type": "title", "title": "The Windover Pond", "subtitle": "168 bodies · 7,000 years · brains intact", "kicker": "A documentary"}}
-  ]},
-
-  {"num": 1, "title": "Skulls in the Bucket", "subtitle": "Titusville, Florida · 1982", "beats": [
-   {"say": "The pond sat near the town of Titusville, on Florida's Atlantic coast, just across the water from where rockets now launch into space.",
-    "shot": {"type": "map", "place": "Windover Pond", "coords": "28.6° N, 80.8° W", "region": "Titusville, Florida", "terrain": "coast", "cue": "Titusville"}},
-   {"say": "The land was being cleared for a housing development called Windover Farms, and the plan was simple. Fill in the pond, build a road over it.",
-    "shot": {"type": "landscape", "terrain": "forest", "time": "day", "caption": "Windover Farms", "sub": "Brevard County, Florida"}},
-   {"say": "The medical examiner took one look at the bones and ruled out a modern crime. These were old. The only question was how old.",
-    "shot": {"type": "checklist", "title": "Medical examiner", "subtitle": "First assessment", "items": [
-      {"text": "Recent homicide", "mark": "cross", "markCue": "crime"},
-      {"text": "Old burial", "mark": "check", "markCue": "old"},
-      {"text": "Age of remains", "mark": "question"}]}},
-   {"say": "What the developers did next was unusual. Instead of quietly pouring concrete over the problem, they stopped work and paid for scientific dating.",
-    "shot": {"type": "board", "title": "Windover pond", "cards": [
-      {"kind": "index", "lines": ["SITE:     WINDOVER POND", "STATUS:   WORK HALTED", "ACTION:   RADIOCARBON TEST", "SAMPLES:  2 BONES"], "cue": "stopped"},
-      {"kind": "polaroid", "scene": "forest", "caption": "Windover Farms, 1982"}]}},
-   {"say": "Two bones were sent to a laboratory for radiocarbon testing. The results came back at about seven thousand two hundred and seven thousand three hundred years.",
-    "shot": {"type": "bars", "title": "Radiocarbon results (years before present)", "items": [
-      {"label": "Bone sample 1", "value": 7210}, {"label": "Bone sample 2", "value": 7320}], "highlight": 1}},
-   {"say": "That makes these people older than writing. Older than Stonehenge. Older than the Great Pyramid of Egypt by more than two thousand years.",
-    "shot": {"type": "timeline", "events": [
-      {"date": "c. 5200 BC", "label": "People are buried in Windover Pond"},
-      {"date": "c. 3200 BC", "label": "Writing is invented", "cue": "writing"},
-      {"date": "c. 3000 BC", "label": "Work begins at Stonehenge", "cue": "stonehenge"},
-      {"date": "c. 2560 BC", "label": "The Great Pyramid of Giza", "cue": "pyramid"}], "highlight": 0}},
-   {"say": "And one more thing was already clear. These people had not been dumped in the pond. They had been placed there, carefully, one by one.",
-    "shot": {"type": "statement", "text": "They had been placed there. One by one.", "emphasis": ["placed"]}}
-  ]},
-
-  {"num": 2, "title": "Draining a Graveyard", "subtitle": "The excavation · 1984 – 1986", "beats": [
-   {"say": "Archaeologists from Florida State University took over the site. But they faced a problem no textbook had an answer for. Their cemetery was underwater.",
-    "shot": {"type": "landscape", "terrain": "coast", "time": "dawn", "caption": "Windover Pond", "sub": "A cemetery under water"}},
-   {"say": "Digging blind through mud and water would destroy the very thing they wanted to study. So they came up with an engineering solution.",
-    "shot": {"type": "statement", "text": "How do you excavate a pond?", "emphasis": ["pond"]}},
-   {"say": "The team surrounded the pond with a ring of one hundred and sixty wells.",
-    "shot": {"type": "number", "value": "160", "label": "wells around the pond", "kicker": "The dewatering system"}},
-   {"say": "Pumps drew the groundwater down, lowering the water table until the peat at the bottom of the pond could be reached and excavated by hand.",
-    "shot": {"type": "checklist", "title": "Excavation plan", "subtitle": "Windover, 1984", "items": [
-      {"text": "Drill 160 wells", "mark": "check", "markCue": "pumps"},
-      {"text": "Lower the water table", "mark": "check", "markCue": "lowering"},
-      {"text": "Excavate the peat by hand", "mark": "check", "markCue": "hand"}]}},
-   {"say": "Season after season, they worked down through the peat, recording the exact position of every bone before anything was lifted.",
-    "shot": {"type": "board", "title": "Field records", "cards": [
-      {"kind": "polaroid", "scene": "lab", "caption": "Field season, 1985"},
-      {"kind": "index", "lines": ["GRID:     N12 / E07", "DEPTH:    PEAT LAYER", "BURIAL:   ARTICULATED", "RECORD:   IN SITU"]},
-      {"kind": "note", "text": "Map every bone before lifting."}]}},
-   {"say": "What emerged was not a jumble of bones. It was an organized cemetery.",
-    "shot": {"type": "statement", "text": "Not a jumble of bones. A cemetery.", "emphasis": ["cemetery"]}},
-   {"say": "About a hundred of the burials had never been disturbed. Their skeletons were still fully articulated, every bone still lying next to the one it once joined.",
-    "shot": {"type": "xray", "focus": "full", "marker": false, "subject": "Burial · fully articulated", "scan": "Skeletal survey"}},
-   {"say": "Most of the dead had been laid on their sides, with their knees drawn up toward the chest, as if they were asleep.",
-    "shot": {"type": "document", "heading": "Burial position", "style": "typed", "lines": ["Body placed on its side.", "Knees drawn up toward the chest.", "Wrapped in woven material.", "Covered by peat at the bottom of the pond."], "highlight": ["Knees drawn up toward the chest."], "caption": "Typical burial", "sub": "Windover Pond"}},
-   {"say": "And many of them had been pinned in place. Sharpened wooden stakes had been driven down through their wrappings and into the peat below.",
-    "shot": {"type": "artifact", "object": "stake", "label": "Sharpened wooden stake", "detail": "Driven through the burial wrappings"}},
-   {"say": "Why would anyone stake the dead to the bottom of a pond? One explanation is practical. A body underwater can float back to the surface. The stakes held them down.",
-    "shot": {"type": "checklist", "title": "Why the stakes?", "subtitle": "Open question", "items": [
-      {"text": "Keep bodies from floating up", "mark": "check", "markCue": "held"},
-      {"text": "Mark or protect the graves", "mark": "question"},
-      {"text": "A ritual we do not understand", "mark": "question"}]}},
-   {"say": "Whatever the reason, the people of Windover chose water as the resting place for their dead. And that water would keep their secret for seven thousand years.",
-    "shot": {"type": "landscape", "terrain": "coast", "time": "night", "caption": "Windover Pond", "sub": "c. 5200 BC"}}
-  ]},
-
-  {"num": 3, "title": "Brains in the Peat", "subtitle": "Why nothing rotted", "beats": [
-   {"say": "As the skulls were lifted out of the peat, the excavators realized that something was still inside them.",
-    "shot": {"type": "statement", "text": "Something was still inside.", "emphasis": ["inside"]}},
-   {"say": "In ninety-one of the skulls, the excavators found preserved human brain tissue.",
-    "shot": {"type": "number", "value": "91", "label": "skulls with brain tissue", "kicker": "Windover Pond"}},
-   {"say": "The brains had shrunk and darkened, but their shape and folds could still be made out. And that should have been impossible. Brain tissue is usually one of the first parts of the body to decay.",
-    "shot": {"type": "xray", "focus": "skull", "cue": "folds", "label": "Brain tissue", "detail": "Shrunken · structure intact", "markerShape": "sphere", "subject": "Windover burial", "scan": "Cranial scan"}},
-   {"say": "So how did a human brain survive for seven thousand years?",
-    "shot": {"type": "statement", "text": "How did a brain survive 7,000 years?", "emphasis": ["7,000"]}},
-   {"say": "The answer lies in the pond itself. The peat at the bottom was waterlogged and starved of oxygen, so the microbes that normally break a body down could barely work.",
-    "shot": {"type": "checklist", "title": "Conditions in the peat", "subtitle": "Why decay stopped", "items": [
-      {"text": "Waterlogged peat", "mark": "check", "markCue": "waterlogged"},
-      {"text": "Almost no oxygen", "mark": "check", "markCue": "oxygen"},
-      {"text": "Microbes held back", "mark": "check", "markCue": "microbes"}]}},
-   {"say": "The bodies also seem to have gone into the water soon after death. The bones show no marks from scavengers, so animals never had the chance to reach them.",
-    "shot": {"type": "board", "title": "The evidence", "cards": [
-      {"kind": "index", "lines": ["SCAVENGER MARKS:  NONE", "BURIAL:  SOON AFTER DEATH", "ENVIRONMENT:  NO OXYGEN"], "cue": "scavengers"},
-      {"kind": "note", "text": "Animals never reached them.", "cue": "animals"}]}},
-   {"say": "There was one more crucial ingredient. Europe's famous bog bodies kept their skin, but the acidic water of those bogs slowly dissolved their bones.",
-    "shot": {"type": "board", "title": "Two kinds of bog", "cards": [
-      {"kind": "clip", "source": "Northern Europe", "headline": "Bog bodies: skin preserved, bones dissolved", "cue": "europe"},
-      {"kind": "polaroid", "scene": "forest", "caption": "Peat bog, northern Europe"}]}},
-   {"say": "At Windover, the water was close to neutral. The skin and flesh were gone, but the bones survived, and so did what was sealed inside the skulls.",
-    "shot": {"type": "statement", "text": "Neutral water. The bones survived. So did the brains.", "emphasis": ["brains"]}},
-   {"say": "Then came the discovery that made Windover famous among scientists around the world.",
-    "shot": {"type": "landscape", "terrain": "coast", "time": "dusk", "caption": "Windover Pond", "sub": "Titusville, Florida"}},
-   {"say": "In 1988, researchers announced that they had recovered DNA from one of the Windover brains, one of the oldest human genetic samples ever studied at the time.",
-    "shot": {"type": "molecule", "rings": 2, "extra": ["N", "O", "N"], "name": "Ancient DNA", "formula": "Recovered from a 7,000-year-old brain · 1988"}},
-   {"say": "It was a message written in genes, sent from people who lived thousands of years before Columbus, before the pyramids, before almost everything we call history.",
-    "shot": {"type": "statement", "text": "A message written in genes.", "emphasis": ["genes"]}},
-   {"say": "And the DNA confirmed what the burials already suggested. These were ancient Native Americans, part of a long story that stretches back to the first people in the Americas.",
-    "shot": {"type": "board", "title": "Genetic results", "cards": [
-      {"kind": "index", "lines": ["SOURCE:    BRAIN TISSUE", "MATERIAL:  ANCIENT DNA", "RESULT:    NATIVE AMERICAN", "AGE:       c. 7,000 YEARS"], "cue": "dna"},
-      {"kind": "polaroid", "scene": "portrait", "caption": "Windover, c. 5200 BC", "cue": "ancient"}]}}
-  ]},
-
-  {"num": 4, "title": "Woven for the Dead", "subtitle": "What they buried with them", "beats": [
-   {"say": "The pond preserved something else that almost never survives from the Stone Age. Cloth.",
-    "shot": {"type": "statement", "text": "Cloth. Seven thousand years old.", "emphasis": ["cloth"]}},
-   {"say": "Thirty-seven of the graves contained woven fabric. Eighty-six pieces in all, made from plant fibers.",
-    "shot": {"type": "bars", "title": "Textiles recovered", "items": [
-      {"label": "Graves with fabric", "value": 37}, {"label": "Fabric pieces", "value": 86}], "highlight": 1}},
-   {"say": "The dead had been wrapped in it before burial. Some were bundled in tight, finely made weaves. Others in looser, more open ones.",
-    "shot": {"type": "photo", "scene": "forest", "bw": true, "layout": "desk", "caption": "Burial wrappings", "credit": "Woven plant fiber"}},
-   {"say": "The weaving was complex, using several different techniques. These were skilled craftspeople, and their textiles are among the oldest of their kind ever found.",
-    "shot": {"type": "statement", "text": "Among the oldest woven textiles ever found.", "emphasis": ["oldest"]}},
-   {"say": "Alongside the bodies lay the objects of everyday life. Tools of bone and antler. Shark teeth. Pieces of bottle gourd, used as containers.",
-    "shot": {"type": "artifact", "object": "bone", "label": "Bone and antler tools", "detail": "Buried with the dead"}},
-   {"say": "These people had no metal and no pottery. Everything they made came from the land, the water and the animals around them.",
-    "shot": {"type": "artifact", "object": "jar", "material": "wood", "label": "No pottery, no metal", "detail": "Containers came from nature"}},
-   {"say": "They lived from Florida's rivers, marshes and coast, moving with the seasons and returning, again and again, to this one small pond.",
-    "shot": {"type": "landscape", "terrain": "coast", "time": "day", "caption": "Florida's Atlantic coast", "sub": "The world of the Windover people"}},
-   {"say": "The care in these burials is unmistakable. The wrapping, the objects, the careful placement. This was a community that honored its dead.",
-    "shot": {"type": "checklist", "title": "Signs of ceremony", "subtitle": "Windover burials", "items": [
-      {"text": "Bodies wrapped in woven cloth", "mark": "check", "markCue": "wrapping"},
-      {"text": "Objects placed with the dead", "mark": "check", "markCue": "objects"},
-      {"text": "Careful burial position", "mark": "check", "markCue": "placement"}], "stamp": {"text": "Honored", "cue": "honored"}}}
-  ]},
-
-  {"num": 5, "title": "The Boy Who Was Carried", "subtitle": "Life and death at Windover", "beats": [
-   {"say": "The bones also tell personal stories. The people buried here ranged from newborn babies to elders more than sixty years old.",
-    "shot": {"type": "number", "value": "60", "suffix": "+", "label": "years: the oldest elders", "kicker": "Age range at Windover"}},
-   {"say": "Many of the adults had worn joints and arthritis, the marks of hard, physical lives spent walking, carrying and working.",
-    "shot": {"type": "xray", "focus": "left_knee", "cue": "arthritis", "label": "Joint wear", "detail": "Arthritis", "markerShape": "sphere", "subject": "Adult · Windover", "scan": "Skeletal survey"}},
-   {"say": "But one skeleton stopped the researchers in their tracks. A boy, about fifteen years old.",
-    "shot": {"type": "board", "title": "Burial file", "cards": [
-      {"kind": "polaroid", "scene": "portrait", "caption": "Male, about 15 years"},
-      {"kind": "index", "lines": ["SEX:       MALE", "AGE:       ~15 YEARS", "CONDITION: SPINA BIFIDA", "NOTE:      FOOT MISSING"], "cue": "fifteen"}]}},
-   {"say": "He had been born with spina bifida, a condition in which the spine does not form properly.",
-    "shot": {"type": "xray", "focus": "spine", "cue": "spina", "label": "Spina bifida", "detail": "Congenital spinal defect", "markerShape": "sphere", "subject": "Male · ~15 years", "scan": "Skeletal survey"}},
-   {"say": "He had also lost one of his feet, and the bone of his lower leg had healed over. He had survived that injury for a long time.",
-    "shot": {"type": "xray", "focus": "right_leg", "cue": "healed", "label": "Healed amputation", "detail": "Lower leg · bone remodeled", "markerShape": "sphere", "subject": "Male · ~15 years", "scan": "Skeletal survey"}},
-   {"say": "In a band of hunter-gatherers that moved through the landscape on foot, a child like this could not have kept up on his own. He would have needed help every single day.",
-    "shot": {"type": "checklist", "title": "To survive, he needed", "items": [
-      {"text": "Food brought to him", "mark": "check", "markCue": "help"},
-      {"text": "To be carried between camps", "mark": "check", "markCue": "every"},
-      {"text": "Care for his whole life", "mark": "check", "markCue": "day"}]}},
-   {"say": "And he got it. Someone fed him. Someone carried him. Someone cared for him, year after year, for his entire life.",
-    "shot": {"type": "statement", "text": "Someone carried him. For his entire life.", "emphasis": ["carried"]}},
-   {"say": "Seven thousand years ago, with no medicine, no metal and no writing, the people of Windover looked after their most vulnerable.",
-    "shot": {"type": "landscape", "terrain": "forest", "time": "dusk", "caption": "Florida", "sub": "c. 5200 BC"}},
-   {"say": "It is a powerful reminder that compassion is far older than civilization.",
-    "shot": {"type": "statement", "text": "Compassion is older than civilization.", "emphasis": ["compassion"]}}
-  ]},
-
-  {"num": 6, "title": "Why a Pond?", "subtitle": "The questions that remain", "beats": [
-   {"say": "Which brings us back to the strangest question of all. Why bury the dead in water?",
-    "shot": {"type": "statement", "text": "Why bury the dead in water?", "emphasis": ["water"]}},
-   {"say": "No one knows for certain. The people of Windover left no written record. Only the choices they made, preserved in the peat.",
-    "shot": {"type": "landscape", "terrain": "coast", "time": "storm", "caption": "Windover Pond", "sub": "No written record"}},
-   {"say": "We do know the pond was not used once. It was returned to again and again, generation after generation, as if it were a place that mattered deeply to them.",
-    "shot": {"type": "timeline", "events": [
-      {"date": "Generation 1", "label": "The first burials in the pond"},
-      {"date": "Centuries", "label": "The community keeps returning", "cue": "again"},
-      {"date": "168", "label": "People laid to rest in total", "cue": "generation"}], "highlight": 2}},
-   {"say": "Some see the water as a doorway, a passage between the world of the living and the world of the dead.",
-    "shot": {"type": "board", "title": "Theories", "cards": [
-      {"kind": "note", "text": "A passage to another world?", "cue": "doorway"},
-      {"kind": "polaroid", "scene": "sea", "caption": "Still water"}]}},
-   {"say": "Others think the reason was practical. Under the water, the dead were safe from animals, and safe from the heat of the Florida sun.",
-    "shot": {"type": "board", "title": "Theories", "cards": [
-      {"kind": "note", "text": "A passage to another world?"},
-      {"kind": "polaroid", "scene": "sea", "caption": "Still water"},
-      {"kind": "note", "text": "Protection from animals and heat", "cue": "practical"}]}},
-   {"say": "Perhaps it was both. A sacred place that also protected the people they loved.",
-    "shot": {"type": "statement", "text": "A sacred place that protected the people they loved.", "emphasis": ["sacred", "loved"]}},
-   {"say": "Whatever they believed, their choice worked better than they could ever have imagined.",
-    "shot": {"type": "landscape", "terrain": "coast", "time": "dawn", "caption": "Windover Pond", "sub": "7,000 years later"}}
-  ]},
-
-  {"num": 7, "title": "What the Pond Kept", "subtitle": "Windover today", "beats": [
-   {"say": "In 1987, Windover was declared a National Historic Landmark, one of the most important archaeological sites in North America.",
-    "shot": {"type": "timeline", "events": [
-      {"date": "c. 5200 BC", "label": "Burials in Windover Pond"},
-      {"date": "1982", "label": "Skulls found by a backhoe"},
-      {"date": "1984-86", "label": "Excavation of the pond"},
-      {"date": "1987", "label": "National Historic Landmark", "cue": "landmark"}], "highlight": 3}},
-   {"say": "And in a decision that still surprises people, the archaeologists did not empty the entire pond.",
-    "shot": {"type": "statement", "text": "They did not empty the entire pond.", "emphasis": ["not"]}},
-   {"say": "Part of it was deliberately left untouched, sealed in its peat, waiting for scientists with better tools and better questions than ours.",
-    "shot": {"type": "landscape", "terrain": "plains", "time": "night", "caption": "Windover Pond today", "sub": "Part of the site left untouched"}},
-   {"say": "Somewhere beneath that dark water, more of the people of Windover may still be lying exactly where they were placed. Wrapped in cloth. Pinned to the bottom. Waiting.",
-    "shot": {"type": "xray", "focus": "full", "marker": false, "subject": "Unexcavated · Windover Pond", "scan": "Still in the peat"}},
-   {"say": "One hundred and sixty-eight people. Seven thousand years. And brains that refused to disappear.",
-    "shot": {"type": "statement", "text": "168 people. 7,000 years. Brains that refused to disappear.", "emphasis": ["168", "brains"]}},
-   {"say": "The pond kept them safe for all that time. Now it is our turn to remember them.",
-    "shot": {"type": "title", "title": "Windover", "subtitle": "Titusville, Florida · c. 5200 BC", "kicker": "Remember them"}}
-  ]}
+  {
+   "title": "Cold open",
+   "beats": [
+    {
+     "say": "In 1982, a man clearing land for a new road in central Florida dipped his backhoe into a small, muddy pond.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "plains",
+      "time": "dusk",
+      "caption": "Central Florida",
+      "sub": "1982"
+     }
+    },
+    {
+     "say": "When the bucket came up, something pale was sitting in the black mud. Human skulls. Not one. Several.",
+     "shot": {
+      "type": "statement",
+      "text": "Human skulls. Not one. Several.",
+      "emphasis": [
+       "skulls",
+       "several"
+      ]
+     }
+    },
+    {
+     "say": "The police were called. Everyone assumed it was a crime scene. A forgotten murder, perhaps, or an old family cemetery nobody had written down.",
+     "shot": {
+      "type": "board",
+      "title": "Windover pond",
+      "cards": [
+       {
+        "kind": "clip",
+        "source": "Local news",
+        "headline": "Skulls found at construction site",
+        "cue": "police"
+       },
+       {
+        "kind": "note",
+        "text": "Homicide?",
+        "cue": "murder"
+       },
+       {
+        "kind": "note",
+        "text": "Old family cemetery?",
+        "cue": "cemetery"
+       }
+      ]
+     }
+    },
+    {
+     "say": "But these bones were not decades old. They were more than seven thousand years old.",
+     "shot": {
+      "type": "number",
+      "value": "7000",
+      "suffix": "+",
+      "label": "years old",
+      "kicker": "Age of the bones"
+     }
+    },
+    {
+     "say": "And when scientists looked inside the skulls, they found something that should not exist.",
+     "shot": {
+      "type": "xray",
+      "focus": "skull",
+      "cue": "something",
+      "label": "Soft tissue detected",
+      "detail": "Inside the cranium",
+      "markerShape": "sphere",
+      "subject": "Windover burial",
+      "scan": "Cranial scan"
+     }
+    },
+    {
+     "say": "Human brains. Shrunken and dark, but still there, after seven thousand years under water.",
+     "shot": {
+      "type": "statement",
+      "text": "Human brains. Still there after 7,000 years.",
+      "emphasis": [
+       "brains"
+      ]
+     }
+    },
+    {
+     "say": "In the end, the pond gave up one hundred and sixty-eight people. This is the story of Windover, and of the people who were laid to rest beneath it.",
+     "shot": {
+      "type": "title",
+      "title": "The Windover Pond",
+      "subtitle": "168 bodies · 7,000 years · brains intact",
+      "kicker": "A documentary"
+     }
+    }
+   ]
+  },
+  {
+   "num": 1,
+   "title": "Skulls in the Bucket",
+   "subtitle": "Titusville, Florida · 1982",
+   "beats": [
+    {
+     "say": "The pond sat near the town of Titusville, on Florida's Atlantic coast, just across the water from where rockets now launch into space.",
+     "shot": {
+      "type": "map",
+      "place": "Windover Pond",
+      "coords": "28.6° N, 80.8° W",
+      "region": "Titusville, Florida",
+      "terrain": "coast",
+      "cue": "Titusville"
+     }
+    },
+    {
+     "say": "The land was being cleared for a housing development called Windover Farms, and the plan was simple. Fill in the pond, build a road over it.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "forest",
+      "time": "day",
+      "caption": "Windover Farms",
+      "sub": "Brevard County, Florida"
+     }
+    },
+    {
+     "say": "The medical examiner took one look at the bones and ruled out a modern crime. These were old. The only question was how old.",
+     "shot": {
+      "type": "checklist",
+      "title": "Medical examiner",
+      "subtitle": "First assessment",
+      "items": [
+       {
+        "text": "Recent homicide",
+        "mark": "cross",
+        "markCue": "crime"
+       },
+       {
+        "text": "Old burial",
+        "mark": "check",
+        "markCue": "old"
+       },
+       {
+        "text": "Age of remains",
+        "mark": "question"
+       }
+      ]
+     }
+    },
+    {
+     "say": "What the developers did next was unusual. Instead of quietly pouring concrete over the problem, they stopped work and paid for scientific dating.",
+     "shot": {
+      "type": "board",
+      "title": "Windover pond",
+      "cards": [
+       {
+        "kind": "index",
+        "lines": [
+         "SITE:     WINDOVER POND",
+         "STATUS:   WORK HALTED",
+         "ACTION:   RADIOCARBON TEST",
+         "SAMPLES:  2 BONES"
+        ],
+        "cue": "stopped"
+       },
+       {
+        "kind": "polaroid",
+        "scene": "forest",
+        "caption": "Windover Farms, 1982"
+       }
+      ]
+     }
+    },
+    {
+     "say": "For a moment, the future of the site depended on a few people deciding that the past mattered more than a construction schedule.",
+     "shot": {
+      "type": "statement",
+      "text": "The past mattered more than the schedule.",
+      "emphasis": [
+       "past"
+      ]
+     }
+    },
+    {
+     "say": "Two bones were sent to a laboratory for radiocarbon testing. The results came back at about seven thousand two hundred and seven thousand three hundred years.",
+     "shot": {
+      "type": "bars",
+      "title": "Radiocarbon results (years before present)",
+      "items": [
+       {
+        "label": "Bone sample 1",
+        "value": 7210
+       },
+       {
+        "label": "Bone sample 2",
+        "value": 7320
+       }
+      ],
+      "highlight": 1
+     }
+    },
+    {
+     "say": "That makes these people older than writing. Older than Stonehenge. Older than the Great Pyramid of Egypt by more than two thousand years.",
+     "shot": {
+      "type": "timeline",
+      "events": [
+       {
+        "date": "c. 5200 BC",
+        "label": "People are buried in Windover Pond"
+       },
+       {
+        "date": "c. 3200 BC",
+        "label": "Writing is invented",
+        "cue": "writing"
+       },
+       {
+        "date": "c. 3000 BC",
+        "label": "Work begins at Stonehenge",
+        "cue": "stonehenge"
+       },
+       {
+        "date": "c. 2560 BC",
+        "label": "The Great Pyramid of Giza",
+        "cue": "pyramid"
+       }
+      ],
+      "highlight": 0
+     }
+    },
+    {
+     "say": "When the Windover people were laid in this pond, there were no empires anywhere on Earth. No kings, no alphabet, no written word. On the other side of the world, farming villages were still slowly spreading across Europe.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "plains",
+      "time": "dawn",
+      "caption": "The world in 5200 BC",
+      "sub": "Before cities, kings or writing"
+     }
+    },
+    {
+     "say": "And one more thing was already clear. These people had not been dumped in the pond. They had been placed there, carefully, one by one.",
+     "shot": {
+      "type": "statement",
+      "text": "They had been placed there. One by one.",
+      "emphasis": [
+       "placed"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "title": "Draining a Graveyard",
+   "subtitle": "The excavation · 1984 – 1986",
+   "beats": [
+    {
+     "say": "Archaeologists from Florida State University took over the site. But they faced a problem no textbook had an answer for. Their cemetery was underwater.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "coast",
+      "time": "dawn",
+      "caption": "Windover Pond",
+      "sub": "A cemetery under water"
+     }
+    },
+    {
+     "say": "Digging blind through mud and water would destroy the very thing they wanted to study. So they came up with an engineering solution.",
+     "shot": {
+      "type": "statement",
+      "text": "How do you excavate a pond?",
+      "emphasis": [
+       "pond"
+      ]
+     }
+    },
+    {
+     "say": "The team surrounded the pond with a ring of one hundred and sixty wells.",
+     "shot": {
+      "type": "number",
+      "value": "160",
+      "label": "wells around the pond",
+      "kicker": "The dewatering system"
+     }
+    },
+    {
+     "say": "Without them, every shovel of peat would have filled with water the moment it was lifted. With them, the bottom of the pond slowly became a dig site.",
+     "shot": {
+      "type": "map",
+      "place": "Windover Pond",
+      "coords": "Ring of 160 wells",
+      "region": "Dewatering the site",
+      "terrain": "plains",
+      "cue": "shovel"
+     }
+    },
+    {
+     "say": "Pumps drew the groundwater down, lowering the water table until the peat at the bottom of the pond could be reached and excavated by hand.",
+     "shot": {
+      "type": "checklist",
+      "title": "Excavation plan",
+      "subtitle": "Windover, 1984",
+      "items": [
+       {
+        "text": "Drill 160 wells",
+        "mark": "check",
+        "markCue": "pumps"
+       },
+       {
+        "text": "Lower the water table",
+        "mark": "check",
+        "markCue": "lowering"
+       },
+       {
+        "text": "Excavate the peat by hand",
+        "mark": "check",
+        "markCue": "hand"
+       }
+      ]
+     }
+    },
+    {
+     "say": "Season after season, they worked down through the peat, recording the exact position of every bone before anything was lifted.",
+     "shot": {
+      "type": "board",
+      "title": "Field records",
+      "cards": [
+       {
+        "kind": "polaroid",
+        "scene": "lab",
+        "caption": "Field season, 1985"
+       },
+       {
+        "kind": "index",
+        "lines": [
+         "GRID:     N12 / E07",
+         "DEPTH:    PEAT LAYER",
+         "BURIAL:   ARTICULATED",
+         "RECORD:   IN SITU"
+        ]
+       },
+       {
+        "kind": "note",
+        "text": "Map every bone before lifting."
+       }
+      ]
+     }
+    },
+    {
+     "say": "And everything had to be handled with extreme care. Material that has spent thousands of years under water can crack and crumble quickly once it is exposed to open air.",
+     "shot": {
+      "type": "checklist",
+      "title": "Handling the finds",
+      "subtitle": "Field conservation",
+      "items": [
+       {
+        "text": "Keep everything wet",
+        "mark": "check",
+        "markCue": "water"
+       },
+       {
+        "text": "Lift slowly, by hand",
+        "mark": "check",
+        "markCue": "care"
+       },
+       {
+        "text": "Never let it dry out",
+        "mark": "check",
+        "markCue": "crumble"
+       }
+      ]
+     }
+    },
+    {
+     "say": "What emerged was not a jumble of bones. It was an organized cemetery.",
+     "shot": {
+      "type": "statement",
+      "text": "Not a jumble of bones. A cemetery.",
+      "emphasis": [
+       "cemetery"
+      ]
+     }
+    },
+    {
+     "say": "About a hundred of the burials had never been disturbed. Their skeletons were still fully articulated, every bone still lying next to the one it once joined.",
+     "shot": {
+      "type": "xray",
+      "focus": "full",
+      "marker": false,
+      "subject": "Burial · fully articulated",
+      "scan": "Skeletal survey"
+     }
+    },
+    {
+     "say": "Most of the dead had been laid on their sides, with their knees drawn up toward the chest, as if they were asleep.",
+     "shot": {
+      "type": "document",
+      "heading": "Burial position",
+      "style": "typed",
+      "lines": [
+       "Body placed on its side.",
+       "Knees drawn up toward the chest.",
+       "Wrapped in woven material.",
+       "Covered by peat at the bottom of the pond."
+      ],
+      "highlight": [
+       "Knees drawn up toward the chest."
+      ],
+      "caption": "Typical burial",
+      "sub": "Windover Pond"
+     }
+    },
+    {
+     "say": "And many of them had been pinned in place. Sharpened wooden stakes had been driven down through their wrappings and into the peat below.",
+     "shot": {
+      "type": "artifact",
+      "object": "stake",
+      "label": "Sharpened wooden stake",
+      "detail": "Driven through the burial wrappings"
+     }
+    },
+    {
+     "say": "Why would anyone stake the dead to the bottom of a pond? One explanation is practical. A body underwater can float back to the surface. The stakes held them down.",
+     "shot": {
+      "type": "checklist",
+      "title": "Why the stakes?",
+      "subtitle": "Open question",
+      "items": [
+       {
+        "text": "Keep bodies from floating up",
+        "mark": "check",
+        "markCue": "held"
+       },
+       {
+        "text": "Mark or protect the graves",
+        "mark": "question"
+       },
+       {
+        "text": "A ritual we do not understand",
+        "mark": "question"
+       }
+      ]
+     }
+    },
+    {
+     "say": "Whatever the reason, the people of Windover chose water as the resting place for their dead. And that water would keep their secret for seven thousand years.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "coast",
+      "time": "night",
+      "caption": "Windover Pond",
+      "sub": "c. 5200 BC"
+     }
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "title": "Brains in the Peat",
+   "subtitle": "Why nothing rotted",
+   "beats": [
+    {
+     "say": "As the skulls were lifted out of the peat, the excavators realized that something was still inside them.",
+     "shot": {
+      "type": "statement",
+      "text": "Something was still inside.",
+      "emphasis": [
+       "inside"
+      ]
+     }
+    },
+    {
+     "say": "In ninety-one of the skulls, the excavators found preserved human brain tissue.",
+     "shot": {
+      "type": "number",
+      "value": "91",
+      "label": "skulls with brain tissue",
+      "kicker": "Windover Pond"
+     }
+    },
+    {
+     "say": "The brains had shrunk and darkened, but their shape and folds could still be made out. And that should have been impossible. Brain tissue is usually one of the first parts of the body to decay.",
+     "shot": {
+      "type": "xray",
+      "focus": "skull",
+      "cue": "folds",
+      "label": "Brain tissue",
+      "detail": "Shrunken · structure intact",
+      "markerShape": "sphere",
+      "subject": "Windover burial",
+      "scan": "Cranial scan"
+     }
+    },
+    {
+     "say": "So how did a human brain survive for seven thousand years?",
+     "shot": {
+      "type": "statement",
+      "text": "How did a brain survive 7,000 years?",
+      "emphasis": [
+       "7,000"
+      ]
+     }
+    },
+    {
+     "say": "The answer lies in the pond itself. The peat at the bottom was waterlogged and starved of oxygen, so the microbes that normally break a body down could barely work.",
+     "shot": {
+      "type": "checklist",
+      "title": "Conditions in the peat",
+      "subtitle": "Why decay stopped",
+      "items": [
+       {
+        "text": "Waterlogged peat",
+        "mark": "check",
+        "markCue": "waterlogged"
+       },
+       {
+        "text": "Almost no oxygen",
+        "mark": "check",
+        "markCue": "oxygen"
+       },
+       {
+        "text": "Microbes held back",
+        "mark": "check",
+        "markCue": "microbes"
+       }
+      ]
+     }
+    },
+    {
+     "say": "The bodies also seem to have gone into the water soon after death. The bones show no marks from scavengers, so animals never had the chance to reach them.",
+     "shot": {
+      "type": "board",
+      "title": "The evidence",
+      "cards": [
+       {
+        "kind": "index",
+        "lines": [
+         "SCAVENGER MARKS:  NONE",
+         "BURIAL:  SOON AFTER DEATH",
+         "ENVIRONMENT:  NO OXYGEN"
+        ],
+        "cue": "scavengers"
+       },
+       {
+        "kind": "note",
+        "text": "Animals never reached them.",
+        "cue": "animals"
+       }
+      ]
+     }
+    },
+    {
+     "say": "There was one more crucial ingredient. Europe's famous bog bodies kept their skin, but the acidic water of those bogs slowly dissolved their bones.",
+     "shot": {
+      "type": "board",
+      "title": "Two kinds of bog",
+      "cards": [
+       {
+        "kind": "clip",
+        "source": "Northern Europe",
+        "headline": "Bog bodies: skin preserved, bones dissolved",
+        "cue": "europe"
+       },
+       {
+        "kind": "polaroid",
+        "scene": "forest",
+        "caption": "Peat bog, northern Europe"
+       }
+      ]
+     }
+    },
+    {
+     "say": "At Windover, the water was close to neutral. The skin and flesh were gone, but the bones survived, and so did what was sealed inside the skulls.",
+     "shot": {
+      "type": "statement",
+      "text": "Neutral water. The bones survived. So did the brains.",
+      "emphasis": [
+       "brains"
+      ]
+     }
+    },
+    {
+     "say": "Then came the discovery that made Windover famous among scientists around the world.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "coast",
+      "time": "dusk",
+      "caption": "Windover Pond",
+      "sub": "Titusville, Florida"
+     }
+    },
+    {
+     "say": "In 1988, researchers announced that they had recovered DNA from one of the Windover brains, one of the oldest human genetic samples ever studied at the time.",
+     "shot": {
+      "type": "molecule",
+      "rings": 2,
+      "extra": [
+       "N",
+       "O",
+       "N"
+      ],
+      "name": "Ancient DNA",
+      "formula": "Recovered from a 7,000-year-old brain · 1988"
+     }
+    },
+    {
+     "say": "At the time, this was cutting-edge science. Only four years earlier, researchers had recovered DNA from an extinct animal for the very first time. Ancient human DNA was a brand new frontier.",
+     "shot": {
+      "type": "timeline",
+      "events": [
+       {
+        "date": "1984",
+        "label": "First DNA from an extinct animal",
+        "cue": "earlier"
+       },
+       {
+        "date": "1988",
+        "label": "DNA from a Windover brain",
+        "cue": "frontier"
+       }
+      ],
+      "highlight": 1
+     }
+    },
+    {
+     "say": "It was a message written in genes, sent from people who lived thousands of years before Columbus, before the pyramids, before almost everything we call history.",
+     "shot": {
+      "type": "statement",
+      "text": "A message written in genes.",
+      "emphasis": [
+       "genes"
+      ]
+     }
+    },
+    {
+     "say": "And the DNA confirmed what the burials already suggested. These were ancient Native Americans, part of a long story that stretches back to the first people in the Americas.",
+     "shot": {
+      "type": "board",
+      "title": "Genetic results",
+      "cards": [
+       {
+        "kind": "index",
+        "lines": [
+         "SOURCE:    BRAIN TISSUE",
+         "MATERIAL:  ANCIENT DNA",
+         "RESULT:    NATIVE AMERICAN",
+         "AGE:       c. 7,000 YEARS"
+        ],
+        "cue": "dna"
+       },
+       {
+        "kind": "polaroid",
+        "scene": "portrait",
+        "caption": "Windover, c. 5200 BC",
+        "cue": "ancient"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "title": "Woven for the Dead",
+   "subtitle": "What they buried with them",
+   "beats": [
+    {
+     "say": "The pond preserved something else that almost never survives from the Stone Age. Cloth.",
+     "shot": {
+      "type": "statement",
+      "text": "Cloth. Seven thousand years old.",
+      "emphasis": [
+       "cloth"
+      ]
+     }
+    },
+    {
+     "say": "Thirty-seven of the graves contained woven fabric. Eighty-six pieces in all, made from plant fibers.",
+     "shot": {
+      "type": "bars",
+      "title": "Textiles recovered",
+      "items": [
+       {
+        "label": "Graves with fabric",
+        "value": 37
+       },
+       {
+        "label": "Fabric pieces",
+        "value": 86
+       }
+      ],
+      "highlight": 1
+     }
+    },
+    {
+     "say": "The dead had been wrapped in it before burial. Some were bundled in tight, finely made weaves. Others in looser, more open ones.",
+     "shot": {
+      "type": "photo",
+      "scene": "forest",
+      "bw": true,
+      "layout": "desk",
+      "caption": "Burial wrappings",
+      "credit": "Woven plant fiber"
+     }
+    },
+    {
+     "say": "Think about what that cloth required. Plant fibers had to be gathered, processed, twisted into cord and then woven by hand. A single burial wrap could represent many hours of work.",
+     "shot": {
+      "type": "checklist",
+      "title": "Making the cloth",
+      "subtitle": "Every step by hand",
+      "items": [
+       {
+        "text": "Gather plant fibers",
+        "mark": "check",
+        "markCue": "gathered"
+       },
+       {
+        "text": "Twist them into cord",
+        "mark": "check",
+        "markCue": "twisted"
+       },
+       {
+        "text": "Weave by hand",
+        "mark": "check",
+        "markCue": "woven"
+       }
+      ]
+     }
+    },
+    {
+     "say": "The weaving was complex, using several different techniques. These were skilled craftspeople, and their textiles are among the oldest of their kind ever found.",
+     "shot": {
+      "type": "statement",
+      "text": "Among the oldest woven textiles ever found.",
+      "emphasis": [
+       "oldest"
+      ]
+     }
+    },
+    {
+     "say": "And that work was not spent on clothing for the living. It was spent on the dead. That tells us something about how much these people mattered to each other.",
+     "shot": {
+      "type": "statement",
+      "text": "That work was spent on the dead.",
+      "emphasis": [
+       "dead"
+      ]
+     }
+    },
+    {
+     "say": "Alongside the bodies lay the objects of everyday life. Tools of bone and antler. Shark teeth. Pieces of bottle gourd, used as containers.",
+     "shot": {
+      "type": "artifact",
+      "object": "bone",
+      "label": "Bone and antler tools",
+      "detail": "Buried with the dead"
+     }
+    },
+    {
+     "say": "These people had no metal and no pottery. Everything they made came from the land, the water and the animals around them.",
+     "shot": {
+      "type": "artifact",
+      "object": "jar",
+      "material": "wood",
+      "label": "No pottery, no metal",
+      "detail": "Containers came from nature"
+     }
+    },
+    {
+     "say": "They lived from Florida's rivers, marshes and coast, moving with the seasons and returning, again and again, to this one small pond.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "coast",
+      "time": "day",
+      "caption": "Florida's Atlantic coast",
+      "sub": "The world of the Windover people"
+     }
+    },
+    {
+     "say": "The care in these burials is unmistakable. The wrapping, the objects, the careful placement. This was a community that honored its dead.",
+     "shot": {
+      "type": "checklist",
+      "title": "Signs of ceremony",
+      "subtitle": "Windover burials",
+      "items": [
+       {
+        "text": "Bodies wrapped in woven cloth",
+        "mark": "check",
+        "markCue": "wrapping"
+       },
+       {
+        "text": "Objects placed with the dead",
+        "mark": "check",
+        "markCue": "objects"
+       },
+       {
+        "text": "Careful burial position",
+        "mark": "check",
+        "markCue": "placement"
+       }
+      ],
+      "stamp": {
+       "text": "Honored",
+       "cue": "honored"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "title": "The Boy Who Was Carried",
+   "subtitle": "Life and death at Windover",
+   "beats": [
+    {
+     "say": "The bones also tell personal stories. The people buried here ranged from newborn babies to elders more than sixty years old.",
+     "shot": {
+      "type": "number",
+      "value": "60",
+      "suffix": "+",
+      "label": "years: the oldest elders",
+      "kicker": "Age range at Windover"
+     }
+    },
+    {
+     "say": "Children were buried here too, many of them. In a world without medicine, childhood was dangerous, and the pond holds that loss alongside everything else.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "forest",
+      "time": "dawn",
+      "caption": "Windover",
+      "sub": "Every age, every generation"
+     }
+    },
+    {
+     "say": "Many of the adults had worn joints and arthritis, the marks of hard, physical lives spent walking, carrying and working.",
+     "shot": {
+      "type": "xray",
+      "focus": "left_knee",
+      "cue": "arthritis",
+      "label": "Joint wear",
+      "detail": "Arthritis",
+      "markerShape": "sphere",
+      "subject": "Adult · Windover",
+      "scan": "Skeletal survey"
+     }
+    },
+    {
+     "say": "But one skeleton stopped the researchers in their tracks. A boy, about fifteen years old.",
+     "shot": {
+      "type": "board",
+      "title": "Burial file",
+      "cards": [
+       {
+        "kind": "polaroid",
+        "scene": "portrait",
+        "caption": "Male, about 15 years"
+       },
+       {
+        "kind": "index",
+        "lines": [
+         "SEX:       MALE",
+         "AGE:       ~15 YEARS",
+         "CONDITION: SPINA BIFIDA",
+         "NOTE:      FOOT MISSING"
+        ],
+        "cue": "fifteen"
+       }
+      ]
+     }
+    },
+    {
+     "say": "He had been born with spina bifida, a condition in which the spine does not form properly.",
+     "shot": {
+      "type": "xray",
+      "focus": "spine",
+      "cue": "spina",
+      "label": "Spina bifida",
+      "detail": "Congenital spinal defect",
+      "markerShape": "sphere",
+      "subject": "Male · ~15 years",
+      "scan": "Skeletal survey"
+     }
+    },
+    {
+     "say": "He had also lost one of his feet, and the bone of his lower leg had healed over. He had survived that injury for a long time.",
+     "shot": {
+      "type": "xray",
+      "focus": "right_leg",
+      "cue": "healed",
+      "label": "Healed amputation",
+      "detail": "Lower leg · bone remodeled",
+      "markerShape": "sphere",
+      "subject": "Male · ~15 years",
+      "scan": "Skeletal survey"
+     }
+    },
+    {
+     "say": "In a band of hunter-gatherers that moved through the landscape on foot, a child like this could not have kept up on his own. He would have needed help every single day.",
+     "shot": {
+      "type": "checklist",
+      "title": "To survive, he needed",
+      "items": [
+       {
+        "text": "Food brought to him",
+        "mark": "check",
+        "markCue": "help"
+       },
+       {
+        "text": "To be carried between camps",
+        "mark": "check",
+        "markCue": "every"
+       },
+       {
+        "text": "Care for his whole life",
+        "mark": "check",
+        "markCue": "day"
+       }
+      ]
+     }
+    },
+    {
+     "say": "And he got it. Someone fed him. Someone carried him. Someone cared for him, year after year, for his entire life.",
+     "shot": {
+      "type": "statement",
+      "text": "Someone carried him. For his entire life.",
+      "emphasis": [
+       "carried"
+      ]
+     }
+    },
+    {
+     "say": "Think about what that meant in practice. Every time the group moved, someone had to carry him. Every meal, someone made sure he ate. Not for a week or a season, but for fifteen years.",
+     "shot": {
+      "type": "number",
+      "value": "15",
+      "label": "years of care",
+      "kicker": "Day after day"
+     }
+    },
+    {
+     "say": "Seven thousand years ago, with no medicine, no metal and no writing, the people of Windover looked after their most vulnerable.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "forest",
+      "time": "dusk",
+      "caption": "Florida",
+      "sub": "c. 5200 BC"
+     }
+    },
+    {
+     "say": "It is a powerful reminder that compassion is far older than civilization.",
+     "shot": {
+      "type": "statement",
+      "text": "Compassion is older than civilization.",
+      "emphasis": [
+       "compassion"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "title": "Why a Pond?",
+   "subtitle": "The questions that remain",
+   "beats": [
+    {
+     "say": "Which brings us back to the strangest question of all. Why bury the dead in water?",
+     "shot": {
+      "type": "statement",
+      "text": "Why bury the dead in water?",
+      "emphasis": [
+       "water"
+      ]
+     }
+    },
+    {
+     "say": "No one knows for certain. The people of Windover left no written record. Only the choices they made, preserved in the peat.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "coast",
+      "time": "storm",
+      "caption": "Windover Pond",
+      "sub": "No written record"
+     }
+    },
+    {
+     "say": "Burying the dead underwater is rare in the archaeological record. Most ancient people buried their dead in the ground, in caves or in mounds. Windover is different, and that difference is part of its mystery.",
+     "shot": {
+      "type": "checklist",
+      "title": "Ancient burial practices",
+      "subtitle": "How Windover differs",
+      "items": [
+       {
+        "text": "In the ground",
+        "mark": "cross",
+        "markCue": "ground"
+       },
+       {
+        "text": "In caves or mounds",
+        "mark": "cross",
+        "markCue": "mounds"
+       },
+       {
+        "text": "Under the water of a pond",
+        "mark": "check",
+        "markCue": "different"
+       }
+      ]
+     }
+    },
+    {
+     "say": "We do know the pond was not used once. It was returned to again and again, generation after generation, as if it were a place that mattered deeply to them.",
+     "shot": {
+      "type": "timeline",
+      "events": [
+       {
+        "date": "Generation 1",
+        "label": "The first burials in the pond"
+       },
+       {
+        "date": "Centuries",
+        "label": "The community keeps returning",
+        "cue": "again"
+       },
+       {
+        "date": "168",
+        "label": "People laid to rest in total",
+        "cue": "generation"
+       }
+      ],
+      "highlight": 2
+     }
+    },
+    {
+     "say": "Some see the water as a doorway, a passage between the world of the living and the world of the dead.",
+     "shot": {
+      "type": "board",
+      "title": "Theories",
+      "cards": [
+       {
+        "kind": "note",
+        "text": "A passage to another world?",
+        "cue": "doorway"
+       },
+       {
+        "kind": "polaroid",
+        "scene": "sea",
+        "caption": "Still water"
+       }
+      ]
+     }
+    },
+    {
+     "say": "Others think the reason was practical. Under the water, the dead were safe from animals, and safe from the heat of the Florida sun.",
+     "shot": {
+      "type": "board",
+      "title": "Theories",
+      "cards": [
+       {
+        "kind": "note",
+        "text": "A passage to another world?"
+       },
+       {
+        "kind": "polaroid",
+        "scene": "sea",
+        "caption": "Still water"
+       },
+       {
+        "kind": "note",
+        "text": "Protection from animals and heat",
+        "cue": "practical"
+       }
+      ]
+     }
+    },
+    {
+     "say": "Perhaps it was both. A sacred place that also protected the people they loved.",
+     "shot": {
+      "type": "statement",
+      "text": "A sacred place that protected the people they loved.",
+      "emphasis": [
+       "sacred",
+       "loved"
+      ]
+     }
+    },
+    {
+     "say": "Whatever they believed, their choice worked better than they could ever have imagined.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "coast",
+      "time": "dawn",
+      "caption": "Windover Pond",
+      "sub": "7,000 years later"
+     }
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "title": "What the Pond Kept",
+   "subtitle": "Windover today",
+   "beats": [
+    {
+     "say": "In 1987, Windover was declared a National Historic Landmark, one of the most important archaeological sites in North America.",
+     "shot": {
+      "type": "timeline",
+      "events": [
+       {
+        "date": "c. 5200 BC",
+        "label": "Burials in Windover Pond"
+       },
+       {
+        "date": "1982",
+        "label": "Skulls found by a backhoe"
+       },
+       {
+        "date": "1984-86",
+        "label": "Excavation of the pond"
+       },
+       {
+        "date": "1987",
+        "label": "National Historic Landmark",
+        "cue": "landmark"
+       }
+      ],
+      "highlight": 3
+     }
+    },
+    {
+     "say": "Today, the people of Windover are also part of a larger conversation. These were ancestors of Native American communities, and many people believe their remains deserve not just study, but respect.",
+     "shot": {
+      "type": "statement",
+      "text": "Not just study. Respect.",
+      "emphasis": [
+       "respect"
+      ]
+     }
+    },
+    {
+     "say": "How to balance scientific discovery with the wishes of Indigenous people is a question archaeology is still learning to answer. Windover is part of that story too.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "coast",
+      "time": "dusk",
+      "caption": "Windover Pond",
+      "sub": "Ancestors, not just specimens"
+     }
+    },
+    {
+     "say": "And in a decision that still surprises people, the archaeologists did not empty the entire pond.",
+     "shot": {
+      "type": "statement",
+      "text": "They did not empty the entire pond.",
+      "emphasis": [
+       "not"
+      ]
+     }
+    },
+    {
+     "say": "Part of it was deliberately left untouched, sealed in its peat, waiting for scientists with better tools and better questions than ours.",
+     "shot": {
+      "type": "landscape",
+      "terrain": "plains",
+      "time": "night",
+      "caption": "Windover Pond today",
+      "sub": "Part of the site left untouched"
+     }
+    },
+    {
+     "say": "Somewhere beneath that dark water, more of the people of Windover may still be lying exactly where they were placed. Wrapped in cloth. Pinned to the bottom. Waiting.",
+     "shot": {
+      "type": "xray",
+      "focus": "full",
+      "marker": false,
+      "subject": "Unexcavated · Windover Pond",
+      "scan": "Still in the peat"
+     }
+    },
+    {
+     "say": "One hundred and sixty-eight people. Seven thousand years. And brains that refused to disappear.",
+     "shot": {
+      "type": "statement",
+      "text": "168 people. 7,000 years. Brains that refused to disappear.",
+      "emphasis": [
+       "168",
+       "brains"
+      ]
+     }
+    },
+    {
+     "say": "The pond kept them safe for all that time. Now it is our turn to remember them.",
+     "shot": {
+      "type": "title",
+      "title": "Windover",
+      "subtitle": "Titusville, Florida · c. 5200 BC",
+      "kicker": "Remember them"
+     }
+    }
+   ]
+  }
  ]
 }
