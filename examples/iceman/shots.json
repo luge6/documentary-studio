@@ -1,0 +1,15 @@
+{
+ "title": "The Iceman Test",
+ "fps": 24,
+ "chapters": [
+  {"title": "Cold open", "beats": [
+    {"say": "In 1991, hikers found a frozen man in the Alps.", "shot": {"type": "landscape", "terrain": "mountain", "time": "dusk", "caption": "Ötztal Alps", "sub": "September 1991"}},
+    {"say": "Five thousand three hundred years old.", "shot": {"type": "number", "value": "5300", "label": "years old", "kicker": "Radiocarbon date", "timeline": {"from": "3300 BC", "to": "1991"}}}
+  ]},
+  {"num": 1, "title": "The Wrong Answer", "subtitle": "1991 – 2001", "beats": [
+    {"say": "For a decade, experts believed he died from the cold.", "shot": {"type": "checklist", "title": "Cause of death", "items": [{"text": "Exposure / hypothermia", "mark": "check", "markCue": "cold"}, {"text": "Violent death", "mark": "question"}], "stamp": {"text": "Presumed", "cue": "cold"}}},
+    {"say": "Then a scan revealed what was hidden in his shoulder...", "shot": {"type": "xray", "focus": "left_shoulder", "cue": "shoulder", "label": "Foreign object detected", "detail": "Left shoulder"}},
+    {"say": "an arrowhead.", "shot": {"type": "artifact", "object": "arrowhead", "label": "Flint arrowhead", "detail": "Lodged beneath the left shoulder blade"}}
+  ]}
+ ]
+}
