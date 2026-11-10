@@ -1,0 +1,6 @@
+voiceover.*
+words.json
+build/
+qc/
+render.log
+final.mp4

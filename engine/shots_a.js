@@ -107,7 +107,9 @@ export function statement(d, S) {
       words.push({ m, w: key, y: m.position.y }); x += textWidth(w + ' ', 'serif', size);
     });
   });
-  const times = S.reveal(words.map(w => ({ cue: w.w })), 0.02, 0.6);
+  // Words cascade in quickly and always complete (statement text often paraphrases the narration).
+  const step = Math.min(0.16, (S.dur * 0.35) / Math.max(1, words.length));
+  const times = words.map((_, i) => 0.15 + i * step);
   let kick; if (d.kicker) { const kt = labelTex(String(d.kicker).toUpperCase()); kick = texPlane(12, 1.5, kt.tex, { lit: false }); kick.position.set(0, (lines.length / 2) * size * 1.35 + 0.6, 0); scene.add(kick); }
   spot(scene, { color: 0xffd3a0, intensity: 5, pos: [-2, 7, 8], target: [0, 0, 0], angle: 0.6 });
   spot(scene, { color: 0x86a8ff, intensity: 1.4, pos: [4, 5, -6], target: [0, 0.8, 0], angle: 0.4, shadow: false });

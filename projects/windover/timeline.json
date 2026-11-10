@@ -1,0 +1,10622 @@
+{
+ "title": "168 Bodies Found in a Florida Pond With Brains Intact After 7000 Years",
+ "fps": 24,
+ "duration": 620.699,
+ "burnSubtitles": false,
+ "voice": {
+  "file": "voiceover.mp3",
+  "pieces": [
+   [
+    0.0,
+    46.06,
+    0.0
+   ],
+   [
+    46.06,
+    120.3,
+    49.56
+   ],
+   [
+    120.3,
+    213.79,
+    127.3
+   ],
+   [
+    213.79,
+    316.22,
+    224.29
+   ],
+   [
+    316.22,
+    395.61,
+    330.22
+   ],
+   [
+    395.61,
+    476.58,
+    413.11
+   ],
+   [
+    476.58,
+    532.2,
+    497.58
+   ],
+   [
+    532.2,
+    593.699,
+    556.7
+   ]
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Intro",
+   "start": 0.0
+  },
+  {
+   "title": "Skulls in the Bucket",
+   "start": 46.06
+  },
+  {
+   "title": "Draining a Graveyard",
+   "start": 123.8
+  },
+  {
+   "title": "Brains in the Peat",
+   "start": 220.79
+  },
+  {
+   "title": "Woven for the Dead",
+   "start": 326.72
+  },
+  {
+   "title": "The Boy Who Was Carried",
+   "start": 409.61
+  },
+  {
+   "title": "Why a Pond?",
+   "start": 494.08
+  },
+  {
+   "title": "What the Pond Kept",
+   "start": 553.2
+  }
+ ],
+ "shots": [
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "plains",
+    "time": "dusk",
+    "caption": "Central Florida",
+    "sub": "1982"
+   },
+   "start": 0.0,
+   "transition": "cut",
+   "chapter": 0,
+   "beat": 0,
+   "end": 7.34,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.0
+    },
+    {
+     "w": "1982,",
+     "t": 0.34
+    },
+    {
+     "w": "a",
+     "t": 1.64
+    },
+    {
+     "w": "man",
+     "t": 1.76
+    },
+    {
+     "w": "clearing",
+     "t": 1.98
+    },
+    {
+     "w": "land",
+     "t": 2.28
+    },
+    {
+     "w": "for",
+     "t": 2.66
+    },
+    {
+     "w": "a",
+     "t": 2.86
+    },
+    {
+     "w": "new",
+     "t": 2.98
+    },
+    {
+     "w": "road",
+     "t": 3.12
+    },
+    {
+     "w": "in",
+     "t": 3.38
+    },
+    {
+     "w": "central",
+     "t": 3.58
+    },
+    {
+     "w": "Florida",
+     "t": 3.86
+    },
+    {
+     "w": "dipped",
+     "t": 4.32
+    },
+    {
+     "w": "his",
+     "t": 4.78
+    },
+    {
+     "w": "backhoe",
+     "t": 5.0
+    },
+    {
+     "w": "into",
+     "t": 5.42
+    },
+    {
+     "w": "a",
+     "t": 5.62
+    },
+    {
+     "w": "small,",
+     "t": 5.8
+    },
+    {
+     "w": "muddy",
+     "t": 6.3
+    },
+    {
+     "w": "pond.",
+     "t": 6.36
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Human skulls. Not one. Several.",
+    "emphasis": [
+     "skulls",
+     "several"
+    ]
+   },
+   "start": 7.34,
+   "transition": "cut",
+   "chapter": 0,
+   "beat": 1,
+   "end": 14.0,
+   "words": [
+    {
+     "w": "When",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.28
+    },
+    {
+     "w": "bucket",
+     "t": 0.4
+    },
+    {
+     "w": "came",
+     "t": 0.56
+    },
+    {
+     "w": "up,",
+     "t": 0.84
+    },
+    {
+     "w": "something",
+     "t": 1.54
+    },
+    {
+     "w": "pale",
+     "t": 1.78
+    },
+    {
+     "w": "was",
+     "t": 2.12
+    },
+    {
+     "w": "sitting",
+     "t": 2.34
+    },
+    {
+     "w": "in",
+     "t": 2.56
+    },
+    {
+     "w": "the",
+     "t": 2.72
+    },
+    {
+     "w": "black",
+     "t": 2.8
+    },
+    {
+     "w": "mud.",
+     "t": 3.02
+    },
+    {
+     "w": "Human",
+     "t": 3.88
+    },
+    {
+     "w": "skulls.",
+     "t": 4.1
+    },
+    {
+     "w": "Not",
+     "t": 5.14
+    },
+    {
+     "w": "one.",
+     "t": 5.28
+    },
+    {
+     "w": "Several.",
+     "t": 6.1
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Windover pond",
+    "cards": [
+     {
+      "kind": "clip",
+      "source": "Local news",
+      "headline": "Skulls found at construction site",
+      "cue": "police"
+     },
+     {
+      "kind": "note",
+      "text": "Homicide?",
+      "cue": "murder"
+     },
+     {
+      "kind": "note",
+      "text": "Old family cemetery?",
+      "cue": "cemetery"
+     }
+    ]
+   },
+   "start": 14.0,
+   "transition": "cut",
+   "chapter": 0,
+   "beat": 2,
+   "end": 22.48,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "police",
+     "t": 0.24
+    },
+    {
+     "w": "were",
+     "t": 0.48
+    },
+    {
+     "w": "called.",
+     "t": 0.66
+    },
+    {
+     "w": "Everyone",
+     "t": 1.38
+    },
+    {
+     "w": "assumed",
+     "t": 1.64
+    },
+    {
+     "w": "it",
+     "t": 2.04
+    },
+    {
+     "w": "was",
+     "t": 2.2
+    },
+    {
+     "w": "a",
+     "t": 2.3
+    },
+    {
+     "w": "crime",
+     "t": 2.44
+    },
+    {
+     "w": "scene.",
+     "t": 2.62
+    },
+    {
+     "w": "A",
+     "t": 3.32
+    },
+    {
+     "w": "forgotten",
+     "t": 3.5
+    },
+    {
+     "w": "murder,",
+     "t": 3.8
+    },
+    {
+     "w": "perhaps,",
+     "t": 4.52
+    },
+    {
+     "w": "or",
+     "t": 5.34
+    },
+    {
+     "w": "an",
+     "t": 5.46
+    },
+    {
+     "w": "old",
+     "t": 5.56
+    },
+    {
+     "w": "family",
+     "t": 5.78
+    },
+    {
+     "w": "cemetery",
+     "t": 6.08
+    },
+    {
+     "w": "nobody",
+     "t": 6.62
+    },
+    {
+     "w": "had",
+     "t": 6.9
+    },
+    {
+     "w": "written",
+     "t": 7.16
+    },
+    {
+     "w": "down.",
+     "t": 7.36
+    }
+   ]
+  },
+  {
+   "type": "number",
+   "data": {
+    "value": "7000",
+    "suffix": "+",
+    "label": "years old",
+    "kicker": "Age of the bones"
+   },
+   "start": 22.48,
+   "transition": "cut",
+   "chapter": 0,
+   "beat": 3,
+   "end": 27.3,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.12
+    },
+    {
+     "w": "these",
+     "t": 0.34
+    },
+    {
+     "w": "bones",
+     "t": 0.54
+    },
+    {
+     "w": "were",
+     "t": 0.8
+    },
+    {
+     "w": "not",
+     "t": 1.0
+    },
+    {
+     "w": "decades",
+     "t": 1.24
+    },
+    {
+     "w": "old.",
+     "t": 1.6
+    },
+    {
+     "w": "They",
+     "t": 2.46
+    },
+    {
+     "w": "were",
+     "t": 2.58
+    },
+    {
+     "w": "more",
+     "t": 2.68
+    },
+    {
+     "w": "than",
+     "t": 2.86
+    },
+    {
+     "w": "7",
+     "t": 3.06
+    },
+    {
+     "w": ",000",
+     "t": 3.4
+    },
+    {
+     "w": "years",
+     "t": 3.8
+    },
+    {
+     "w": "old.",
+     "t": 4.08
+    }
+   ]
+  },
+  {
+   "type": "xray",
+   "data": {
+    "focus": "skull",
+    "cue": "something",
+    "label": "Soft tissue detected",
+    "detail": "Inside the cranium",
+    "markerShape": "sphere",
+    "subject": "Windover burial",
+    "scan": "Cranial scan"
+   },
+   "start": 27.3,
+   "transition": "cut",
+   "chapter": 0,
+   "beat": 4,
+   "end": 32.18,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "when",
+     "t": 0.26
+    },
+    {
+     "w": "scientists",
+     "t": 0.4
+    },
+    {
+     "w": "looked",
+     "t": 0.86
+    },
+    {
+     "w": "inside",
+     "t": 1.22
+    },
+    {
+     "w": "the",
+     "t": 1.6
+    },
+    {
+     "w": "skulls,",
+     "t": 1.78
+    },
+    {
+     "w": "they",
+     "t": 2.16
+    },
+    {
+     "w": "found",
+     "t": 2.78
+    },
+    {
+     "w": "something",
+     "t": 3.04
+    },
+    {
+     "w": "that",
+     "t": 3.38
+    },
+    {
+     "w": "should",
+     "t": 3.56
+    },
+    {
+     "w": "not",
+     "t": 3.72
+    },
+    {
+     "w": "exist.",
+     "t": 3.94
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Human brains. Still there after 7,000 years.",
+    "emphasis": [
+     "brains"
+    ]
+   },
+   "start": 32.18,
+   "transition": "cut",
+   "chapter": 0,
+   "beat": 5,
+   "end": 38.1,
+   "words": [
+    {
+     "w": "Human",
+     "t": 0.12
+    },
+    {
+     "w": "brains.",
+     "t": 0.3
+    },
+    {
+     "w": "Shrunken",
+     "t": 1.54
+    },
+    {
+     "w": "and",
+     "t": 1.84
+    },
+    {
+     "w": "dark,",
+     "t": 1.98
+    },
+    {
+     "w": "but",
+     "t": 2.56
+    },
+    {
+     "w": "still",
+     "t": 2.7
+    },
+    {
+     "w": "there,",
+     "t": 2.94
+    },
+    {
+     "w": "after",
+     "t": 3.74
+    },
+    {
+     "w": "7",
+     "t": 3.98
+    },
+    {
+     "w": ",000",
+     "t": 4.36
+    },
+    {
+     "w": "years",
+     "t": 4.72
+    },
+    {
+     "w": "underwater.",
+     "t": 5.02
+    }
+   ]
+  },
+  {
+   "type": "title",
+   "data": {
+    "title": "The Windover Pond",
+    "subtitle": "168 bodies · 7,000 years · brains intact",
+    "kicker": "A documentary"
+   },
+   "start": 38.1,
+   "transition": "cut",
+   "chapter": 0,
+   "beat": 6,
+   "end": 46.06,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.22
+    },
+    {
+     "w": "end,",
+     "t": 0.34
+    },
+    {
+     "w": "the",
+     "t": 0.94
+    },
+    {
+     "w": "pond",
+     "t": 1.04
+    },
+    {
+     "w": "gave",
+     "t": 1.24
+    },
+    {
+     "w": "up",
+     "t": 1.46
+    },
+    {
+     "w": "168",
+     "t": 1.68
+    },
+    {
+     "w": "people.",
+     "t": 2.52
+    },
+    {
+     "w": "This",
+     "t": 3.82
+    },
+    {
+     "w": "is",
+     "t": 4.04
+    },
+    {
+     "w": "the",
+     "t": 4.18
+    },
+    {
+     "w": "story",
+     "t": 4.32
+    },
+    {
+     "w": "of",
+     "t": 4.58
+    },
+    {
+     "w": "Windover",
+     "t": 4.8
+    },
+    {
+     "w": "and",
+     "t": 5.18
+    },
+    {
+     "w": "of",
+     "t": 5.78
+    },
+    {
+     "w": "the",
+     "t": 5.88
+    },
+    {
+     "w": "people",
+     "t": 5.98
+    },
+    {
+     "w": "who",
+     "t": 6.24
+    },
+    {
+     "w": "were",
+     "t": 6.42
+    },
+    {
+     "w": "laid",
+     "t": 6.54
+    },
+    {
+     "w": "to",
+     "t": 6.7
+    },
+    {
+     "w": "rest",
+     "t": 6.9
+    },
+    {
+     "w": "beneath",
+     "t": 7.14
+    },
+    {
+     "w": "it.",
+     "t": 7.42
+    }
+   ]
+  },
+  {
+   "type": "chapter",
+   "data": {
+    "num": 1,
+    "title": "Skulls in the Bucket",
+    "subtitle": "Titusville, Florida · 1982"
+   },
+   "start": 46.06,
+   "transition": "dip",
+   "chapter": 1,
+   "card": true,
+   "end": 49.56,
+   "words": []
+  },
+  {
+   "type": "map",
+   "data": {
+    "place": "Windover Pond",
+    "coords": "28.6° N, 80.8° W",
+    "region": "Titusville, Florida",
+    "terrain": "coast",
+    "cue": "Titusville"
+   },
+   "start": 49.56,
+   "transition": "dip",
+   "chapter": 1,
+   "beat": 7,
+   "end": 57.12,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.22
+    },
+    {
+     "w": "pond",
+     "t": 0.4
+    },
+    {
+     "w": "sat",
+     "t": 0.62
+    },
+    {
+     "w": "near",
+     "t": 0.9
+    },
+    {
+     "w": "the",
+     "t": 1.08
+    },
+    {
+     "w": "town",
+     "t": 1.24
+    },
+    {
+     "w": "of",
+     "t": 1.44
+    },
+    {
+     "w": "Titusville",
+     "t": 1.58
+    },
+    {
+     "w": "on",
+     "t": 2.12
+    },
+    {
+     "w": "Florida's",
+     "t": 2.62
+    },
+    {
+     "w": "Atlantic",
+     "t": 3.1
+    },
+    {
+     "w": "coast,",
+     "t": 3.42
+    },
+    {
+     "w": "just",
+     "t": 4.22
+    },
+    {
+     "w": "across",
+     "t": 4.5
+    },
+    {
+     "w": "the",
+     "t": 4.76
+    },
+    {
+     "w": "water",
+     "t": 4.98
+    },
+    {
+     "w": "from",
+     "t": 5.24
+    },
+    {
+     "w": "where",
+     "t": 5.46
+    },
+    {
+     "w": "rockets",
+     "t": 5.64
+    },
+    {
+     "w": "now",
+     "t": 5.98
+    },
+    {
+     "w": "launch",
+     "t": 6.26
+    },
+    {
+     "w": "into",
+     "t": 6.52
+    },
+    {
+     "w": "space.",
+     "t": 6.74
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "forest",
+    "time": "day",
+    "caption": "Windover Farms",
+    "sub": "Brevard County, Florida"
+   },
+   "start": 57.12,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 8,
+   "end": 64.82,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "land",
+     "t": 0.3
+    },
+    {
+     "w": "was",
+     "t": 0.54
+    },
+    {
+     "w": "being",
+     "t": 0.7
+    },
+    {
+     "w": "cleared",
+     "t": 0.92
+    },
+    {
+     "w": "for",
+     "t": 1.24
+    },
+    {
+     "w": "a",
+     "t": 1.46
+    },
+    {
+     "w": "housing",
+     "t": 1.6
+    },
+    {
+     "w": "development",
+     "t": 1.86
+    },
+    {
+     "w": "called",
+     "t": 2.32
+    },
+    {
+     "w": "Windover",
+     "t": 2.66
+    },
+    {
+     "w": "Farms,",
+     "t": 3.2
+    },
+    {
+     "w": "and",
+     "t": 3.52
+    },
+    {
+     "w": "the",
+     "t": 4.14
+    },
+    {
+     "w": "plan",
+     "t": 4.22
+    },
+    {
+     "w": "was",
+     "t": 4.46
+    },
+    {
+     "w": "simple.",
+     "t": 4.66
+    },
+    {
+     "w": "Fill",
+     "t": 5.56
+    },
+    {
+     "w": "in",
+     "t": 5.62
+    },
+    {
+     "w": "the",
+     "t": 5.74
+    },
+    {
+     "w": "pond,",
+     "t": 5.86
+    },
+    {
+     "w": "build",
+     "t": 6.54
+    },
+    {
+     "w": "a",
+     "t": 6.68
+    },
+    {
+     "w": "road",
+     "t": 6.82
+    },
+    {
+     "w": "over",
+     "t": 6.98
+    },
+    {
+     "w": "it.",
+     "t": 7.24
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Medical examiner",
+    "subtitle": "First assessment",
+    "items": [
+     {
+      "text": "Recent homicide",
+      "mark": "cross",
+      "markCue": "crime"
+     },
+     {
+      "text": "Old burial",
+      "mark": "check",
+      "markCue": "old"
+     },
+     {
+      "text": "Age of remains",
+      "mark": "question"
+     }
+    ]
+   },
+   "start": 64.82,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 9,
+   "end": 72.14,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "medical",
+     "t": 0.22
+    },
+    {
+     "w": "examiner",
+     "t": 0.5
+    },
+    {
+     "w": "took",
+     "t": 0.88
+    },
+    {
+     "w": "one",
+     "t": 1.14
+    },
+    {
+     "w": "look",
+     "t": 1.4
+    },
+    {
+     "w": "at",
+     "t": 1.56
+    },
+    {
+     "w": "the",
+     "t": 1.68
+    },
+    {
+     "w": "bones",
+     "t": 1.82
+    },
+    {
+     "w": "and",
+     "t": 2.12
+    },
+    {
+     "w": "ruled",
+     "t": 2.52
+    },
+    {
+     "w": "out",
+     "t": 2.74
+    },
+    {
+     "w": "a",
+     "t": 2.96
+    },
+    {
+     "w": "modern",
+     "t": 3.1
+    },
+    {
+     "w": "crime.",
+     "t": 3.34
+    },
+    {
+     "w": "These",
+     "t": 4.28
+    },
+    {
+     "w": "were",
+     "t": 4.38
+    },
+    {
+     "w": "old.",
+     "t": 4.56
+    },
+    {
+     "w": "The",
+     "t": 5.32
+    },
+    {
+     "w": "only",
+     "t": 5.38
+    },
+    {
+     "w": "question",
+     "t": 5.56
+    },
+    {
+     "w": "was",
+     "t": 5.9
+    },
+    {
+     "w": "how",
+     "t": 6.14
+    },
+    {
+     "w": "old.",
+     "t": 6.38
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Windover pond",
+    "cards": [
+     {
+      "kind": "index",
+      "lines": [
+       "SITE:     WINDOVER POND",
+       "STATUS:   WORK HALTED",
+       "ACTION:   RADIOCARBON TEST",
+       "SAMPLES:  2 BONES"
+      ],
+      "cue": "stopped"
+     },
+     {
+      "kind": "polaroid",
+      "scene": "forest",
+      "caption": "Windover Farms, 1982"
+     }
+    ]
+   },
+   "start": 72.14,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 10,
+   "end": 80.12,
+   "words": [
+    {
+     "w": "What",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.22
+    },
+    {
+     "w": "developers",
+     "t": 0.36
+    },
+    {
+     "w": "did",
+     "t": 0.72
+    },
+    {
+     "w": "next",
+     "t": 1.02
+    },
+    {
+     "w": "was",
+     "t": 1.36
+    },
+    {
+     "w": "unusual.",
+     "t": 1.54
+    },
+    {
+     "w": "Instead",
+     "t": 2.68
+    },
+    {
+     "w": "of",
+     "t": 2.94
+    },
+    {
+     "w": "quietly",
+     "t": 3.1
+    },
+    {
+     "w": "pouring",
+     "t": 3.44
+    },
+    {
+     "w": "concrete",
+     "t": 3.76
+    },
+    {
+     "w": "over",
+     "t": 4.26
+    },
+    {
+     "w": "the",
+     "t": 4.46
+    },
+    {
+     "w": "problem,",
+     "t": 4.6
+    },
+    {
+     "w": "they",
+     "t": 5.34
+    },
+    {
+     "w": "stopped",
+     "t": 5.5
+    },
+    {
+     "w": "work",
+     "t": 5.8
+    },
+    {
+     "w": "and",
+     "t": 6.1
+    },
+    {
+     "w": "paid",
+     "t": 6.34
+    },
+    {
+     "w": "for",
+     "t": 6.54
+    },
+    {
+     "w": "scientific",
+     "t": 6.76
+    },
+    {
+     "w": "dating.",
+     "t": 7.2
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "The past mattered more than the schedule.",
+    "emphasis": [
+     "past"
+    ]
+   },
+   "start": 80.12,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 11,
+   "end": 86.72,
+   "words": [
+    {
+     "w": "For",
+     "t": 0.12
+    },
+    {
+     "w": "a",
+     "t": 0.26
+    },
+    {
+     "w": "moment,",
+     "t": 0.38
+    },
+    {
+     "w": "the",
+     "t": 1.02
+    },
+    {
+     "w": "future",
+     "t": 1.18
+    },
+    {
+     "w": "of",
+     "t": 1.44
+    },
+    {
+     "w": "the",
+     "t": 1.64
+    },
+    {
+     "w": "site",
+     "t": 1.76
+    },
+    {
+     "w": "depended",
+     "t": 1.98
+    },
+    {
+     "w": "on",
+     "t": 2.32
+    },
+    {
+     "w": "a",
+     "t": 2.54
+    },
+    {
+     "w": "few",
+     "t": 2.64
+    },
+    {
+     "w": "people",
+     "t": 2.82
+    },
+    {
+     "w": "deciding",
+     "t": 3.1
+    },
+    {
+     "w": "that",
+     "t": 3.48
+    },
+    {
+     "w": "the",
+     "t": 3.72
+    },
+    {
+     "w": "past",
+     "t": 3.86
+    },
+    {
+     "w": "mattered",
+     "t": 4.24
+    },
+    {
+     "w": "more",
+     "t": 4.6
+    },
+    {
+     "w": "than",
+     "t": 4.88
+    },
+    {
+     "w": "a",
+     "t": 5.08
+    },
+    {
+     "w": "construction",
+     "t": 5.18
+    },
+    {
+     "w": "schedule.",
+     "t": 5.56
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "data": {
+    "title": "Radiocarbon results (years before present)",
+    "items": [
+     {
+      "label": "Bone sample 1",
+      "value": 7210
+     },
+     {
+      "label": "Bone sample 2",
+      "value": 7320
+     }
+    ],
+    "highlight": 1
+   },
+   "start": 86.72,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 12,
+   "end": 95.34,
+   "words": [
+    {
+     "w": "Two",
+     "t": 0.12
+    },
+    {
+     "w": "bones",
+     "t": 0.28
+    },
+    {
+     "w": "were",
+     "t": 0.6
+    },
+    {
+     "w": "sent",
+     "t": 0.8
+    },
+    {
+     "w": "to",
+     "t": 0.96
+    },
+    {
+     "w": "a",
+     "t": 1.12
+    },
+    {
+     "w": "laboratory",
+     "t": 1.24
+    },
+    {
+     "w": "for",
+     "t": 1.68
+    },
+    {
+     "w": "radiocarbon",
+     "t": 1.98
+    },
+    {
+     "w": "testing.",
+     "t": 2.56
+    },
+    {
+     "w": "The",
+     "t": 3.7
+    },
+    {
+     "w": "results",
+     "t": 3.78
+    },
+    {
+     "w": "came",
+     "t": 4.06
+    },
+    {
+     "w": "back",
+     "t": 4.32
+    },
+    {
+     "w": "at",
+     "t": 4.58
+    },
+    {
+     "w": "about",
+     "t": 4.7
+    },
+    {
+     "w": "7",
+     "t": 4.9
+    },
+    {
+     "w": ",200",
+     "t": 5.3
+    },
+    {
+     "w": "and",
+     "t": 5.98
+    },
+    {
+     "w": "7",
+     "t": 6.4
+    },
+    {
+     "w": ",300",
+     "t": 6.76
+    },
+    {
+     "w": "years.",
+     "t": 7.42
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "data": {
+    "events": [
+     {
+      "date": "c. 5200 BC",
+      "label": "People are buried in Windover Pond"
+     },
+     {
+      "date": "c. 3200 BC",
+      "label": "Writing is invented",
+      "cue": "writing"
+     },
+     {
+      "date": "c. 3000 BC",
+      "label": "Work begins at Stonehenge",
+      "cue": "stonehenge"
+     },
+     {
+      "date": "c. 2560 BC",
+      "label": "The Great Pyramid of Giza",
+      "cue": "pyramid"
+     }
+    ],
+    "highlight": 0
+   },
+   "start": 95.34,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 13,
+   "end": 102.66,
+   "words": [
+    {
+     "w": "That",
+     "t": 0.12
+    },
+    {
+     "w": "makes",
+     "t": 0.22
+    },
+    {
+     "w": "these",
+     "t": 0.42
+    },
+    {
+     "w": "people",
+     "t": 0.66
+    },
+    {
+     "w": "older",
+     "t": 0.86
+    },
+    {
+     "w": "than",
+     "t": 1.18
+    },
+    {
+     "w": "writing,",
+     "t": 1.42
+    },
+    {
+     "w": "older",
+     "t": 2.24
+    },
+    {
+     "w": "than",
+     "t": 2.4
+    },
+    {
+     "w": "Stonehenge,",
+     "t": 2.64
+    },
+    {
+     "w": "older",
+     "t": 3.94
+    },
+    {
+     "w": "than",
+     "t": 3.94
+    },
+    {
+     "w": "the",
+     "t": 4.16
+    },
+    {
+     "w": "Great",
+     "t": 4.26
+    },
+    {
+     "w": "Pyramid",
+     "t": 4.46
+    },
+    {
+     "w": "of",
+     "t": 4.76
+    },
+    {
+     "w": "Egypt",
+     "t": 4.96
+    },
+    {
+     "w": "by",
+     "t": 5.26
+    },
+    {
+     "w": "more",
+     "t": 5.52
+    },
+    {
+     "w": "than",
+     "t": 5.66
+    },
+    {
+     "w": "2",
+     "t": 5.86
+    },
+    {
+     "w": ",000",
+     "t": 6.06
+    },
+    {
+     "w": "years.",
+     "t": 6.4
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "plains",
+    "time": "dawn",
+    "caption": "The world in 5200 BC",
+    "sub": "Before cities, kings or writing"
+   },
+   "start": 102.66,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 14,
+   "end": 115.0,
+   "words": [
+    {
+     "w": "When",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.22
+    },
+    {
+     "w": "Windover",
+     "t": 0.38
+    },
+    {
+     "w": "people",
+     "t": 0.7
+    },
+    {
+     "w": "were",
+     "t": 1.0
+    },
+    {
+     "w": "laid",
+     "t": 1.26
+    },
+    {
+     "w": "in",
+     "t": 1.44
+    },
+    {
+     "w": "this",
+     "t": 1.62
+    },
+    {
+     "w": "pond,",
+     "t": 1.76
+    },
+    {
+     "w": "there",
+     "t": 2.62
+    },
+    {
+     "w": "were",
+     "t": 2.7
+    },
+    {
+     "w": "no",
+     "t": 2.84
+    },
+    {
+     "w": "empires",
+     "t": 3.06
+    },
+    {
+     "w": "anywhere",
+     "t": 3.56
+    },
+    {
+     "w": "on",
+     "t": 3.94
+    },
+    {
+     "w": "Earth.",
+     "t": 4.32
+    },
+    {
+     "w": "No",
+     "t": 5.08
+    },
+    {
+     "w": "kings,",
+     "t": 5.26
+    },
+    {
+     "w": "no",
+     "t": 6.06
+    },
+    {
+     "w": "alphabet,",
+     "t": 6.18
+    },
+    {
+     "w": "no",
+     "t": 7.0
+    },
+    {
+     "w": "written",
+     "t": 7.18
+    },
+    {
+     "w": "word.",
+     "t": 7.42
+    },
+    {
+     "w": "On",
+     "t": 8.24
+    },
+    {
+     "w": "the",
+     "t": 8.36
+    },
+    {
+     "w": "other",
+     "t": 8.46
+    },
+    {
+     "w": "side",
+     "t": 8.64
+    },
+    {
+     "w": "of",
+     "t": 8.86
+    },
+    {
+     "w": "the",
+     "t": 8.96
+    },
+    {
+     "w": "world,",
+     "t": 9.08
+    },
+    {
+     "w": "farming",
+     "t": 9.86
+    },
+    {
+     "w": "villages",
+     "t": 10.04
+    },
+    {
+     "w": "were",
+     "t": 10.42
+    },
+    {
+     "w": "still",
+     "t": 10.72
+    },
+    {
+     "w": "slowly",
+     "t": 10.98
+    },
+    {
+     "w": "spreading",
+     "t": 11.44
+    },
+    {
+     "w": "across",
+     "t": 11.74
+    },
+    {
+     "w": "Europe.",
+     "t": 12.12
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "They had been placed there. One by one.",
+    "emphasis": [
+     "placed"
+    ]
+   },
+   "start": 115.0,
+   "transition": "cut",
+   "chapter": 1,
+   "beat": 15,
+   "end": 123.8,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "one",
+     "t": 0.7
+    },
+    {
+     "w": "more",
+     "t": 0.9
+    },
+    {
+     "w": "thing",
+     "t": 1.1
+    },
+    {
+     "w": "was",
+     "t": 1.32
+    },
+    {
+     "w": "already",
+     "t": 1.5
+    },
+    {
+     "w": "clear.",
+     "t": 1.84
+    },
+    {
+     "w": "These",
+     "t": 2.88
+    },
+    {
+     "w": "people",
+     "t": 3.0
+    },
+    {
+     "w": "had",
+     "t": 3.28
+    },
+    {
+     "w": "not",
+     "t": 3.5
+    },
+    {
+     "w": "been",
+     "t": 3.72
+    },
+    {
+     "w": "dumped",
+     "t": 3.94
+    },
+    {
+     "w": "in",
+     "t": 4.18
+    },
+    {
+     "w": "the",
+     "t": 4.34
+    },
+    {
+     "w": "pond.",
+     "t": 4.46
+    },
+    {
+     "w": "They",
+     "t": 5.36
+    },
+    {
+     "w": "had",
+     "t": 5.54
+    },
+    {
+     "w": "been",
+     "t": 5.68
+    },
+    {
+     "w": "placed",
+     "t": 5.84
+    },
+    {
+     "w": "there,",
+     "t": 6.08
+    },
+    {
+     "w": "carefully,",
+     "t": 6.74
+    },
+    {
+     "w": "one",
+     "t": 7.56
+    },
+    {
+     "w": "by",
+     "t": 7.76
+    },
+    {
+     "w": "one.",
+     "t": 7.96
+    }
+   ]
+  },
+  {
+   "type": "chapter",
+   "data": {
+    "num": 2,
+    "title": "Draining a Graveyard",
+    "subtitle": "The excavation · 1984 – 1986"
+   },
+   "start": 123.8,
+   "transition": "dip",
+   "chapter": 2,
+   "card": true,
+   "end": 127.3,
+   "words": []
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "coast",
+    "time": "dawn",
+    "caption": "Windover Pond",
+    "sub": "A cemetery under water"
+   },
+   "start": 127.3,
+   "transition": "dip",
+   "chapter": 2,
+   "beat": 16,
+   "end": 136.04,
+   "words": [
+    {
+     "w": "Archaeologists",
+     "t": 0.36
+    },
+    {
+     "w": "from",
+     "t": 0.84
+    },
+    {
+     "w": "Florida",
+     "t": 1.16
+    },
+    {
+     "w": "State",
+     "t": 1.46
+    },
+    {
+     "w": "University",
+     "t": 1.72
+    },
+    {
+     "w": "took",
+     "t": 2.24
+    },
+    {
+     "w": "over",
+     "t": 2.52
+    },
+    {
+     "w": "the",
+     "t": 2.76
+    },
+    {
+     "w": "site,",
+     "t": 2.9
+    },
+    {
+     "w": "but",
+     "t": 3.68
+    },
+    {
+     "w": "they",
+     "t": 3.86
+    },
+    {
+     "w": "faced",
+     "t": 4.0
+    },
+    {
+     "w": "a",
+     "t": 4.22
+    },
+    {
+     "w": "problem",
+     "t": 4.42
+    },
+    {
+     "w": "no",
+     "t": 4.68
+    },
+    {
+     "w": "textbook",
+     "t": 4.94
+    },
+    {
+     "w": "had",
+     "t": 5.32
+    },
+    {
+     "w": "an",
+     "t": 5.58
+    },
+    {
+     "w": "answer",
+     "t": 5.7
+    },
+    {
+     "w": "for.",
+     "t": 5.96
+    },
+    {
+     "w": "Their",
+     "t": 6.78
+    },
+    {
+     "w": "cemetery",
+     "t": 6.94
+    },
+    {
+     "w": "was",
+     "t": 7.38
+    },
+    {
+     "w": "underwater.",
+     "t": 7.7
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "How do you excavate a pond?",
+    "emphasis": [
+     "pond"
+    ]
+   },
+   "start": 136.04,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 17,
+   "end": 142.34,
+   "words": [
+    {
+     "w": "Digging",
+     "t": 0.12
+    },
+    {
+     "w": "blind",
+     "t": 0.3
+    },
+    {
+     "w": "through",
+     "t": 0.6
+    },
+    {
+     "w": "mud",
+     "t": 0.92
+    },
+    {
+     "w": "and",
+     "t": 1.16
+    },
+    {
+     "w": "water",
+     "t": 1.34
+    },
+    {
+     "w": "would",
+     "t": 1.64
+    },
+    {
+     "w": "destroy",
+     "t": 1.84
+    },
+    {
+     "w": "the",
+     "t": 2.18
+    },
+    {
+     "w": "very",
+     "t": 2.38
+    },
+    {
+     "w": "thing",
+     "t": 2.58
+    },
+    {
+     "w": "they",
+     "t": 2.86
+    },
+    {
+     "w": "wanted",
+     "t": 3.02
+    },
+    {
+     "w": "to",
+     "t": 3.22
+    },
+    {
+     "w": "study.",
+     "t": 3.46
+    },
+    {
+     "w": "So",
+     "t": 4.26
+    },
+    {
+     "w": "they",
+     "t": 4.46
+    },
+    {
+     "w": "came",
+     "t": 4.58
+    },
+    {
+     "w": "up",
+     "t": 4.74
+    },
+    {
+     "w": "with",
+     "t": 4.9
+    },
+    {
+     "w": "an",
+     "t": 5.04
+    },
+    {
+     "w": "engineering",
+     "t": 5.16
+    },
+    {
+     "w": "solution.",
+     "t": 5.56
+    }
+   ]
+  },
+  {
+   "type": "number",
+   "data": {
+    "value": "160",
+    "label": "wells around the pond",
+    "kicker": "The dewatering system"
+   },
+   "start": 142.34,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 18,
+   "end": 145.96,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "team",
+     "t": 0.22
+    },
+    {
+     "w": "surrounded",
+     "t": 0.42
+    },
+    {
+     "w": "the",
+     "t": 0.82
+    },
+    {
+     "w": "pond",
+     "t": 1.04
+    },
+    {
+     "w": "with",
+     "t": 1.32
+    },
+    {
+     "w": "a",
+     "t": 1.54
+    },
+    {
+     "w": "ring",
+     "t": 1.66
+    },
+    {
+     "w": "of",
+     "t": 1.84
+    },
+    {
+     "w": "160",
+     "t": 2.02
+    },
+    {
+     "w": "wells.",
+     "t": 2.5
+    }
+   ]
+  },
+  {
+   "type": "map",
+   "data": {
+    "place": "Windover Pond",
+    "coords": "Ring of 160 wells",
+    "region": "Dewatering the site",
+    "terrain": "plains",
+    "cue": "shovel"
+   },
+   "start": 145.96,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 19,
+   "end": 154.06,
+   "words": [
+    {
+     "w": "Without",
+     "t": 0.12
+    },
+    {
+     "w": "them,",
+     "t": 0.34
+    },
+    {
+     "w": "every",
+     "t": 1.04
+    },
+    {
+     "w": "shovel",
+     "t": 1.28
+    },
+    {
+     "w": "of",
+     "t": 1.52
+    },
+    {
+     "w": "peat",
+     "t": 1.78
+    },
+    {
+     "w": "would",
+     "t": 1.98
+    },
+    {
+     "w": "have",
+     "t": 2.12
+    },
+    {
+     "w": "filled",
+     "t": 2.26
+    },
+    {
+     "w": "with",
+     "t": 2.46
+    },
+    {
+     "w": "water",
+     "t": 2.66
+    },
+    {
+     "w": "the",
+     "t": 2.92
+    },
+    {
+     "w": "moment",
+     "t": 3.12
+    },
+    {
+     "w": "it",
+     "t": 3.36
+    },
+    {
+     "w": "was",
+     "t": 3.54
+    },
+    {
+     "w": "lifted.",
+     "t": 3.66
+    },
+    {
+     "w": "With",
+     "t": 4.4
+    },
+    {
+     "w": "them,",
+     "t": 4.54
+    },
+    {
+     "w": "the",
+     "t": 5.18
+    },
+    {
+     "w": "bottom",
+     "t": 5.3
+    },
+    {
+     "w": "of",
+     "t": 5.52
+    },
+    {
+     "w": "the",
+     "t": 5.7
+    },
+    {
+     "w": "pond",
+     "t": 5.8
+    },
+    {
+     "w": "slowly",
+     "t": 6.04
+    },
+    {
+     "w": "became",
+     "t": 6.4
+    },
+    {
+     "w": "a",
+     "t": 6.8
+    },
+    {
+     "w": "dig",
+     "t": 6.98
+    },
+    {
+     "w": "site.",
+     "t": 7.12
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Excavation plan",
+    "subtitle": "Windover, 1984",
+    "items": [
+     {
+      "text": "Drill 160 wells",
+      "mark": "check",
+      "markCue": "pumps"
+     },
+     {
+      "text": "Lower the water table",
+      "mark": "check",
+      "markCue": "lowering"
+     },
+     {
+      "text": "Excavate the peat by hand",
+      "mark": "check",
+      "markCue": "hand"
+     }
+    ]
+   },
+   "start": 154.06,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 20,
+   "end": 161.2,
+   "words": [
+    {
+     "w": "Pumps",
+     "t": 0.12
+    },
+    {
+     "w": "drew",
+     "t": 0.3
+    },
+    {
+     "w": "the",
+     "t": 0.54
+    },
+    {
+     "w": "groundwater",
+     "t": 0.7
+    },
+    {
+     "w": "down,",
+     "t": 1.08
+    },
+    {
+     "w": "lowering",
+     "t": 1.9
+    },
+    {
+     "w": "the",
+     "t": 2.12
+    },
+    {
+     "w": "water",
+     "t": 2.34
+    },
+    {
+     "w": "table",
+     "t": 2.58
+    },
+    {
+     "w": "until",
+     "t": 2.9
+    },
+    {
+     "w": "the",
+     "t": 3.2
+    },
+    {
+     "w": "peat",
+     "t": 3.36
+    },
+    {
+     "w": "at",
+     "t": 3.62
+    },
+    {
+     "w": "the",
+     "t": 3.74
+    },
+    {
+     "w": "bottom",
+     "t": 3.86
+    },
+    {
+     "w": "of",
+     "t": 4.1
+    },
+    {
+     "w": "the",
+     "t": 4.24
+    },
+    {
+     "w": "pond",
+     "t": 4.36
+    },
+    {
+     "w": "could",
+     "t": 4.64
+    },
+    {
+     "w": "be",
+     "t": 4.8
+    },
+    {
+     "w": "reached",
+     "t": 4.98
+    },
+    {
+     "w": "and",
+     "t": 5.28
+    },
+    {
+     "w": "excavated",
+     "t": 5.48
+    },
+    {
+     "w": "by",
+     "t": 6.04
+    },
+    {
+     "w": "hand.",
+     "t": 6.22
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Field records",
+    "cards": [
+     {
+      "kind": "polaroid",
+      "scene": "lab",
+      "caption": "Field season, 1985"
+     },
+     {
+      "kind": "index",
+      "lines": [
+       "GRID:     N12 / E07",
+       "DEPTH:    PEAT LAYER",
+       "BURIAL:   ARTICULATED",
+       "RECORD:   IN SITU"
+      ]
+     },
+     {
+      "kind": "note",
+      "text": "Map every bone before lifting."
+     }
+    ]
+   },
+   "start": 161.2,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 21,
+   "end": 167.66,
+   "words": [
+    {
+     "w": "Season",
+     "t": 0.12
+    },
+    {
+     "w": "after",
+     "t": 0.32
+    },
+    {
+     "w": "season,",
+     "t": 0.58
+    },
+    {
+     "w": "they",
+     "t": 1.28
+    },
+    {
+     "w": "worked",
+     "t": 1.42
+    },
+    {
+     "w": "down",
+     "t": 1.6
+    },
+    {
+     "w": "through",
+     "t": 1.92
+    },
+    {
+     "w": "the",
+     "t": 2.14
+    },
+    {
+     "w": "peat,",
+     "t": 2.26
+    },
+    {
+     "w": "recording",
+     "t": 2.82
+    },
+    {
+     "w": "the",
+     "t": 3.1
+    },
+    {
+     "w": "exact",
+     "t": 3.32
+    },
+    {
+     "w": "position",
+     "t": 3.7
+    },
+    {
+     "w": "of",
+     "t": 4.08
+    },
+    {
+     "w": "every",
+     "t": 4.3
+    },
+    {
+     "w": "bone",
+     "t": 4.62
+    },
+    {
+     "w": "before",
+     "t": 4.9
+    },
+    {
+     "w": "anything",
+     "t": 5.22
+    },
+    {
+     "w": "was",
+     "t": 5.56
+    },
+    {
+     "w": "lifted.",
+     "t": 5.84
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Handling the finds",
+    "subtitle": "Field conservation",
+    "items": [
+     {
+      "text": "Keep everything wet",
+      "mark": "check",
+      "markCue": "water"
+     },
+     {
+      "text": "Lift slowly, by hand",
+      "mark": "check",
+      "markCue": "care"
+     },
+     {
+      "text": "Never let it dry out",
+      "mark": "check",
+      "markCue": "crumble"
+     }
+    ]
+   },
+   "start": 167.66,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 22,
+   "end": 177.12,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "everything",
+     "t": 0.24
+    },
+    {
+     "w": "had",
+     "t": 0.66
+    },
+    {
+     "w": "to",
+     "t": 0.96
+    },
+    {
+     "w": "be",
+     "t": 1.1
+    },
+    {
+     "w": "handled",
+     "t": 1.22
+    },
+    {
+     "w": "with",
+     "t": 1.52
+    },
+    {
+     "w": "extreme",
+     "t": 1.76
+    },
+    {
+     "w": "care.",
+     "t": 2.18
+    },
+    {
+     "w": "Material",
+     "t": 2.64
+    },
+    {
+     "w": "that",
+     "t": 3.5
+    },
+    {
+     "w": "has",
+     "t": 3.74
+    },
+    {
+     "w": "spent",
+     "t": 3.88
+    },
+    {
+     "w": "thousands",
+     "t": 4.12
+    },
+    {
+     "w": "of",
+     "t": 4.52
+    },
+    {
+     "w": "years",
+     "t": 4.78
+    },
+    {
+     "w": "underwater",
+     "t": 4.98
+    },
+    {
+     "w": "can",
+     "t": 5.54
+    },
+    {
+     "w": "crack",
+     "t": 6.06
+    },
+    {
+     "w": "and",
+     "t": 6.4
+    },
+    {
+     "w": "crumble",
+     "t": 6.64
+    },
+    {
+     "w": "quickly",
+     "t": 6.96
+    },
+    {
+     "w": "once",
+     "t": 7.34
+    },
+    {
+     "w": "it",
+     "t": 7.64
+    },
+    {
+     "w": "is",
+     "t": 7.8
+    },
+    {
+     "w": "exposed",
+     "t": 7.9
+    },
+    {
+     "w": "to",
+     "t": 8.26
+    },
+    {
+     "w": "open",
+     "t": 8.52
+    },
+    {
+     "w": "air.",
+     "t": 8.72
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Not a jumble of bones. A cemetery.",
+    "emphasis": [
+     "cemetery"
+    ]
+   },
+   "start": 177.12,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 23,
+   "end": 181.44,
+   "words": [
+    {
+     "w": "What",
+     "t": 0.12
+    },
+    {
+     "w": "emerged",
+     "t": 0.16
+    },
+    {
+     "w": "was",
+     "t": 0.54
+    },
+    {
+     "w": "not",
+     "t": 0.76
+    },
+    {
+     "w": "a",
+     "t": 0.98
+    },
+    {
+     "w": "jumble",
+     "t": 1.12
+    },
+    {
+     "w": "of",
+     "t": 1.34
+    },
+    {
+     "w": "bones,",
+     "t": 1.56
+    },
+    {
+     "w": "it",
+     "t": 2.32
+    },
+    {
+     "w": "was",
+     "t": 2.46
+    },
+    {
+     "w": "an",
+     "t": 2.6
+    },
+    {
+     "w": "organized",
+     "t": 2.72
+    },
+    {
+     "w": "cemetery.",
+     "t": 3.22
+    }
+   ]
+  },
+  {
+   "type": "xray",
+   "data": {
+    "focus": "full",
+    "marker": false,
+    "subject": "Burial · fully articulated",
+    "scan": "Skeletal survey"
+   },
+   "start": 181.44,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 24,
+   "end": 190.2,
+   "words": [
+    {
+     "w": "About",
+     "t": 0.12
+    },
+    {
+     "w": "a",
+     "t": 0.26
+    },
+    {
+     "w": "hundred",
+     "t": 0.42
+    },
+    {
+     "w": "of",
+     "t": 0.68
+    },
+    {
+     "w": "the",
+     "t": 0.82
+    },
+    {
+     "w": "burials",
+     "t": 0.94
+    },
+    {
+     "w": "had",
+     "t": 1.3
+    },
+    {
+     "w": "never",
+     "t": 1.5
+    },
+    {
+     "w": "been",
+     "t": 1.74
+    },
+    {
+     "w": "disturbed.",
+     "t": 1.9
+    },
+    {
+     "w": "Their",
+     "t": 2.98
+    },
+    {
+     "w": "skeletons",
+     "t": 3.08
+    },
+    {
+     "w": "were",
+     "t": 3.5
+    },
+    {
+     "w": "still",
+     "t": 3.86
+    },
+    {
+     "w": "fully",
+     "t": 4.1
+    },
+    {
+     "w": "articulated,",
+     "t": 4.44
+    },
+    {
+     "w": "every",
+     "t": 5.68
+    },
+    {
+     "w": "bone",
+     "t": 5.9
+    },
+    {
+     "w": "still",
+     "t": 6.18
+    },
+    {
+     "w": "lying",
+     "t": 6.48
+    },
+    {
+     "w": "next",
+     "t": 6.78
+    },
+    {
+     "w": "to",
+     "t": 7.02
+    },
+    {
+     "w": "the",
+     "t": 7.22
+    },
+    {
+     "w": "one",
+     "t": 7.32
+    },
+    {
+     "w": "it",
+     "t": 7.44
+    },
+    {
+     "w": "once",
+     "t": 7.58
+    },
+    {
+     "w": "joined.",
+     "t": 7.8
+    }
+   ]
+  },
+  {
+   "type": "document",
+   "data": {
+    "heading": "Burial position",
+    "style": "typed",
+    "lines": [
+     "Body placed on its side.",
+     "Knees drawn up toward the chest.",
+     "Wrapped in woven material.",
+     "Covered by peat at the bottom of the pond."
+    ],
+    "highlight": [
+     "Knees drawn up toward the chest."
+    ],
+    "caption": "Typical burial",
+    "sub": "Windover Pond"
+   },
+   "start": 190.2,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 25,
+   "end": 196.2,
+   "words": [
+    {
+     "w": "Most",
+     "t": 0.12
+    },
+    {
+     "w": "of",
+     "t": 0.28
+    },
+    {
+     "w": "the",
+     "t": 0.44
+    },
+    {
+     "w": "dead",
+     "t": 0.56
+    },
+    {
+     "w": "had",
+     "t": 0.74
+    },
+    {
+     "w": "been",
+     "t": 0.88
+    },
+    {
+     "w": "laid",
+     "t": 1.04
+    },
+    {
+     "w": "on",
+     "t": 1.2
+    },
+    {
+     "w": "their",
+     "t": 1.36
+    },
+    {
+     "w": "sides,",
+     "t": 1.52
+    },
+    {
+     "w": "with",
+     "t": 2.38
+    },
+    {
+     "w": "their",
+     "t": 2.54
+    },
+    {
+     "w": "knees",
+     "t": 2.7
+    },
+    {
+     "w": "drawn",
+     "t": 2.98
+    },
+    {
+     "w": "up",
+     "t": 3.26
+    },
+    {
+     "w": "toward",
+     "t": 3.48
+    },
+    {
+     "w": "the",
+     "t": 3.62
+    },
+    {
+     "w": "chest,",
+     "t": 3.8
+    },
+    {
+     "w": "as",
+     "t": 4.62
+    },
+    {
+     "w": "if",
+     "t": 4.72
+    },
+    {
+     "w": "they",
+     "t": 4.86
+    },
+    {
+     "w": "were",
+     "t": 4.98
+    },
+    {
+     "w": "asleep.",
+     "t": 5.1
+    }
+   ]
+  },
+  {
+   "type": "artifact",
+   "data": {
+    "object": "stake",
+    "label": "Sharpened wooden stake",
+    "detail": "Driven through the burial wrappings"
+   },
+   "start": 196.2,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 26,
+   "end": 203.26,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "many",
+     "t": 0.22
+    },
+    {
+     "w": "of",
+     "t": 0.4
+    },
+    {
+     "w": "them",
+     "t": 0.56
+    },
+    {
+     "w": "had",
+     "t": 0.7
+    },
+    {
+     "w": "been",
+     "t": 0.84
+    },
+    {
+     "w": "pinned",
+     "t": 1.0
+    },
+    {
+     "w": "in",
+     "t": 1.24
+    },
+    {
+     "w": "place.",
+     "t": 1.44
+    },
+    {
+     "w": "Sharpened",
+     "t": 2.32
+    },
+    {
+     "w": "wooden",
+     "t": 2.8
+    },
+    {
+     "w": "stakes",
+     "t": 3.0
+    },
+    {
+     "w": "had",
+     "t": 3.36
+    },
+    {
+     "w": "been",
+     "t": 3.56
+    },
+    {
+     "w": "driven",
+     "t": 3.72
+    },
+    {
+     "w": "down",
+     "t": 3.92
+    },
+    {
+     "w": "through",
+     "t": 4.24
+    },
+    {
+     "w": "their",
+     "t": 4.44
+    },
+    {
+     "w": "wrappings",
+     "t": 4.6
+    },
+    {
+     "w": "and",
+     "t": 5.04
+    },
+    {
+     "w": "into",
+     "t": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.38
+    },
+    {
+     "w": "peat",
+     "t": 5.5
+    },
+    {
+     "w": "below.",
+     "t": 5.7
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Why the stakes?",
+    "subtitle": "Open question",
+    "items": [
+     {
+      "text": "Keep bodies from floating up",
+      "mark": "check",
+      "markCue": "held"
+     },
+     {
+      "text": "Mark or protect the graves",
+      "mark": "question"
+     },
+     {
+      "text": "A ritual we do not understand",
+      "mark": "question"
+     }
+    ]
+   },
+   "start": 203.26,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 27,
+   "end": 212.7,
+   "words": [
+    {
+     "w": "Why",
+     "t": 0.12
+    },
+    {
+     "w": "would",
+     "t": 0.12
+    },
+    {
+     "w": "anyone",
+     "t": 0.3
+    },
+    {
+     "w": "stake",
+     "t": 0.7
+    },
+    {
+     "w": "the",
+     "t": 1.06
+    },
+    {
+     "w": "dead",
+     "t": 1.28
+    },
+    {
+     "w": "to",
+     "t": 1.52
+    },
+    {
+     "w": "the",
+     "t": 1.68
+    },
+    {
+     "w": "bottom",
+     "t": 1.82
+    },
+    {
+     "w": "of",
+     "t": 2.02
+    },
+    {
+     "w": "a",
+     "t": 2.18
+    },
+    {
+     "w": "pond?",
+     "t": 2.32
+    },
+    {
+     "w": "One",
+     "t": 3.16
+    },
+    {
+     "w": "explanation",
+     "t": 3.28
+    },
+    {
+     "w": "is",
+     "t": 3.72
+    },
+    {
+     "w": "practical.",
+     "t": 4.04
+    },
+    {
+     "w": "A",
+     "t": 5.08
+    },
+    {
+     "w": "body",
+     "t": 5.08
+    },
+    {
+     "w": "underwater",
+     "t": 5.36
+    },
+    {
+     "w": "can",
+     "t": 5.86
+    },
+    {
+     "w": "float",
+     "t": 6.18
+    },
+    {
+     "w": "back",
+     "t": 6.4
+    },
+    {
+     "w": "to",
+     "t": 6.68
+    },
+    {
+     "w": "the",
+     "t": 6.82
+    },
+    {
+     "w": "surface.",
+     "t": 6.94
+    },
+    {
+     "w": "The",
+     "t": 7.82
+    },
+    {
+     "w": "stakes",
+     "t": 7.92
+    },
+    {
+     "w": "held",
+     "t": 8.24
+    },
+    {
+     "w": "them",
+     "t": 8.5
+    },
+    {
+     "w": "down.",
+     "t": 8.7
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "coast",
+    "time": "night",
+    "caption": "Windover Pond",
+    "sub": "c. 5200 BC"
+   },
+   "start": 212.7,
+   "transition": "cut",
+   "chapter": 2,
+   "beat": 28,
+   "end": 220.79,
+   "words": [
+    {
+     "w": "Whatever",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.3
+    },
+    {
+     "w": "reason,",
+     "t": 0.5
+    },
+    {
+     "w": "the",
+     "t": 1.22
+    },
+    {
+     "w": "people",
+     "t": 1.3
+    },
+    {
+     "w": "of",
+     "t": 1.54
+    },
+    {
+     "w": "Windover",
+     "t": 1.7
+    },
+    {
+     "w": "chose",
+     "t": 2.1
+    },
+    {
+     "w": "water",
+     "t": 2.42
+    },
+    {
+     "w": "as",
+     "t": 2.8
+    },
+    {
+     "w": "the",
+     "t": 3.08
+    },
+    {
+     "w": "resting",
+     "t": 3.22
+    },
+    {
+     "w": "place",
+     "t": 3.52
+    },
+    {
+     "w": "for",
+     "t": 3.8
+    },
+    {
+     "w": "their",
+     "t": 4.0
+    },
+    {
+     "w": "dead.",
+     "t": 4.14
+    },
+    {
+     "w": "And",
+     "t": 4.84
+    },
+    {
+     "w": "that",
+     "t": 4.94
+    },
+    {
+     "w": "water",
+     "t": 5.1
+    },
+    {
+     "w": "would",
+     "t": 5.4
+    },
+    {
+     "w": "keep",
+     "t": 5.62
+    },
+    {
+     "w": "their",
+     "t": 5.78
+    },
+    {
+     "w": "secret",
+     "t": 5.98
+    },
+    {
+     "w": "for",
+     "t": 6.34
+    },
+    {
+     "w": "7",
+     "t": 6.6
+    },
+    {
+     "w": ",000",
+     "t": 6.96
+    },
+    {
+     "w": "years.",
+     "t": 7.34
+    }
+   ]
+  },
+  {
+   "type": "chapter",
+   "data": {
+    "num": 3,
+    "title": "Brains in the Peat",
+    "subtitle": "Why nothing rotted"
+   },
+   "start": 220.79,
+   "transition": "dip",
+   "chapter": 3,
+   "card": true,
+   "end": 224.29,
+   "words": []
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Something was still inside.",
+    "emphasis": [
+     "inside"
+    ]
+   },
+   "start": 224.29,
+   "transition": "dip",
+   "chapter": 3,
+   "beat": 29,
+   "end": 229.8,
+   "words": [
+    {
+     "w": "As",
+     "t": 0.39
+    },
+    {
+     "w": "the",
+     "t": 0.53
+    },
+    {
+     "w": "skulls",
+     "t": 0.73
+    },
+    {
+     "w": "were",
+     "t": 0.97
+    },
+    {
+     "w": "lifted",
+     "t": 1.21
+    },
+    {
+     "w": "out",
+     "t": 1.47
+    },
+    {
+     "w": "of",
+     "t": 1.65
+    },
+    {
+     "w": "the",
+     "t": 1.75
+    },
+    {
+     "w": "peat,",
+     "t": 1.87
+    },
+    {
+     "w": "the",
+     "t": 2.51
+    },
+    {
+     "w": "excavators",
+     "t": 2.57
+    },
+    {
+     "w": "realized",
+     "t": 3.13
+    },
+    {
+     "w": "that",
+     "t": 3.57
+    },
+    {
+     "w": "something",
+     "t": 3.89
+    },
+    {
+     "w": "was",
+     "t": 4.15
+    },
+    {
+     "w": "still",
+     "t": 4.39
+    },
+    {
+     "w": "inside",
+     "t": 4.61
+    },
+    {
+     "w": "them.",
+     "t": 4.95
+    }
+   ]
+  },
+  {
+   "type": "number",
+   "data": {
+    "value": "91",
+    "label": "skulls with brain tissue",
+    "kicker": "Windover Pond"
+   },
+   "start": 229.8,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 30,
+   "end": 234.48,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.12
+    },
+    {
+     "w": "91",
+     "t": 0.26
+    },
+    {
+     "w": "of",
+     "t": 0.6
+    },
+    {
+     "w": "the",
+     "t": 0.84
+    },
+    {
+     "w": "skulls,",
+     "t": 0.96
+    },
+    {
+     "w": "the",
+     "t": 1.68
+    },
+    {
+     "w": "excavators",
+     "t": 1.72
+    },
+    {
+     "w": "found",
+     "t": 2.28
+    },
+    {
+     "w": "preserved",
+     "t": 2.56
+    },
+    {
+     "w": "human",
+     "t": 3.04
+    },
+    {
+     "w": "brain",
+     "t": 3.4
+    },
+    {
+     "w": "tissue.",
+     "t": 3.66
+    }
+   ]
+  },
+  {
+   "type": "xray",
+   "data": {
+    "focus": "skull",
+    "cue": "folds",
+    "label": "Brain tissue",
+    "detail": "Shrunken · structure intact",
+    "markerShape": "sphere",
+    "subject": "Windover burial",
+    "scan": "Cranial scan"
+   },
+   "start": 234.48,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 31,
+   "end": 244.2,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "brains",
+     "t": 0.34
+    },
+    {
+     "w": "had",
+     "t": 0.62
+    },
+    {
+     "w": "shrunk",
+     "t": 0.82
+    },
+    {
+     "w": "and",
+     "t": 1.14
+    },
+    {
+     "w": "darkened,",
+     "t": 1.36
+    },
+    {
+     "w": "but",
+     "t": 2.2
+    },
+    {
+     "w": "their",
+     "t": 2.34
+    },
+    {
+     "w": "shape",
+     "t": 2.52
+    },
+    {
+     "w": "and",
+     "t": 2.76
+    },
+    {
+     "w": "folds",
+     "t": 2.94
+    },
+    {
+     "w": "could",
+     "t": 3.3
+    },
+    {
+     "w": "still",
+     "t": 3.5
+    },
+    {
+     "w": "be",
+     "t": 3.74
+    },
+    {
+     "w": "made",
+     "t": 3.88
+    },
+    {
+     "w": "out.",
+     "t": 4.04
+    },
+    {
+     "w": "And",
+     "t": 4.82
+    },
+    {
+     "w": "that",
+     "t": 4.9
+    },
+    {
+     "w": "should",
+     "t": 5.04
+    },
+    {
+     "w": "have",
+     "t": 5.18
+    },
+    {
+     "w": "been",
+     "t": 5.28
+    },
+    {
+     "w": "impossible.",
+     "t": 5.42
+    },
+    {
+     "w": "Brain",
+     "t": 6.54
+    },
+    {
+     "w": "tissue",
+     "t": 6.7
+    },
+    {
+     "w": "is",
+     "t": 7.0
+    },
+    {
+     "w": "usually",
+     "t": 7.18
+    },
+    {
+     "w": "one",
+     "t": 7.44
+    },
+    {
+     "w": "of",
+     "t": 7.62
+    },
+    {
+     "w": "the",
+     "t": 7.74
+    },
+    {
+     "w": "first",
+     "t": 7.84
+    },
+    {
+     "w": "parts",
+     "t": 8.04
+    },
+    {
+     "w": "of",
+     "t": 8.3
+    },
+    {
+     "w": "the",
+     "t": 8.48
+    },
+    {
+     "w": "body",
+     "t": 8.58
+    },
+    {
+     "w": "to",
+     "t": 8.8
+    },
+    {
+     "w": "decay.",
+     "t": 8.98
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "How did a brain survive 7,000 years?",
+    "emphasis": [
+     "7,000"
+    ]
+   },
+   "start": 244.2,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 32,
+   "end": 247.58,
+   "words": [
+    {
+     "w": "So",
+     "t": 0.12
+    },
+    {
+     "w": "how",
+     "t": 0.24
+    },
+    {
+     "w": "did",
+     "t": 0.42
+    },
+    {
+     "w": "a",
+     "t": 0.56
+    },
+    {
+     "w": "human",
+     "t": 0.7
+    },
+    {
+     "w": "brain",
+     "t": 0.94
+    },
+    {
+     "w": "survive",
+     "t": 1.22
+    },
+    {
+     "w": "for",
+     "t": 1.64
+    },
+    {
+     "w": "7",
+     "t": 1.94
+    },
+    {
+     "w": ",000",
+     "t": 2.22
+    },
+    {
+     "w": "years?",
+     "t": 2.56
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Conditions in the peat",
+    "subtitle": "Why decay stopped",
+    "items": [
+     {
+      "text": "Waterlogged peat",
+      "mark": "check",
+      "markCue": "waterlogged"
+     },
+     {
+      "text": "Almost no oxygen",
+      "mark": "check",
+      "markCue": "oxygen"
+     },
+     {
+      "text": "Microbes held back",
+      "mark": "check",
+      "markCue": "microbes"
+     }
+    ]
+   },
+   "start": 247.58,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 33,
+   "end": 256.16,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "answer",
+     "t": 0.28
+    },
+    {
+     "w": "lies",
+     "t": 0.5
+    },
+    {
+     "w": "in",
+     "t": 0.86
+    },
+    {
+     "w": "the",
+     "t": 1.08
+    },
+    {
+     "w": "pond",
+     "t": 1.18
+    },
+    {
+     "w": "itself.",
+     "t": 1.44
+    },
+    {
+     "w": "The",
+     "t": 2.36
+    },
+    {
+     "w": "peat",
+     "t": 2.54
+    },
+    {
+     "w": "at",
+     "t": 2.76
+    },
+    {
+     "w": "the",
+     "t": 2.86
+    },
+    {
+     "w": "bottom",
+     "t": 2.98
+    },
+    {
+     "w": "was",
+     "t": 3.22
+    },
+    {
+     "w": "water",
+     "t": 3.42
+    },
+    {
+     "w": "logged",
+     "t": 3.74
+    },
+    {
+     "w": "and",
+     "t": 4.02
+    },
+    {
+     "w": "starved",
+     "t": 4.26
+    },
+    {
+     "w": "of",
+     "t": 4.6
+    },
+    {
+     "w": "oxygen.",
+     "t": 4.78
+    },
+    {
+     "w": "So",
+     "t": 5.66
+    },
+    {
+     "w": "the",
+     "t": 5.84
+    },
+    {
+     "w": "microbes",
+     "t": 5.96
+    },
+    {
+     "w": "that",
+     "t": 6.3
+    },
+    {
+     "w": "normally",
+     "t": 6.56
+    },
+    {
+     "w": "break",
+     "t": 6.86
+    },
+    {
+     "w": "a",
+     "t": 7.18
+    },
+    {
+     "w": "body",
+     "t": 7.3
+    },
+    {
+     "w": "down",
+     "t": 7.5
+    },
+    {
+     "w": "could",
+     "t": 7.84
+    },
+    {
+     "w": "barely",
+     "t": 8.06
+    },
+    {
+     "w": "work.",
+     "t": 8.36
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "The evidence",
+    "cards": [
+     {
+      "kind": "index",
+      "lines": [
+       "SCAVENGER MARKS:  NONE",
+       "BURIAL:  SOON AFTER DEATH",
+       "ENVIRONMENT:  NO OXYGEN"
+      ],
+      "cue": "scavengers"
+     },
+     {
+      "kind": "note",
+      "text": "Animals never reached them.",
+      "cue": "animals"
+     }
+    ]
+   },
+   "start": 256.16,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 34,
+   "end": 264.9,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "bodies",
+     "t": 0.76
+    },
+    {
+     "w": "also",
+     "t": 1.06
+    },
+    {
+     "w": "seem",
+     "t": 1.3
+    },
+    {
+     "w": "to",
+     "t": 1.66
+    },
+    {
+     "w": "have",
+     "t": 1.8
+    },
+    {
+     "w": "gone",
+     "t": 1.94
+    },
+    {
+     "w": "into",
+     "t": 2.1
+    },
+    {
+     "w": "the",
+     "t": 2.28
+    },
+    {
+     "w": "water",
+     "t": 2.44
+    },
+    {
+     "w": "soon",
+     "t": 2.68
+    },
+    {
+     "w": "after",
+     "t": 2.96
+    },
+    {
+     "w": "death.",
+     "t": 3.24
+    },
+    {
+     "w": "The",
+     "t": 4.08
+    },
+    {
+     "w": "bones",
+     "t": 4.16
+    },
+    {
+     "w": "show",
+     "t": 4.44
+    },
+    {
+     "w": "no",
+     "t": 4.7
+    },
+    {
+     "w": "marks",
+     "t": 4.92
+    },
+    {
+     "w": "from",
+     "t": 5.16
+    },
+    {
+     "w": "scavengers,",
+     "t": 5.42
+    },
+    {
+     "w": "so",
+     "t": 6.38
+    },
+    {
+     "w": "animals",
+     "t": 6.58
+    },
+    {
+     "w": "never",
+     "t": 6.92
+    },
+    {
+     "w": "had",
+     "t": 7.2
+    },
+    {
+     "w": "the",
+     "t": 7.42
+    },
+    {
+     "w": "chance",
+     "t": 7.56
+    },
+    {
+     "w": "to",
+     "t": 7.74
+    },
+    {
+     "w": "reach",
+     "t": 7.96
+    },
+    {
+     "w": "them.",
+     "t": 8.12
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Two kinds of bog",
+    "cards": [
+     {
+      "kind": "clip",
+      "source": "Northern Europe",
+      "headline": "Bog bodies: skin preserved, bones dissolved",
+      "cue": "europe"
+     },
+     {
+      "kind": "polaroid",
+      "scene": "forest",
+      "caption": "Peat bog, northern Europe"
+     }
+    ]
+   },
+   "start": 264.9,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 35,
+   "end": 274.04,
+   "words": [
+    {
+     "w": "There",
+     "t": 0.12
+    },
+    {
+     "w": "was",
+     "t": 0.2
+    },
+    {
+     "w": "one",
+     "t": 0.36
+    },
+    {
+     "w": "more",
+     "t": 0.66
+    },
+    {
+     "w": "crucial",
+     "t": 0.96
+    },
+    {
+     "w": "ingredient.",
+     "t": 1.4
+    },
+    {
+     "w": "Europe's",
+     "t": 2.56
+    },
+    {
+     "w": "famous",
+     "t": 2.88
+    },
+    {
+     "w": "bog",
+     "t": 3.18
+    },
+    {
+     "w": "bodies",
+     "t": 3.52
+    },
+    {
+     "w": "kept",
+     "t": 3.94
+    },
+    {
+     "w": "their",
+     "t": 4.2
+    },
+    {
+     "w": "skin,",
+     "t": 4.4
+    },
+    {
+     "w": "but",
+     "t": 5.2
+    },
+    {
+     "w": "the",
+     "t": 5.34
+    },
+    {
+     "w": "acidic",
+     "t": 5.46
+    },
+    {
+     "w": "water",
+     "t": 5.74
+    },
+    {
+     "w": "of",
+     "t": 6.1
+    },
+    {
+     "w": "those",
+     "t": 6.3
+    },
+    {
+     "w": "bogs",
+     "t": 6.5
+    },
+    {
+     "w": "slowly",
+     "t": 6.92
+    },
+    {
+     "w": "dissolved",
+     "t": 7.4
+    },
+    {
+     "w": "their",
+     "t": 7.88
+    },
+    {
+     "w": "bones.",
+     "t": 8.14
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Neutral water. The bones survived. So did the brains.",
+    "emphasis": [
+     "brains"
+    ]
+   },
+   "start": 274.04,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 36,
+   "end": 282.18,
+   "words": [
+    {
+     "w": "At",
+     "t": 0.12
+    },
+    {
+     "w": "Windover,",
+     "t": 0.28
+    },
+    {
+     "w": "the",
+     "t": 1.12
+    },
+    {
+     "w": "water",
+     "t": 1.26
+    },
+    {
+     "w": "was",
+     "t": 1.46
+    },
+    {
+     "w": "close",
+     "t": 1.68
+    },
+    {
+     "w": "to",
+     "t": 1.88
+    },
+    {
+     "w": "neutral.",
+     "t": 2.1
+    },
+    {
+     "w": "The",
+     "t": 2.92
+    },
+    {
+     "w": "skin",
+     "t": 3.02
+    },
+    {
+     "w": "and",
+     "t": 3.24
+    },
+    {
+     "w": "flesh",
+     "t": 3.4
+    },
+    {
+     "w": "were",
+     "t": 3.62
+    },
+    {
+     "w": "gone,",
+     "t": 3.82
+    },
+    {
+     "w": "but",
+     "t": 4.4
+    },
+    {
+     "w": "the",
+     "t": 4.6
+    },
+    {
+     "w": "bones",
+     "t": 4.7
+    },
+    {
+     "w": "survived,",
+     "t": 4.96
+    },
+    {
+     "w": "and",
+     "t": 5.84
+    },
+    {
+     "w": "so",
+     "t": 6.02
+    },
+    {
+     "w": "did",
+     "t": 6.16
+    },
+    {
+     "w": "what",
+     "t": 6.3
+    },
+    {
+     "w": "was",
+     "t": 6.44
+    },
+    {
+     "w": "sealed",
+     "t": 6.56
+    },
+    {
+     "w": "inside",
+     "t": 6.86
+    },
+    {
+     "w": "the",
+     "t": 7.2
+    },
+    {
+     "w": "skulls.",
+     "t": 7.4
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "coast",
+    "time": "dusk",
+    "caption": "Windover Pond",
+    "sub": "Titusville, Florida"
+   },
+   "start": 282.18,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 37,
+   "end": 287.12,
+   "words": [
+    {
+     "w": "Then",
+     "t": 0.12
+    },
+    {
+     "w": "came",
+     "t": 0.68
+    },
+    {
+     "w": "the",
+     "t": 0.96
+    },
+    {
+     "w": "discovery",
+     "t": 1.12
+    },
+    {
+     "w": "that",
+     "t": 1.48
+    },
+    {
+     "w": "made",
+     "t": 1.76
+    },
+    {
+     "w": "Windover",
+     "t": 1.98
+    },
+    {
+     "w": "famous",
+     "t": 2.4
+    },
+    {
+     "w": "among",
+     "t": 2.76
+    },
+    {
+     "w": "scientists",
+     "t": 3.14
+    },
+    {
+     "w": "around",
+     "t": 3.7
+    },
+    {
+     "w": "the",
+     "t": 4.08
+    },
+    {
+     "w": "world.",
+     "t": 4.24
+    }
+   ]
+  },
+  {
+   "type": "molecule",
+   "data": {
+    "rings": 2,
+    "extra": [
+     "N",
+     "O",
+     "N"
+    ],
+    "name": "Ancient DNA",
+    "formula": "Recovered from a 7,000-year-old brain · 1988"
+   },
+   "start": 287.12,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 38,
+   "end": 295.72,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.12
+    },
+    {
+     "w": "1988,",
+     "t": 0.2
+    },
+    {
+     "w": "researchers",
+     "t": 1.6
+    },
+    {
+     "w": "announced",
+     "t": 1.66
+    },
+    {
+     "w": "that",
+     "t": 2.06
+    },
+    {
+     "w": "they",
+     "t": 2.32
+    },
+    {
+     "w": "had",
+     "t": 2.42
+    },
+    {
+     "w": "recovered",
+     "t": 2.56
+    },
+    {
+     "w": "DNA",
+     "t": 2.92
+    },
+    {
+     "w": "from",
+     "t": 3.38
+    },
+    {
+     "w": "one",
+     "t": 3.66
+    },
+    {
+     "w": "of",
+     "t": 3.8
+    },
+    {
+     "w": "the",
+     "t": 3.9
+    },
+    {
+     "w": "Windover",
+     "t": 4.02
+    },
+    {
+     "w": "brains,",
+     "t": 4.36
+    },
+    {
+     "w": "one",
+     "t": 5.26
+    },
+    {
+     "w": "of",
+     "t": 5.34
+    },
+    {
+     "w": "the",
+     "t": 5.46
+    },
+    {
+     "w": "oldest",
+     "t": 5.54
+    },
+    {
+     "w": "human",
+     "t": 5.9
+    },
+    {
+     "w": "genetic",
+     "t": 6.22
+    },
+    {
+     "w": "samples",
+     "t": 6.58
+    },
+    {
+     "w": "ever",
+     "t": 7.02
+    },
+    {
+     "w": "studied",
+     "t": 7.3
+    },
+    {
+     "w": "at",
+     "t": 7.64
+    },
+    {
+     "w": "the",
+     "t": 7.8
+    },
+    {
+     "w": "time.",
+     "t": 7.92
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "data": {
+    "events": [
+     {
+      "date": "1984",
+      "label": "First DNA from an extinct animal",
+      "cue": "earlier"
+     },
+     {
+      "date": "1988",
+      "label": "DNA from a Windover brain",
+      "cue": "frontier"
+     }
+    ],
+    "highlight": 1
+   },
+   "start": 295.72,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 39,
+   "end": 307.5,
+   "words": [
+    {
+     "w": "At",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.22
+    },
+    {
+     "w": "time,",
+     "t": 0.34
+    },
+    {
+     "w": "this",
+     "t": 1.08
+    },
+    {
+     "w": "was",
+     "t": 1.24
+    },
+    {
+     "w": "cutting",
+     "t": 1.42
+    },
+    {
+     "w": "-edge",
+     "t": 1.72
+    },
+    {
+     "w": "science.",
+     "t": 1.88
+    },
+    {
+     "w": "Only",
+     "t": 2.9
+    },
+    {
+     "w": "four",
+     "t": 3.1
+    },
+    {
+     "w": "years",
+     "t": 3.34
+    },
+    {
+     "w": "earlier,",
+     "t": 3.56
+    },
+    {
+     "w": "researchers",
+     "t": 4.64
+    },
+    {
+     "w": "had",
+     "t": 4.88
+    },
+    {
+     "w": "recovered",
+     "t": 5.2
+    },
+    {
+     "w": "DNA",
+     "t": 5.56
+    },
+    {
+     "w": "from",
+     "t": 6.02
+    },
+    {
+     "w": "an",
+     "t": 6.28
+    },
+    {
+     "w": "extinct",
+     "t": 6.36
+    },
+    {
+     "w": "animal",
+     "t": 6.68
+    },
+    {
+     "w": "for",
+     "t": 7.08
+    },
+    {
+     "w": "the",
+     "t": 7.26
+    },
+    {
+     "w": "very",
+     "t": 7.38
+    },
+    {
+     "w": "first",
+     "t": 7.62
+    },
+    {
+     "w": "time.",
+     "t": 7.86
+    },
+    {
+     "w": "Ancient",
+     "t": 8.98
+    },
+    {
+     "w": "human",
+     "t": 9.22
+    },
+    {
+     "w": "DNA",
+     "t": 9.52
+    },
+    {
+     "w": "was",
+     "t": 9.96
+    },
+    {
+     "w": "a",
+     "t": 10.16
+    },
+    {
+     "w": "brand",
+     "t": 10.32
+    },
+    {
+     "w": "new",
+     "t": 10.54
+    },
+    {
+     "w": "frontier.",
+     "t": 10.72
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "A message written in genes.",
+    "emphasis": [
+     "genes"
+    ]
+   },
+   "start": 307.5,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 40,
+   "end": 316.48,
+   "words": [
+    {
+     "w": "It",
+     "t": 0.12
+    },
+    {
+     "w": "was",
+     "t": 0.2
+    },
+    {
+     "w": "a",
+     "t": 0.3
+    },
+    {
+     "w": "message",
+     "t": 0.44
+    },
+    {
+     "w": "written",
+     "t": 0.7
+    },
+    {
+     "w": "in",
+     "t": 0.92
+    },
+    {
+     "w": "genes,",
+     "t": 1.16
+    },
+    {
+     "w": "sent",
+     "t": 1.58
+    },
+    {
+     "w": "from",
+     "t": 2.28
+    },
+    {
+     "w": "people",
+     "t": 2.5
+    },
+    {
+     "w": "who",
+     "t": 2.74
+    },
+    {
+     "w": "lived",
+     "t": 2.96
+    },
+    {
+     "w": "thousands",
+     "t": 3.14
+    },
+    {
+     "w": "of",
+     "t": 3.54
+    },
+    {
+     "w": "years",
+     "t": 3.74
+    },
+    {
+     "w": "before",
+     "t": 3.92
+    },
+    {
+     "w": "Columbus,",
+     "t": 4.3
+    },
+    {
+     "w": "before",
+     "t": 5.38
+    },
+    {
+     "w": "the",
+     "t": 5.58
+    },
+    {
+     "w": "pyramids,",
+     "t": 5.74
+    },
+    {
+     "w": "before",
+     "t": 6.68
+    },
+    {
+     "w": "almost",
+     "t": 6.94
+    },
+    {
+     "w": "everything",
+     "t": 7.24
+    },
+    {
+     "w": "we",
+     "t": 7.68
+    },
+    {
+     "w": "call",
+     "t": 7.96
+    },
+    {
+     "w": "history.",
+     "t": 8.16
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Genetic results",
+    "cards": [
+     {
+      "kind": "index",
+      "lines": [
+       "SOURCE:    BRAIN TISSUE",
+       "MATERIAL:  ANCIENT DNA",
+       "RESULT:    NATIVE AMERICAN",
+       "AGE:       c. 7,000 YEARS"
+      ],
+      "cue": "dna"
+     },
+     {
+      "kind": "polaroid",
+      "scene": "portrait",
+      "caption": "Windover, c. 5200 BC",
+      "cue": "ancient"
+     }
+    ]
+   },
+   "start": 316.48,
+   "transition": "cut",
+   "chapter": 3,
+   "beat": 41,
+   "end": 326.72,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.36
+    },
+    {
+     "w": "DNA",
+     "t": 0.46
+    },
+    {
+     "w": "confirmed",
+     "t": 0.8
+    },
+    {
+     "w": "what",
+     "t": 1.38
+    },
+    {
+     "w": "the",
+     "t": 1.66
+    },
+    {
+     "w": "burials",
+     "t": 1.82
+    },
+    {
+     "w": "already",
+     "t": 2.18
+    },
+    {
+     "w": "suggested.",
+     "t": 2.64
+    },
+    {
+     "w": "These",
+     "t": 3.86
+    },
+    {
+     "w": "were",
+     "t": 4.18
+    },
+    {
+     "w": "ancient",
+     "t": 4.4
+    },
+    {
+     "w": "Native",
+     "t": 4.82
+    },
+    {
+     "w": "Americans,",
+     "t": 5.16
+    },
+    {
+     "w": "part",
+     "t": 6.26
+    },
+    {
+     "w": "of",
+     "t": 6.5
+    },
+    {
+     "w": "a",
+     "t": 6.62
+    },
+    {
+     "w": "long",
+     "t": 6.76
+    },
+    {
+     "w": "story",
+     "t": 6.96
+    },
+    {
+     "w": "that",
+     "t": 7.34
+    },
+    {
+     "w": "stretches",
+     "t": 7.58
+    },
+    {
+     "w": "back",
+     "t": 7.88
+    },
+    {
+     "w": "to",
+     "t": 8.22
+    },
+    {
+     "w": "the",
+     "t": 8.4
+    },
+    {
+     "w": "first",
+     "t": 8.54
+    },
+    {
+     "w": "people",
+     "t": 8.76
+    },
+    {
+     "w": "in",
+     "t": 9.08
+    },
+    {
+     "w": "the",
+     "t": 9.32
+    },
+    {
+     "w": "Americas.",
+     "t": 9.42
+    }
+   ]
+  },
+  {
+   "type": "chapter",
+   "data": {
+    "num": 4,
+    "title": "Woven for the Dead",
+    "subtitle": "What they buried with them"
+   },
+   "start": 326.72,
+   "transition": "dip",
+   "chapter": 4,
+   "card": true,
+   "end": 330.22,
+   "words": []
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Cloth. Seven thousand years old.",
+    "emphasis": [
+     "cloth"
+    ]
+   },
+   "start": 330.22,
+   "transition": "dip",
+   "chapter": 4,
+   "beat": 42,
+   "end": 335.6,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.38
+    },
+    {
+     "w": "pond",
+     "t": 0.6
+    },
+    {
+     "w": "preserved",
+     "t": 0.84
+    },
+    {
+     "w": "something",
+     "t": 1.26
+    },
+    {
+     "w": "else",
+     "t": 1.64
+    },
+    {
+     "w": "that",
+     "t": 1.96
+    },
+    {
+     "w": "almost",
+     "t": 2.18
+    },
+    {
+     "w": "never",
+     "t": 2.48
+    },
+    {
+     "w": "survives",
+     "t": 2.8
+    },
+    {
+     "w": "from",
+     "t": 3.34
+    },
+    {
+     "w": "the",
+     "t": 3.6
+    },
+    {
+     "w": "Stone",
+     "t": 3.72
+    },
+    {
+     "w": "Age.",
+     "t": 3.94
+    },
+    {
+     "w": "Cloth.",
+     "t": 4.9
+    }
+   ]
+  },
+  {
+   "type": "bars",
+   "data": {
+    "title": "Textiles recovered",
+    "items": [
+     {
+      "label": "Graves with fabric",
+      "value": 37
+     },
+     {
+      "label": "Fabric pieces",
+      "value": 86
+     }
+    ],
+    "highlight": 1
+   },
+   "start": 335.6,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 43,
+   "end": 342.46,
+   "words": [
+    {
+     "w": "37",
+     "t": 0.76
+    },
+    {
+     "w": "of",
+     "t": 0.76
+    },
+    {
+     "w": "the",
+     "t": 0.98
+    },
+    {
+     "w": "graves",
+     "t": 1.1
+    },
+    {
+     "w": "contained",
+     "t": 1.4
+    },
+    {
+     "w": "woven",
+     "t": 1.88
+    },
+    {
+     "w": "fabric.",
+     "t": 2.24
+    },
+    {
+     "w": "86",
+     "t": 3.32
+    },
+    {
+     "w": "pieces",
+     "t": 3.7
+    },
+    {
+     "w": "in",
+     "t": 4.38
+    },
+    {
+     "w": "all,",
+     "t": 4.56
+    },
+    {
+     "w": "made",
+     "t": 5.22
+    },
+    {
+     "w": "from",
+     "t": 5.38
+    },
+    {
+     "w": "plant",
+     "t": 5.66
+    },
+    {
+     "w": "fibers.",
+     "t": 5.96
+    }
+   ]
+  },
+  {
+   "type": "photo",
+   "data": {
+    "scene": "forest",
+    "bw": true,
+    "layout": "desk",
+    "caption": "Burial wrappings",
+    "credit": "Woven plant fiber"
+   },
+   "start": 342.46,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 44,
+   "end": 350.26,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "dead",
+     "t": 0.24
+    },
+    {
+     "w": "had",
+     "t": 0.48
+    },
+    {
+     "w": "been",
+     "t": 0.66
+    },
+    {
+     "w": "wrapped",
+     "t": 0.84
+    },
+    {
+     "w": "in",
+     "t": 1.08
+    },
+    {
+     "w": "it",
+     "t": 1.26
+    },
+    {
+     "w": "before",
+     "t": 1.4
+    },
+    {
+     "w": "burial.",
+     "t": 1.7
+    },
+    {
+     "w": "Some",
+     "t": 2.58
+    },
+    {
+     "w": "were",
+     "t": 2.78
+    },
+    {
+     "w": "bundled",
+     "t": 2.98
+    },
+    {
+     "w": "in",
+     "t": 3.22
+    },
+    {
+     "w": "tight,",
+     "t": 3.5
+    },
+    {
+     "w": "finely",
+     "t": 4.06
+    },
+    {
+     "w": "made",
+     "t": 4.28
+    },
+    {
+     "w": "weaves,",
+     "t": 4.6
+    },
+    {
+     "w": "others",
+     "t": 5.8
+    },
+    {
+     "w": "in",
+     "t": 5.8
+    },
+    {
+     "w": "looser,",
+     "t": 6.06
+    },
+    {
+     "w": "more",
+     "t": 6.58
+    },
+    {
+     "w": "open",
+     "t": 6.7
+    },
+    {
+     "w": "ones.",
+     "t": 7.0
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Making the cloth",
+    "subtitle": "Every step by hand",
+    "items": [
+     {
+      "text": "Gather plant fibers",
+      "mark": "check",
+      "markCue": "gathered"
+     },
+     {
+      "text": "Twist them into cord",
+      "mark": "check",
+      "markCue": "twisted"
+     },
+     {
+      "text": "Weave by hand",
+      "mark": "check",
+      "markCue": "woven"
+     }
+    ]
+   },
+   "start": 350.26,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 45,
+   "end": 361.3,
+   "words": [
+    {
+     "w": "Think",
+     "t": 0.12
+    },
+    {
+     "w": "about",
+     "t": 0.24
+    },
+    {
+     "w": "what",
+     "t": 0.46
+    },
+    {
+     "w": "that",
+     "t": 0.64
+    },
+    {
+     "w": "cloth",
+     "t": 0.84
+    },
+    {
+     "w": "required.",
+     "t": 1.08
+    },
+    {
+     "w": "Plant",
+     "t": 2.24
+    },
+    {
+     "w": "fibers",
+     "t": 2.38
+    },
+    {
+     "w": "had",
+     "t": 2.74
+    },
+    {
+     "w": "to",
+     "t": 3.04
+    },
+    {
+     "w": "be",
+     "t": 3.16
+    },
+    {
+     "w": "gathered,",
+     "t": 3.32
+    },
+    {
+     "w": "processed,",
+     "t": 3.94
+    },
+    {
+     "w": "twisted",
+     "t": 4.82
+    },
+    {
+     "w": "into",
+     "t": 5.12
+    },
+    {
+     "w": "cord,",
+     "t": 5.4
+    },
+    {
+     "w": "and",
+     "t": 5.9
+    },
+    {
+     "w": "then",
+     "t": 6.02
+    },
+    {
+     "w": "woven",
+     "t": 6.2
+    },
+    {
+     "w": "by",
+     "t": 6.42
+    },
+    {
+     "w": "hand.",
+     "t": 6.76
+    },
+    {
+     "w": "A",
+     "t": 7.7
+    },
+    {
+     "w": "single",
+     "t": 7.8
+    },
+    {
+     "w": "burial",
+     "t": 8.14
+    },
+    {
+     "w": "wrap",
+     "t": 8.52
+    },
+    {
+     "w": "could",
+     "t": 8.8
+    },
+    {
+     "w": "represent",
+     "t": 9.0
+    },
+    {
+     "w": "many",
+     "t": 9.42
+    },
+    {
+     "w": "hours",
+     "t": 9.74
+    },
+    {
+     "w": "of",
+     "t": 10.04
+    },
+    {
+     "w": "work.",
+     "t": 10.26
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Among the oldest woven textiles ever found.",
+    "emphasis": [
+     "oldest"
+    ]
+   },
+   "start": 361.3,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 46,
+   "end": 370.04,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "weaving",
+     "t": 0.24
+    },
+    {
+     "w": "was",
+     "t": 0.48
+    },
+    {
+     "w": "complex,",
+     "t": 0.76
+    },
+    {
+     "w": "using",
+     "t": 1.62
+    },
+    {
+     "w": "several",
+     "t": 1.86
+    },
+    {
+     "w": "different",
+     "t": 2.28
+    },
+    {
+     "w": "techniques.",
+     "t": 2.62
+    },
+    {
+     "w": "These",
+     "t": 3.08
+    },
+    {
+     "w": "were",
+     "t": 3.74
+    },
+    {
+     "w": "skilled",
+     "t": 3.92
+    },
+    {
+     "w": "craftspeople,",
+     "t": 4.28
+    },
+    {
+     "w": "and",
+     "t": 5.5
+    },
+    {
+     "w": "their",
+     "t": 5.56
+    },
+    {
+     "w": "textiles",
+     "t": 5.68
+    },
+    {
+     "w": "are",
+     "t": 6.22
+    },
+    {
+     "w": "among",
+     "t": 6.4
+    },
+    {
+     "w": "the",
+     "t": 6.58
+    },
+    {
+     "w": "oldest",
+     "t": 6.76
+    },
+    {
+     "w": "of",
+     "t": 7.06
+    },
+    {
+     "w": "their",
+     "t": 7.28
+    },
+    {
+     "w": "kind",
+     "t": 7.4
+    },
+    {
+     "w": "ever",
+     "t": 7.7
+    },
+    {
+     "w": "found.",
+     "t": 7.96
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "That work was spent on the dead.",
+    "emphasis": [
+     "dead"
+    ]
+   },
+   "start": 370.04,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 47,
+   "end": 377.84,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "that",
+     "t": 0.22
+    },
+    {
+     "w": "work",
+     "t": 0.38
+    },
+    {
+     "w": "was",
+     "t": 0.56
+    },
+    {
+     "w": "not",
+     "t": 0.76
+    },
+    {
+     "w": "spent",
+     "t": 0.94
+    },
+    {
+     "w": "on",
+     "t": 1.2
+    },
+    {
+     "w": "clothing",
+     "t": 1.42
+    },
+    {
+     "w": "for",
+     "t": 1.76
+    },
+    {
+     "w": "the",
+     "t": 1.96
+    },
+    {
+     "w": "living.",
+     "t": 2.08
+    },
+    {
+     "w": "It",
+     "t": 2.68
+    },
+    {
+     "w": "was",
+     "t": 2.86
+    },
+    {
+     "w": "spent",
+     "t": 3.0
+    },
+    {
+     "w": "on",
+     "t": 3.24
+    },
+    {
+     "w": "the",
+     "t": 3.46
+    },
+    {
+     "w": "dead.",
+     "t": 3.6
+    },
+    {
+     "w": "That",
+     "t": 4.38
+    },
+    {
+     "w": "tells",
+     "t": 4.52
+    },
+    {
+     "w": "us",
+     "t": 4.72
+    },
+    {
+     "w": "something",
+     "t": 4.96
+    },
+    {
+     "w": "about",
+     "t": 5.12
+    },
+    {
+     "w": "how",
+     "t": 5.44
+    },
+    {
+     "w": "much",
+     "t": 5.66
+    },
+    {
+     "w": "these",
+     "t": 5.84
+    },
+    {
+     "w": "people",
+     "t": 6.08
+    },
+    {
+     "w": "mattered",
+     "t": 6.36
+    },
+    {
+     "w": "to",
+     "t": 6.64
+    },
+    {
+     "w": "each",
+     "t": 6.9
+    },
+    {
+     "w": "other.",
+     "t": 7.08
+    }
+   ]
+  },
+  {
+   "type": "artifact",
+   "data": {
+    "object": "bone",
+    "label": "Bone and antler tools",
+    "detail": "Buried with the dead"
+   },
+   "start": 377.84,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 48,
+   "end": 386.86,
+   "words": [
+    {
+     "w": "Alongside",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.52
+    },
+    {
+     "w": "bodies",
+     "t": 0.66
+    },
+    {
+     "w": "lay",
+     "t": 1.02
+    },
+    {
+     "w": "the",
+     "t": 1.24
+    },
+    {
+     "w": "objects",
+     "t": 1.4
+    },
+    {
+     "w": "of",
+     "t": 1.8
+    },
+    {
+     "w": "everyday",
+     "t": 2.0
+    },
+    {
+     "w": "life.",
+     "t": 2.24
+    },
+    {
+     "w": "Tools",
+     "t": 3.38
+    },
+    {
+     "w": "of",
+     "t": 3.38
+    },
+    {
+     "w": "bone",
+     "t": 3.6
+    },
+    {
+     "w": "and",
+     "t": 3.86
+    },
+    {
+     "w": "antler.",
+     "t": 4.06
+    },
+    {
+     "w": "Shark",
+     "t": 5.14
+    },
+    {
+     "w": "teeth.",
+     "t": 5.22
+    },
+    {
+     "w": "Pieces",
+     "t": 6.1
+    },
+    {
+     "w": "of",
+     "t": 6.24
+    },
+    {
+     "w": "bottle",
+     "t": 6.5
+    },
+    {
+     "w": "gourd,",
+     "t": 6.76
+    },
+    {
+     "w": "used",
+     "t": 7.48
+    },
+    {
+     "w": "as",
+     "t": 7.72
+    },
+    {
+     "w": "containers.",
+     "t": 7.9
+    }
+   ]
+  },
+  {
+   "type": "artifact",
+   "data": {
+    "object": "jar",
+    "material": "wood",
+    "label": "No pottery, no metal",
+    "detail": "Containers came from nature"
+   },
+   "start": 386.86,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 49,
+   "end": 393.1,
+   "words": [
+    {
+     "w": "These",
+     "t": 0.12
+    },
+    {
+     "w": "people",
+     "t": 0.28
+    },
+    {
+     "w": "had",
+     "t": 0.52
+    },
+    {
+     "w": "no",
+     "t": 0.74
+    },
+    {
+     "w": "metal",
+     "t": 0.94
+    },
+    {
+     "w": "and",
+     "t": 1.2
+    },
+    {
+     "w": "no",
+     "t": 1.46
+    },
+    {
+     "w": "pottery.",
+     "t": 1.64
+    },
+    {
+     "w": "Everything",
+     "t": 2.64
+    },
+    {
+     "w": "they",
+     "t": 2.94
+    },
+    {
+     "w": "made",
+     "t": 3.16
+    },
+    {
+     "w": "came",
+     "t": 3.44
+    },
+    {
+     "w": "from",
+     "t": 3.66
+    },
+    {
+     "w": "the",
+     "t": 3.84
+    },
+    {
+     "w": "land,",
+     "t": 3.98
+    },
+    {
+     "w": "the",
+     "t": 4.7
+    },
+    {
+     "w": "water",
+     "t": 4.8
+    },
+    {
+     "w": "and",
+     "t": 5.08
+    },
+    {
+     "w": "the",
+     "t": 5.34
+    },
+    {
+     "w": "animals",
+     "t": 5.44
+    },
+    {
+     "w": "around",
+     "t": 5.78
+    },
+    {
+     "w": "them.",
+     "t": 6.06
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "forest",
+    "time": "day",
+    "caption": "Florida's Atlantic coast",
+    "sub": "The world of the Windover people"
+   },
+   "start": 393.1,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 50,
+   "end": 401.64,
+   "words": [
+    {
+     "w": "They",
+     "t": 0.12
+    },
+    {
+     "w": "lived",
+     "t": 0.48
+    },
+    {
+     "w": "from",
+     "t": 0.72
+    },
+    {
+     "w": "Florida's",
+     "t": 0.96
+    },
+    {
+     "w": "rivers,",
+     "t": 1.46
+    },
+    {
+     "w": "marshes",
+     "t": 2.28
+    },
+    {
+     "w": "and",
+     "t": 2.54
+    },
+    {
+     "w": "coast,",
+     "t": 2.74
+    },
+    {
+     "w": "moving",
+     "t": 3.58
+    },
+    {
+     "w": "with",
+     "t": 3.74
+    },
+    {
+     "w": "the",
+     "t": 3.98
+    },
+    {
+     "w": "seasons",
+     "t": 4.14
+    },
+    {
+     "w": "and",
+     "t": 4.46
+    },
+    {
+     "w": "returning,",
+     "t": 4.7
+    },
+    {
+     "w": "again",
+     "t": 5.6
+    },
+    {
+     "w": "and",
+     "t": 5.94
+    },
+    {
+     "w": "again,",
+     "t": 6.2
+    },
+    {
+     "w": "to",
+     "t": 6.86
+    },
+    {
+     "w": "this",
+     "t": 7.0
+    },
+    {
+     "w": "one",
+     "t": 7.18
+    },
+    {
+     "w": "small",
+     "t": 7.48
+    },
+    {
+     "w": "pond.",
+     "t": 7.82
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Signs of ceremony",
+    "subtitle": "Windover burials",
+    "items": [
+     {
+      "text": "Bodies wrapped in woven cloth",
+      "mark": "check",
+      "markCue": "wrapping"
+     },
+     {
+      "text": "Objects placed with the dead",
+      "mark": "check",
+      "markCue": "objects"
+     },
+     {
+      "text": "Careful burial position",
+      "mark": "check",
+      "markCue": "placement"
+     }
+    ],
+    "stamp": {
+     "text": "Honored",
+     "cue": "honored"
+    }
+   },
+   "start": 401.64,
+   "transition": "cut",
+   "chapter": 4,
+   "beat": 51,
+   "end": 409.61,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "care",
+     "t": 0.3
+    },
+    {
+     "w": "in",
+     "t": 0.52
+    },
+    {
+     "w": "these",
+     "t": 0.7
+    },
+    {
+     "w": "burials",
+     "t": 0.88
+    },
+    {
+     "w": "is",
+     "t": 1.26
+    },
+    {
+     "w": "unmistakable.",
+     "t": 1.46
+    },
+    {
+     "w": "The",
+     "t": 2.58
+    },
+    {
+     "w": "wrapping,",
+     "t": 2.76
+    },
+    {
+     "w": "the",
+     "t": 3.34
+    },
+    {
+     "w": "objects,",
+     "t": 3.38
+    },
+    {
+     "w": "the",
+     "t": 4.0
+    },
+    {
+     "w": "careful",
+     "t": 4.1
+    },
+    {
+     "w": "placement.",
+     "t": 4.4
+    },
+    {
+     "w": "This",
+     "t": 5.46
+    },
+    {
+     "w": "was",
+     "t": 5.88
+    },
+    {
+     "w": "a",
+     "t": 6.04
+    },
+    {
+     "w": "community",
+     "t": 6.18
+    },
+    {
+     "w": "that",
+     "t": 6.44
+    },
+    {
+     "w": "honored",
+     "t": 6.8
+    },
+    {
+     "w": "its",
+     "t": 7.06
+    },
+    {
+     "w": "dead.",
+     "t": 7.32
+    }
+   ]
+  },
+  {
+   "type": "chapter",
+   "data": {
+    "num": 5,
+    "title": "The Boy Who Was Carried",
+    "subtitle": "Life and death at Windover"
+   },
+   "start": 409.61,
+   "transition": "dip",
+   "chapter": 5,
+   "card": true,
+   "end": 413.11,
+   "words": []
+  },
+  {
+   "type": "number",
+   "data": {
+    "value": "60",
+    "suffix": "+",
+    "label": "years: the oldest elders",
+    "kicker": "Age range at Windover"
+   },
+   "start": 413.11,
+   "transition": "dip",
+   "chapter": 5,
+   "beat": 52,
+   "end": 420.66,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.37
+    },
+    {
+     "w": "bones",
+     "t": 0.55
+    },
+    {
+     "w": "also",
+     "t": 0.81
+    },
+    {
+     "w": "tell",
+     "t": 1.19
+    },
+    {
+     "w": "personal",
+     "t": 1.45
+    },
+    {
+     "w": "stories.",
+     "t": 1.87
+    },
+    {
+     "w": "The",
+     "t": 2.89
+    },
+    {
+     "w": "people",
+     "t": 3.01
+    },
+    {
+     "w": "buried",
+     "t": 3.25
+    },
+    {
+     "w": "here",
+     "t": 3.55
+    },
+    {
+     "w": "ranged",
+     "t": 3.83
+    },
+    {
+     "w": "from",
+     "t": 4.17
+    },
+    {
+     "w": "newborn",
+     "t": 4.45
+    },
+    {
+     "w": "babies",
+     "t": 4.79
+    },
+    {
+     "w": "to",
+     "t": 5.17
+    },
+    {
+     "w": "elders",
+     "t": 5.49
+    },
+    {
+     "w": "more",
+     "t": 5.75
+    },
+    {
+     "w": "than",
+     "t": 6.01
+    },
+    {
+     "w": "60",
+     "t": 6.21
+    },
+    {
+     "w": "years",
+     "t": 6.49
+    },
+    {
+     "w": "old.",
+     "t": 6.75
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "forest",
+    "time": "dawn",
+    "caption": "Windover",
+    "sub": "Every age, every generation"
+   },
+   "start": 420.66,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 53,
+   "end": 429.68,
+   "words": [
+    {
+     "w": "Children",
+     "t": 0.12
+    },
+    {
+     "w": "were",
+     "t": 0.24
+    },
+    {
+     "w": "buried",
+     "t": 0.52
+    },
+    {
+     "w": "here",
+     "t": 0.74
+    },
+    {
+     "w": "too,",
+     "t": 1.0
+    },
+    {
+     "w": "many",
+     "t": 1.64
+    },
+    {
+     "w": "of",
+     "t": 1.78
+    },
+    {
+     "w": "them.",
+     "t": 1.96
+    },
+    {
+     "w": "In",
+     "t": 2.64
+    },
+    {
+     "w": "a",
+     "t": 2.76
+    },
+    {
+     "w": "world",
+     "t": 2.86
+    },
+    {
+     "w": "without",
+     "t": 3.06
+    },
+    {
+     "w": "medicine,",
+     "t": 3.36
+    },
+    {
+     "w": "childhood",
+     "t": 4.2
+    },
+    {
+     "w": "was",
+     "t": 4.42
+    },
+    {
+     "w": "dangerous.",
+     "t": 4.74
+    },
+    {
+     "w": "And",
+     "t": 5.18
+    },
+    {
+     "w": "the",
+     "t": 5.82
+    },
+    {
+     "w": "pond",
+     "t": 5.92
+    },
+    {
+     "w": "holds",
+     "t": 6.18
+    },
+    {
+     "w": "that",
+     "t": 6.52
+    },
+    {
+     "w": "loss",
+     "t": 6.72
+    },
+    {
+     "w": "alongside",
+     "t": 7.04
+    },
+    {
+     "w": "everything",
+     "t": 7.62
+    },
+    {
+     "w": "else.",
+     "t": 8.1
+    }
+   ]
+  },
+  {
+   "type": "xray",
+   "data": {
+    "focus": "left_knee",
+    "cue": "arthritis",
+    "label": "Joint wear",
+    "detail": "Arthritis",
+    "markerShape": "sphere",
+    "subject": "Adult · Windover",
+    "scan": "Skeletal survey"
+   },
+   "start": 429.68,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 54,
+   "end": 436.56,
+   "words": [
+    {
+     "w": "Many",
+     "t": 0.12
+    },
+    {
+     "w": "of",
+     "t": 0.26
+    },
+    {
+     "w": "the",
+     "t": 0.44
+    },
+    {
+     "w": "adults",
+     "t": 0.56
+    },
+    {
+     "w": "had",
+     "t": 0.9
+    },
+    {
+     "w": "worn",
+     "t": 1.08
+    },
+    {
+     "w": "joints",
+     "t": 1.34
+    },
+    {
+     "w": "and",
+     "t": 1.72
+    },
+    {
+     "w": "arthritis.",
+     "t": 1.9
+    },
+    {
+     "w": "The",
+     "t": 2.9
+    },
+    {
+     "w": "marks",
+     "t": 3.0
+    },
+    {
+     "w": "of",
+     "t": 3.24
+    },
+    {
+     "w": "hard,",
+     "t": 3.44
+    },
+    {
+     "w": "physical",
+     "t": 3.8
+    },
+    {
+     "w": "lives",
+     "t": 4.12
+    },
+    {
+     "w": "spent",
+     "t": 4.54
+    },
+    {
+     "w": "walking,",
+     "t": 4.84
+    },
+    {
+     "w": "carrying",
+     "t": 5.5
+    },
+    {
+     "w": "and",
+     "t": 5.84
+    },
+    {
+     "w": "working.",
+     "t": 6.08
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Burial file",
+    "cards": [
+     {
+      "kind": "polaroid",
+      "scene": "portrait",
+      "caption": "Male, about 15 years"
+     },
+     {
+      "kind": "index",
+      "lines": [
+       "SEX:       MALE",
+       "AGE:       ~15 YEARS",
+       "CONDITION: SPINA BIFIDA",
+       "NOTE:      FOOT MISSING"
+      ],
+      "cue": "fifteen"
+     }
+    ]
+   },
+   "start": 436.56,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 55,
+   "end": 442.36,
+   "words": [
+    {
+     "w": "But",
+     "t": 0.12
+    },
+    {
+     "w": "one",
+     "t": 0.24
+    },
+    {
+     "w": "skeleton",
+     "t": 0.52
+    },
+    {
+     "w": "stopped",
+     "t": 0.86
+    },
+    {
+     "w": "the",
+     "t": 1.36
+    },
+    {
+     "w": "researchers",
+     "t": 1.56
+    },
+    {
+     "w": "in",
+     "t": 1.9
+    },
+    {
+     "w": "their",
+     "t": 2.2
+    },
+    {
+     "w": "tracks.",
+     "t": 2.34
+    },
+    {
+     "w": "A",
+     "t": 3.26
+    },
+    {
+     "w": "boy,",
+     "t": 3.38
+    },
+    {
+     "w": "about",
+     "t": 4.18
+    },
+    {
+     "w": "15",
+     "t": 4.36
+    },
+    {
+     "w": "years",
+     "t": 4.84
+    },
+    {
+     "w": "old.",
+     "t": 5.08
+    }
+   ]
+  },
+  {
+   "type": "xray",
+   "data": {
+    "focus": "spine",
+    "cue": "spina",
+    "label": "Spina bifida",
+    "detail": "Congenital spinal defect",
+    "markerShape": "sphere",
+    "subject": "Male · ~15 years",
+    "scan": "Skeletal survey"
+   },
+   "start": 442.36,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 56,
+   "end": 447.48,
+   "words": [
+    {
+     "w": "He",
+     "t": 0.12
+    },
+    {
+     "w": "had",
+     "t": 0.26
+    },
+    {
+     "w": "been",
+     "t": 0.38
+    },
+    {
+     "w": "born",
+     "t": 0.54
+    },
+    {
+     "w": "with",
+     "t": 0.78
+    },
+    {
+     "w": "spina",
+     "t": 1.04
+    },
+    {
+     "w": "bifida,",
+     "t": 1.44
+    },
+    {
+     "w": "a",
+     "t": 2.28
+    },
+    {
+     "w": "condition",
+     "t": 2.42
+    },
+    {
+     "w": "in",
+     "t": 2.7
+    },
+    {
+     "w": "which",
+     "t": 2.94
+    },
+    {
+     "w": "the",
+     "t": 3.1
+    },
+    {
+     "w": "spine",
+     "t": 3.28
+    },
+    {
+     "w": "does",
+     "t": 3.6
+    },
+    {
+     "w": "not",
+     "t": 3.8
+    },
+    {
+     "w": "form",
+     "t": 4.04
+    },
+    {
+     "w": "properly.",
+     "t": 4.32
+    }
+   ]
+  },
+  {
+   "type": "xray",
+   "data": {
+    "focus": "right_leg",
+    "cue": "healed",
+    "label": "Healed amputation",
+    "detail": "Lower leg · bone remodeled",
+    "markerShape": "sphere",
+    "subject": "Male · ~15 years",
+    "scan": "Skeletal survey"
+   },
+   "start": 447.48,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 57,
+   "end": 453.8,
+   "words": [
+    {
+     "w": "He",
+     "t": 0.12
+    },
+    {
+     "w": "had",
+     "t": 0.26
+    },
+    {
+     "w": "also",
+     "t": 0.36
+    },
+    {
+     "w": "lost",
+     "t": 0.62
+    },
+    {
+     "w": "one",
+     "t": 0.9
+    },
+    {
+     "w": "of",
+     "t": 1.1
+    },
+    {
+     "w": "his",
+     "t": 1.22
+    },
+    {
+     "w": "feet,",
+     "t": 1.32
+    },
+    {
+     "w": "and",
+     "t": 2.02
+    },
+    {
+     "w": "the",
+     "t": 2.14
+    },
+    {
+     "w": "bone",
+     "t": 2.24
+    },
+    {
+     "w": "of",
+     "t": 2.42
+    },
+    {
+     "w": "his",
+     "t": 2.56
+    },
+    {
+     "w": "lower",
+     "t": 2.68
+    },
+    {
+     "w": "leg",
+     "t": 2.92
+    },
+    {
+     "w": "had",
+     "t": 3.22
+    },
+    {
+     "w": "healed",
+     "t": 3.38
+    },
+    {
+     "w": "over.",
+     "t": 3.58
+    },
+    {
+     "w": "He",
+     "t": 4.44
+    },
+    {
+     "w": "had",
+     "t": 4.58
+    },
+    {
+     "w": "survived",
+     "t": 4.68
+    },
+    {
+     "w": "that",
+     "t": 5.04
+    },
+    {
+     "w": "injury",
+     "t": 5.28
+    },
+    {
+     "w": "for",
+     "t": 5.56
+    },
+    {
+     "w": "a",
+     "t": 5.78
+    },
+    {
+     "w": "long",
+     "t": 5.9
+    },
+    {
+     "w": "time.",
+     "t": 6.06
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "To survive, he needed",
+    "items": [
+     {
+      "text": "Food brought to him",
+      "mark": "check",
+      "markCue": "help"
+     },
+     {
+      "text": "To be carried between camps",
+      "mark": "check",
+      "markCue": "every"
+     },
+     {
+      "text": "Care for his whole life",
+      "mark": "check",
+      "markCue": "day"
+     }
+    ]
+   },
+   "start": 453.8,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 58,
+   "end": 462.64,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.12
+    },
+    {
+     "w": "a",
+     "t": 0.76
+    },
+    {
+     "w": "band",
+     "t": 0.88
+    },
+    {
+     "w": "of",
+     "t": 1.1
+    },
+    {
+     "w": "hunter",
+     "t": 1.26
+    },
+    {
+     "w": "-gatherers",
+     "t": 1.52
+    },
+    {
+     "w": "that",
+     "t": 2.04
+    },
+    {
+     "w": "moved",
+     "t": 2.18
+    },
+    {
+     "w": "through",
+     "t": 2.42
+    },
+    {
+     "w": "the",
+     "t": 2.66
+    },
+    {
+     "w": "landscape",
+     "t": 2.78
+    },
+    {
+     "w": "on",
+     "t": 3.16
+    },
+    {
+     "w": "foot,",
+     "t": 3.38
+    },
+    {
+     "w": "a",
+     "t": 4.1
+    },
+    {
+     "w": "child",
+     "t": 4.22
+    },
+    {
+     "w": "like",
+     "t": 4.46
+    },
+    {
+     "w": "this",
+     "t": 4.64
+    },
+    {
+     "w": "could",
+     "t": 4.92
+    },
+    {
+     "w": "not",
+     "t": 5.06
+    },
+    {
+     "w": "have",
+     "t": 5.22
+    },
+    {
+     "w": "kept",
+     "t": 5.34
+    },
+    {
+     "w": "up",
+     "t": 5.5
+    },
+    {
+     "w": "on",
+     "t": 5.68
+    },
+    {
+     "w": "his",
+     "t": 5.82
+    },
+    {
+     "w": "own.",
+     "t": 5.94
+    },
+    {
+     "w": "He",
+     "t": 6.7
+    },
+    {
+     "w": "would",
+     "t": 6.84
+    },
+    {
+     "w": "have",
+     "t": 6.94
+    },
+    {
+     "w": "needed",
+     "t": 7.04
+    },
+    {
+     "w": "help",
+     "t": 7.22
+    },
+    {
+     "w": "every",
+     "t": 7.48
+    },
+    {
+     "w": "single",
+     "t": 7.82
+    },
+    {
+     "w": "day.",
+     "t": 8.06
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Someone carried him. For his entire life.",
+    "emphasis": [
+     "carried"
+    ]
+   },
+   "start": 462.64,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 59,
+   "end": 470.56,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "he",
+     "t": 0.26
+    },
+    {
+     "w": "got",
+     "t": 0.4
+    },
+    {
+     "w": "it.",
+     "t": 0.6
+    },
+    {
+     "w": "Someone",
+     "t": 1.3
+    },
+    {
+     "w": "fed",
+     "t": 1.52
+    },
+    {
+     "w": "him.",
+     "t": 1.78
+    },
+    {
+     "w": "Someone",
+     "t": 2.52
+    },
+    {
+     "w": "carried",
+     "t": 2.74
+    },
+    {
+     "w": "him.",
+     "t": 3.1
+    },
+    {
+     "w": "Someone",
+     "t": 3.76
+    },
+    {
+     "w": "cared",
+     "t": 4.02
+    },
+    {
+     "w": "for",
+     "t": 4.34
+    },
+    {
+     "w": "him,",
+     "t": 4.56
+    },
+    {
+     "w": "year",
+     "t": 5.02
+    },
+    {
+     "w": "after",
+     "t": 5.36
+    },
+    {
+     "w": "year,",
+     "t": 5.64
+    },
+    {
+     "w": "for",
+     "t": 6.4
+    },
+    {
+     "w": "his",
+     "t": 6.58
+    },
+    {
+     "w": "entire",
+     "t": 6.74
+    },
+    {
+     "w": "life.",
+     "t": 7.1
+    }
+   ]
+  },
+  {
+   "type": "number",
+   "data": {
+    "value": "15",
+    "label": "years of care",
+    "kicker": "Day after day"
+   },
+   "start": 470.56,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 60,
+   "end": 482.18,
+   "words": [
+    {
+     "w": "Think",
+     "t": 0.12
+    },
+    {
+     "w": "about",
+     "t": 0.24
+    },
+    {
+     "w": "what",
+     "t": 0.46
+    },
+    {
+     "w": "that",
+     "t": 0.64
+    },
+    {
+     "w": "meant",
+     "t": 0.84
+    },
+    {
+     "w": "in",
+     "t": 1.04
+    },
+    {
+     "w": "practice.",
+     "t": 1.28
+    },
+    {
+     "w": "Every",
+     "t": 2.2
+    },
+    {
+     "w": "time",
+     "t": 2.44
+    },
+    {
+     "w": "the",
+     "t": 2.64
+    },
+    {
+     "w": "group",
+     "t": 2.84
+    },
+    {
+     "w": "moved,",
+     "t": 2.98
+    },
+    {
+     "w": "someone",
+     "t": 3.84
+    },
+    {
+     "w": "had",
+     "t": 4.02
+    },
+    {
+     "w": "to",
+     "t": 4.26
+    },
+    {
+     "w": "carry",
+     "t": 4.4
+    },
+    {
+     "w": "him.",
+     "t": 4.64
+    },
+    {
+     "w": "Every",
+     "t": 5.3
+    },
+    {
+     "w": "meal,",
+     "t": 5.52
+    },
+    {
+     "w": "someone",
+     "t": 6.28
+    },
+    {
+     "w": "made",
+     "t": 6.46
+    },
+    {
+     "w": "sure",
+     "t": 6.72
+    },
+    {
+     "w": "he",
+     "t": 6.96
+    },
+    {
+     "w": "ate.",
+     "t": 7.16
+    },
+    {
+     "w": "Not",
+     "t": 8.0
+    },
+    {
+     "w": "for",
+     "t": 8.22
+    },
+    {
+     "w": "a",
+     "t": 8.42
+    },
+    {
+     "w": "week",
+     "t": 8.56
+    },
+    {
+     "w": "or",
+     "t": 8.74
+    },
+    {
+     "w": "a",
+     "t": 8.94
+    },
+    {
+     "w": "season,",
+     "t": 9.08
+    },
+    {
+     "w": "but",
+     "t": 9.78
+    },
+    {
+     "w": "for",
+     "t": 10.0
+    },
+    {
+     "w": "15",
+     "t": 10.22
+    },
+    {
+     "w": "years.",
+     "t": 10.6
+    },
+    {
+     "w": "7",
+     "t": 11.58
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "forest",
+    "time": "dusk",
+    "caption": "Florida",
+    "sub": "c. 5200 BC"
+   },
+   "start": 482.18,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 61,
+   "end": 489.62,
+   "words": [
+    {
+     "w": "7",
+     "t": -0.04
+    },
+    {
+     "w": ",000",
+     "t": 0.3
+    },
+    {
+     "w": "years",
+     "t": 0.76
+    },
+    {
+     "w": "ago,",
+     "t": 0.96
+    },
+    {
+     "w": "with",
+     "t": 1.8
+    },
+    {
+     "w": "no",
+     "t": 1.88
+    },
+    {
+     "w": "medicine,",
+     "t": 2.1
+    },
+    {
+     "w": "no",
+     "t": 2.9
+    },
+    {
+     "w": "metal,",
+     "t": 2.98
+    },
+    {
+     "w": "and",
+     "t": 3.46
+    },
+    {
+     "w": "no",
+     "t": 3.5
+    },
+    {
+     "w": "writing,",
+     "t": 3.68
+    },
+    {
+     "w": "the",
+     "t": 4.62
+    },
+    {
+     "w": "people",
+     "t": 4.66
+    },
+    {
+     "w": "of",
+     "t": 4.88
+    },
+    {
+     "w": "Windover",
+     "t": 5.06
+    },
+    {
+     "w": "looked",
+     "t": 5.44
+    },
+    {
+     "w": "after",
+     "t": 5.72
+    },
+    {
+     "w": "their",
+     "t": 6.0
+    },
+    {
+     "w": "most",
+     "t": 6.2
+    },
+    {
+     "w": "vulnerable.",
+     "t": 6.44
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Compassion is older than civilization.",
+    "emphasis": [
+     "compassion"
+    ]
+   },
+   "start": 489.62,
+   "transition": "cut",
+   "chapter": 5,
+   "beat": 62,
+   "end": 494.08,
+   "words": [
+    {
+     "w": "It",
+     "t": 0.12
+    },
+    {
+     "w": "is",
+     "t": 0.22
+    },
+    {
+     "w": "a",
+     "t": 0.34
+    },
+    {
+     "w": "powerful",
+     "t": 0.44
+    },
+    {
+     "w": "reminder",
+     "t": 0.8
+    },
+    {
+     "w": "that",
+     "t": 1.24
+    },
+    {
+     "w": "compassion",
+     "t": 1.54
+    },
+    {
+     "w": "is",
+     "t": 2.02
+    },
+    {
+     "w": "far",
+     "t": 2.68
+    },
+    {
+     "w": "older",
+     "t": 2.94
+    },
+    {
+     "w": "than",
+     "t": 3.24
+    },
+    {
+     "w": "civilization.",
+     "t": 3.48
+    }
+   ]
+  },
+  {
+   "type": "chapter",
+   "data": {
+    "num": 6,
+    "title": "Why a Pond?",
+    "subtitle": "The questions that remain"
+   },
+   "start": 494.08,
+   "transition": "dip",
+   "chapter": 6,
+   "card": true,
+   "end": 497.58,
+   "words": []
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Why bury the dead in water?",
+    "emphasis": [
+     "water"
+    ]
+   },
+   "start": 497.58,
+   "transition": "dip",
+   "chapter": 6,
+   "beat": 63,
+   "end": 502.74,
+   "words": [
+    {
+     "w": "Which",
+     "t": 0.46
+    },
+    {
+     "w": "brings",
+     "t": 0.7
+    },
+    {
+     "w": "us",
+     "t": 0.92
+    },
+    {
+     "w": "back",
+     "t": 1.12
+    },
+    {
+     "w": "to",
+     "t": 1.34
+    },
+    {
+     "w": "the",
+     "t": 1.5
+    },
+    {
+     "w": "strangest",
+     "t": 1.64
+    },
+    {
+     "w": "question",
+     "t": 2.14
+    },
+    {
+     "w": "of",
+     "t": 2.34
+    },
+    {
+     "w": "all.",
+     "t": 2.6
+    },
+    {
+     "w": "Why",
+     "t": 3.62
+    },
+    {
+     "w": "bury",
+     "t": 3.62
+    },
+    {
+     "w": "the",
+     "t": 3.96
+    },
+    {
+     "w": "dead",
+     "t": 4.14
+    },
+    {
+     "w": "in",
+     "t": 4.32
+    },
+    {
+     "w": "water?",
+     "t": 4.48
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "coast",
+    "time": "storm",
+    "caption": "Windover Pond",
+    "sub": "No written record"
+   },
+   "start": 502.74,
+   "transition": "cut",
+   "chapter": 6,
+   "beat": 64,
+   "end": 509.74,
+   "words": [
+    {
+     "w": "No",
+     "t": 0.12
+    },
+    {
+     "w": "one",
+     "t": 0.3
+    },
+    {
+     "w": "knows",
+     "t": 0.44
+    },
+    {
+     "w": "for",
+     "t": 0.64
+    },
+    {
+     "w": "certain.",
+     "t": 0.88
+    },
+    {
+     "w": "The",
+     "t": 1.58
+    },
+    {
+     "w": "people",
+     "t": 1.68
+    },
+    {
+     "w": "of",
+     "t": 1.88
+    },
+    {
+     "w": "Windover",
+     "t": 2.04
+    },
+    {
+     "w": "left",
+     "t": 2.38
+    },
+    {
+     "w": "no",
+     "t": 2.66
+    },
+    {
+     "w": "written",
+     "t": 3.0
+    },
+    {
+     "w": "record,",
+     "t": 3.26
+    },
+    {
+     "w": "only",
+     "t": 4.08
+    },
+    {
+     "w": "the",
+     "t": 4.26
+    },
+    {
+     "w": "choices",
+     "t": 4.44
+    },
+    {
+     "w": "they",
+     "t": 4.74
+    },
+    {
+     "w": "made,",
+     "t": 5.0
+    },
+    {
+     "w": "preserved",
+     "t": 5.64
+    },
+    {
+     "w": "in",
+     "t": 5.94
+    },
+    {
+     "w": "the",
+     "t": 6.18
+    },
+    {
+     "w": "peat.",
+     "t": 6.3
+    }
+   ]
+  },
+  {
+   "type": "checklist",
+   "data": {
+    "title": "Ancient burial practices",
+    "subtitle": "How Windover differs",
+    "items": [
+     {
+      "text": "In the ground",
+      "mark": "cross",
+      "markCue": "ground"
+     },
+     {
+      "text": "In caves or mounds",
+      "mark": "cross",
+      "markCue": "mounds"
+     },
+     {
+      "text": "Under the water of a pond",
+      "mark": "check",
+      "markCue": "different"
+     }
+    ]
+   },
+   "start": 509.74,
+   "transition": "cut",
+   "chapter": 6,
+   "beat": 65,
+   "end": 521.98,
+   "words": [
+    {
+     "w": "Burying",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.3
+    },
+    {
+     "w": "dead",
+     "t": 0.46
+    },
+    {
+     "w": "underwater",
+     "t": 0.64
+    },
+    {
+     "w": "is",
+     "t": 1.04
+    },
+    {
+     "w": "rare",
+     "t": 1.38
+    },
+    {
+     "w": "in",
+     "t": 1.66
+    },
+    {
+     "w": "the",
+     "t": 1.84
+    },
+    {
+     "w": "archaeological",
+     "t": 1.96
+    },
+    {
+     "w": "record.",
+     "t": 2.4
+    },
+    {
+     "w": "Most",
+     "t": 2.9
+    },
+    {
+     "w": "ancient",
+     "t": 3.72
+    },
+    {
+     "w": "people",
+     "t": 4.08
+    },
+    {
+     "w": "buried",
+     "t": 4.48
+    },
+    {
+     "w": "their",
+     "t": 4.88
+    },
+    {
+     "w": "dead",
+     "t": 5.12
+    },
+    {
+     "w": "in",
+     "t": 5.32
+    },
+    {
+     "w": "the",
+     "t": 5.46
+    },
+    {
+     "w": "ground,",
+     "t": 5.58
+    },
+    {
+     "w": "in",
+     "t": 6.4
+    },
+    {
+     "w": "caves",
+     "t": 6.5
+    },
+    {
+     "w": "or",
+     "t": 6.86
+    },
+    {
+     "w": "in",
+     "t": 7.12
+    },
+    {
+     "w": "mounds.",
+     "t": 7.24
+    },
+    {
+     "w": "Windover",
+     "t": 8.48
+    },
+    {
+     "w": "is",
+     "t": 8.8
+    },
+    {
+     "w": "different,",
+     "t": 9.06
+    },
+    {
+     "w": "and",
+     "t": 9.96
+    },
+    {
+     "w": "that",
+     "t": 10.08
+    },
+    {
+     "w": "difference",
+     "t": 10.26
+    },
+    {
+     "w": "is",
+     "t": 10.56
+    },
+    {
+     "w": "part",
+     "t": 10.8
+    },
+    {
+     "w": "of",
+     "t": 10.96
+    },
+    {
+     "w": "its",
+     "t": 11.08
+    },
+    {
+     "w": "mystery.",
+     "t": 11.2
+    }
+   ]
+  },
+  {
+   "type": "timeline",
+   "data": {
+    "events": [
+     {
+      "date": "Generation 1",
+      "label": "The first burials in the pond"
+     },
+     {
+      "date": "Centuries",
+      "label": "The community keeps returning",
+      "cue": "again"
+     },
+     {
+      "date": "168",
+      "label": "People laid to rest in total",
+      "cue": "generation"
+     }
+    ],
+    "highlight": 2
+   },
+   "start": 521.98,
+   "transition": "cut",
+   "chapter": 6,
+   "beat": 66,
+   "end": 531.54,
+   "words": [
+    {
+     "w": "We",
+     "t": 0.12
+    },
+    {
+     "w": "do",
+     "t": 0.22
+    },
+    {
+     "w": "know",
+     "t": 0.44
+    },
+    {
+     "w": "the",
+     "t": 0.62
+    },
+    {
+     "w": "pond",
+     "t": 0.8
+    },
+    {
+     "w": "was",
+     "t": 1.1
+    },
+    {
+     "w": "not",
+     "t": 1.32
+    },
+    {
+     "w": "used",
+     "t": 1.56
+    },
+    {
+     "w": "once.",
+     "t": 1.82
+    },
+    {
+     "w": "It",
+     "t": 2.8
+    },
+    {
+     "w": "was",
+     "t": 2.94
+    },
+    {
+     "w": "returned",
+     "t": 3.06
+    },
+    {
+     "w": "to",
+     "t": 3.48
+    },
+    {
+     "w": "again",
+     "t": 3.8
+    },
+    {
+     "w": "and",
+     "t": 4.2
+    },
+    {
+     "w": "again,",
+     "t": 4.44
+    },
+    {
+     "w": "generation",
+     "t": 5.26
+    },
+    {
+     "w": "after",
+     "t": 5.58
+    },
+    {
+     "w": "generation,",
+     "t": 6.02
+    },
+    {
+     "w": "as",
+     "t": 7.04
+    },
+    {
+     "w": "if",
+     "t": 7.32
+    },
+    {
+     "w": "it",
+     "t": 7.46
+    },
+    {
+     "w": "were",
+     "t": 7.56
+    },
+    {
+     "w": "a",
+     "t": 7.68
+    },
+    {
+     "w": "place",
+     "t": 7.8
+    },
+    {
+     "w": "that",
+     "t": 7.98
+    },
+    {
+     "w": "mattered",
+     "t": 8.22
+    },
+    {
+     "w": "deeply",
+     "t": 8.46
+    },
+    {
+     "w": "to",
+     "t": 8.76
+    },
+    {
+     "w": "them.",
+     "t": 9.06
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Theories",
+    "cards": [
+     {
+      "kind": "note",
+      "text": "A passage to another world?",
+      "cue": "doorway"
+     },
+     {
+      "kind": "polaroid",
+      "scene": "sea",
+      "caption": "Still water"
+     }
+    ]
+   },
+   "start": 531.54,
+   "transition": "cut",
+   "chapter": 6,
+   "beat": 67,
+   "end": 537.4,
+   "words": [
+    {
+     "w": "Some",
+     "t": 0.12
+    },
+    {
+     "w": "see",
+     "t": 0.28
+    },
+    {
+     "w": "the",
+     "t": 0.54
+    },
+    {
+     "w": "water",
+     "t": 0.68
+    },
+    {
+     "w": "as",
+     "t": 0.9
+    },
+    {
+     "w": "a",
+     "t": 1.14
+    },
+    {
+     "w": "doorway,",
+     "t": 1.28
+    },
+    {
+     "w": "a",
+     "t": 2.18
+    },
+    {
+     "w": "passage",
+     "t": 2.28
+    },
+    {
+     "w": "between",
+     "t": 2.64
+    },
+    {
+     "w": "the",
+     "t": 3.02
+    },
+    {
+     "w": "world",
+     "t": 3.2
+    },
+    {
+     "w": "of",
+     "t": 3.4
+    },
+    {
+     "w": "the",
+     "t": 3.54
+    },
+    {
+     "w": "living",
+     "t": 3.68
+    },
+    {
+     "w": "and",
+     "t": 3.88
+    },
+    {
+     "w": "the",
+     "t": 4.26
+    },
+    {
+     "w": "world",
+     "t": 4.36
+    },
+    {
+     "w": "of",
+     "t": 4.56
+    },
+    {
+     "w": "the",
+     "t": 4.7
+    },
+    {
+     "w": "dead.",
+     "t": 4.84
+    }
+   ]
+  },
+  {
+   "type": "board",
+   "data": {
+    "title": "Theories",
+    "cards": [
+     {
+      "kind": "note",
+      "text": "A passage to another world?"
+     },
+     {
+      "kind": "polaroid",
+      "scene": "sea",
+      "caption": "Still water"
+     },
+     {
+      "kind": "note",
+      "text": "Protection from animals and heat",
+      "cue": "practical"
+     }
+    ]
+   },
+   "start": 537.4,
+   "transition": "cut",
+   "chapter": 6,
+   "beat": 68,
+   "end": 544.44,
+   "words": [
+    {
+     "w": "Others",
+     "t": 0.12
+    },
+    {
+     "w": "think",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.36
+    },
+    {
+     "w": "reason",
+     "t": 0.52
+    },
+    {
+     "w": "was",
+     "t": 0.72
+    },
+    {
+     "w": "practical.",
+     "t": 0.94
+    },
+    {
+     "w": "Under",
+     "t": 2.04
+    },
+    {
+     "w": "the",
+     "t": 2.18
+    },
+    {
+     "w": "water,",
+     "t": 2.34
+    },
+    {
+     "w": "the",
+     "t": 2.92
+    },
+    {
+     "w": "dead",
+     "t": 3.02
+    },
+    {
+     "w": "were",
+     "t": 3.18
+    },
+    {
+     "w": "safe",
+     "t": 3.34
+    },
+    {
+     "w": "from",
+     "t": 3.58
+    },
+    {
+     "w": "animals,",
+     "t": 3.78
+    },
+    {
+     "w": "and",
+     "t": 4.2
+    },
+    {
+     "w": "safe",
+     "t": 4.8
+    },
+    {
+     "w": "from",
+     "t": 5.06
+    },
+    {
+     "w": "the",
+     "t": 5.28
+    },
+    {
+     "w": "heat",
+     "t": 5.4
+    },
+    {
+     "w": "of",
+     "t": 5.56
+    },
+    {
+     "w": "the",
+     "t": 5.7
+    },
+    {
+     "w": "Florida",
+     "t": 5.82
+    },
+    {
+     "w": "sun.",
+     "t": 6.1
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "A sacred place that protected the people they loved.",
+    "emphasis": [
+     "sacred",
+     "loved"
+    ]
+   },
+   "start": 544.44,
+   "transition": "cut",
+   "chapter": 6,
+   "beat": 69,
+   "end": 549.04,
+   "words": [
+    {
+     "w": "Perhaps",
+     "t": 0.12
+    },
+    {
+     "w": "it",
+     "t": 0.36
+    },
+    {
+     "w": "was",
+     "t": 0.54
+    },
+    {
+     "w": "both.",
+     "t": 0.66
+    },
+    {
+     "w": "A",
+     "t": 1.52
+    },
+    {
+     "w": "sacred",
+     "t": 1.62
+    },
+    {
+     "w": "place",
+     "t": 1.96
+    },
+    {
+     "w": "that",
+     "t": 2.32
+    },
+    {
+     "w": "also",
+     "t": 2.6
+    },
+    {
+     "w": "protected",
+     "t": 2.88
+    },
+    {
+     "w": "the",
+     "t": 3.26
+    },
+    {
+     "w": "people",
+     "t": 3.5
+    },
+    {
+     "w": "they",
+     "t": 3.74
+    },
+    {
+     "w": "loved.",
+     "t": 3.92
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "coast",
+    "time": "dawn",
+    "caption": "Windover Pond",
+    "sub": "7,000 years later"
+   },
+   "start": 549.04,
+   "transition": "cut",
+   "chapter": 6,
+   "beat": 70,
+   "end": 553.2,
+   "words": [
+    {
+     "w": "Whatever",
+     "t": 0.12
+    },
+    {
+     "w": "they",
+     "t": 0.3
+    },
+    {
+     "w": "believed,",
+     "t": 0.54
+    },
+    {
+     "w": "their",
+     "t": 1.5
+    },
+    {
+     "w": "choice",
+     "t": 1.64
+    },
+    {
+     "w": "worked",
+     "t": 1.94
+    },
+    {
+     "w": "better",
+     "t": 2.24
+    },
+    {
+     "w": "than",
+     "t": 2.48
+    },
+    {
+     "w": "they",
+     "t": 2.66
+    },
+    {
+     "w": "could",
+     "t": 2.8
+    },
+    {
+     "w": "ever",
+     "t": 2.92
+    },
+    {
+     "w": "have",
+     "t": 3.16
+    },
+    {
+     "w": "imagined.",
+     "t": 3.32
+    }
+   ]
+  },
+  {
+   "type": "chapter",
+   "data": {
+    "num": 7,
+    "title": "What the Pond Kept",
+    "subtitle": "Windover today"
+   },
+   "start": 553.2,
+   "transition": "dip",
+   "chapter": 7,
+   "card": true,
+   "end": 556.7,
+   "words": []
+  },
+  {
+   "type": "timeline",
+   "data": {
+    "events": [
+     {
+      "date": "c. 5200 BC",
+      "label": "Burials in Windover Pond"
+     },
+     {
+      "date": "1982",
+      "label": "Skulls found by a backhoe"
+     },
+     {
+      "date": "1984-86",
+      "label": "Excavation of the pond"
+     },
+     {
+      "date": "1987",
+      "label": "National Historic Landmark",
+      "cue": "landmark"
+     }
+    ],
+    "highlight": 3
+   },
+   "start": 556.7,
+   "transition": "dip",
+   "chapter": 7,
+   "beat": 71,
+   "end": 564.86,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.4
+    },
+    {
+     "w": "1987,",
+     "t": 0.52
+    },
+    {
+     "w": "Windover",
+     "t": 2.0
+    },
+    {
+     "w": "was",
+     "t": 2.22
+    },
+    {
+     "w": "declared",
+     "t": 2.44
+    },
+    {
+     "w": "a",
+     "t": 2.78
+    },
+    {
+     "w": "national",
+     "t": 2.98
+    },
+    {
+     "w": "historic",
+     "t": 3.32
+    },
+    {
+     "w": "landmark.",
+     "t": 3.82
+    },
+    {
+     "w": "One",
+     "t": 4.92
+    },
+    {
+     "w": "of",
+     "t": 5.04
+    },
+    {
+     "w": "the",
+     "t": 5.14
+    },
+    {
+     "w": "most",
+     "t": 5.22
+    },
+    {
+     "w": "important",
+     "t": 5.44
+    },
+    {
+     "w": "archaeological",
+     "t": 5.9
+    },
+    {
+     "w": "sites",
+     "t": 6.36
+    },
+    {
+     "w": "in",
+     "t": 6.86
+    },
+    {
+     "w": "North",
+     "t": 7.04
+    },
+    {
+     "w": "America.",
+     "t": 7.2
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "Not just study. Respect.",
+    "emphasis": [
+     "respect"
+    ]
+   },
+   "start": 564.86,
+   "transition": "cut",
+   "chapter": 7,
+   "beat": 72,
+   "end": 575.58,
+   "words": [
+    {
+     "w": "Today,",
+     "t": 0.12
+    },
+    {
+     "w": "the",
+     "t": 0.5
+    },
+    {
+     "w": "people",
+     "t": 0.58
+    },
+    {
+     "w": "of",
+     "t": 0.82
+    },
+    {
+     "w": "Windover",
+     "t": 1.0
+    },
+    {
+     "w": "are",
+     "t": 1.46
+    },
+    {
+     "w": "also",
+     "t": 1.72
+    },
+    {
+     "w": "part",
+     "t": 2.02
+    },
+    {
+     "w": "of",
+     "t": 2.24
+    },
+    {
+     "w": "a",
+     "t": 2.38
+    },
+    {
+     "w": "larger",
+     "t": 2.48
+    },
+    {
+     "w": "conversation.",
+     "t": 2.76
+    },
+    {
+     "w": "These",
+     "t": 3.92
+    },
+    {
+     "w": "were",
+     "t": 4.06
+    },
+    {
+     "w": "ancestors",
+     "t": 4.22
+    },
+    {
+     "w": "of",
+     "t": 4.66
+    },
+    {
+     "w": "Native",
+     "t": 4.98
+    },
+    {
+     "w": "American",
+     "t": 5.18
+    },
+    {
+     "w": "communities,",
+     "t": 5.56
+    },
+    {
+     "w": "and",
+     "t": 6.62
+    },
+    {
+     "w": "many",
+     "t": 6.86
+    },
+    {
+     "w": "people",
+     "t": 7.04
+    },
+    {
+     "w": "believe",
+     "t": 7.3
+    },
+    {
+     "w": "their",
+     "t": 7.58
+    },
+    {
+     "w": "remains",
+     "t": 7.8
+    },
+    {
+     "w": "deserve",
+     "t": 8.18
+    },
+    {
+     "w": "not",
+     "t": 8.58
+    },
+    {
+     "w": "just",
+     "t": 8.82
+    },
+    {
+     "w": "study,",
+     "t": 9.0
+    },
+    {
+     "w": "but",
+     "t": 9.34
+    },
+    {
+     "w": "respect.",
+     "t": 9.8
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "coast",
+    "time": "dusk",
+    "caption": "Windover Pond",
+    "sub": "Ancestors, not just specimens"
+   },
+   "start": 575.58,
+   "transition": "cut",
+   "chapter": 7,
+   "beat": 73,
+   "end": 584.58,
+   "words": [
+    {
+     "w": "How",
+     "t": 0.12
+    },
+    {
+     "w": "to",
+     "t": 0.14
+    },
+    {
+     "w": "balance",
+     "t": 0.28
+    },
+    {
+     "w": "scientific",
+     "t": 0.58
+    },
+    {
+     "w": "discovery",
+     "t": 1.06
+    },
+    {
+     "w": "with",
+     "t": 1.66
+    },
+    {
+     "w": "the",
+     "t": 2.16
+    },
+    {
+     "w": "wishes",
+     "t": 2.28
+    },
+    {
+     "w": "of",
+     "t": 2.52
+    },
+    {
+     "w": "indigenous",
+     "t": 2.72
+    },
+    {
+     "w": "people",
+     "t": 3.06
+    },
+    {
+     "w": "is",
+     "t": 3.54
+    },
+    {
+     "w": "a",
+     "t": 4.02
+    },
+    {
+     "w": "question",
+     "t": 4.14
+    },
+    {
+     "w": "archaeology",
+     "t": 4.48
+    },
+    {
+     "w": "is",
+     "t": 5.14
+    },
+    {
+     "w": "still",
+     "t": 5.32
+    },
+    {
+     "w": "learning",
+     "t": 5.52
+    },
+    {
+     "w": "to",
+     "t": 5.74
+    },
+    {
+     "w": "answer.",
+     "t": 5.94
+    },
+    {
+     "w": "Windover",
+     "t": 6.78
+    },
+    {
+     "w": "is",
+     "t": 7.0
+    },
+    {
+     "w": "part",
+     "t": 7.26
+    },
+    {
+     "w": "of",
+     "t": 7.48
+    },
+    {
+     "w": "that",
+     "t": 7.62
+    },
+    {
+     "w": "story",
+     "t": 7.76
+    },
+    {
+     "w": "too.",
+     "t": 8.06
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "They did not empty the entire pond.",
+    "emphasis": [
+     "not"
+    ]
+   },
+   "start": 584.58,
+   "transition": "cut",
+   "chapter": 7,
+   "beat": 74,
+   "end": 590.16,
+   "words": [
+    {
+     "w": "And",
+     "t": 0.12
+    },
+    {
+     "w": "in",
+     "t": 0.2
+    },
+    {
+     "w": "a",
+     "t": 0.3
+    },
+    {
+     "w": "decision",
+     "t": 0.44
+    },
+    {
+     "w": "that",
+     "t": 0.72
+    },
+    {
+     "w": "still",
+     "t": 0.96
+    },
+    {
+     "w": "surprises",
+     "t": 1.2
+    },
+    {
+     "w": "people,",
+     "t": 1.66
+    },
+    {
+     "w": "the",
+     "t": 2.62
+    },
+    {
+     "w": "archaeologists",
+     "t": 2.68
+    },
+    {
+     "w": "did",
+     "t": 3.28
+    },
+    {
+     "w": "not",
+     "t": 3.7
+    },
+    {
+     "w": "empty",
+     "t": 3.88
+    },
+    {
+     "w": "the",
+     "t": 4.22
+    },
+    {
+     "w": "entire",
+     "t": 4.38
+    },
+    {
+     "w": "pond.",
+     "t": 4.7
+    }
+   ]
+  },
+  {
+   "type": "landscape",
+   "data": {
+    "terrain": "plains",
+    "time": "night",
+    "caption": "Windover Pond today",
+    "sub": "Part of the site left untouched"
+   },
+   "start": 590.16,
+   "transition": "cut",
+   "chapter": 7,
+   "beat": 75,
+   "end": 597.78,
+   "words": [
+    {
+     "w": "Part",
+     "t": 0.12
+    },
+    {
+     "w": "of",
+     "t": 0.22
+    },
+    {
+     "w": "it",
+     "t": 0.36
+    },
+    {
+     "w": "was",
+     "t": 0.48
+    },
+    {
+     "w": "deliberately",
+     "t": 0.64
+    },
+    {
+     "w": "left",
+     "t": 1.04
+    },
+    {
+     "w": "untouched,",
+     "t": 1.44
+    },
+    {
+     "w": "sealed",
+     "t": 2.42
+    },
+    {
+     "w": "in",
+     "t": 2.72
+    },
+    {
+     "w": "its",
+     "t": 2.94
+    },
+    {
+     "w": "peat,",
+     "t": 3.1
+    },
+    {
+     "w": "waiting",
+     "t": 3.94
+    },
+    {
+     "w": "for",
+     "t": 4.1
+    },
+    {
+     "w": "scientists",
+     "t": 4.36
+    },
+    {
+     "w": "with",
+     "t": 4.8
+    },
+    {
+     "w": "better",
+     "t": 5.1
+    },
+    {
+     "w": "tools",
+     "t": 5.3
+    },
+    {
+     "w": "and",
+     "t": 5.7
+    },
+    {
+     "w": "better",
+     "t": 5.9
+    },
+    {
+     "w": "questions",
+     "t": 6.1
+    },
+    {
+     "w": "than",
+     "t": 6.52
+    },
+    {
+     "w": "ours.",
+     "t": 6.74
+    }
+   ]
+  },
+  {
+   "type": "xray",
+   "data": {
+    "focus": "full",
+    "marker": false,
+    "subject": "Unexcavated · Windover Pond",
+    "scan": "Still in the peat"
+   },
+   "start": 597.78,
+   "transition": "cut",
+   "chapter": 7,
+   "beat": 76,
+   "end": 606.72,
+   "words": [
+    {
+     "w": "Somewhere",
+     "t": 0.12
+    },
+    {
+     "w": "beneath",
+     "t": 0.4
+    },
+    {
+     "w": "that",
+     "t": 0.78
+    },
+    {
+     "w": "dark",
+     "t": 1.06
+    },
+    {
+     "w": "water,",
+     "t": 1.28
+    },
+    {
+     "w": "more",
+     "t": 1.96
+    },
+    {
+     "w": "of",
+     "t": 2.16
+    },
+    {
+     "w": "the",
+     "t": 2.3
+    },
+    {
+     "w": "people",
+     "t": 2.4
+    },
+    {
+     "w": "of",
+     "t": 2.66
+    },
+    {
+     "w": "Windover",
+     "t": 2.82
+    },
+    {
+     "w": "may",
+     "t": 3.2
+    },
+    {
+     "w": "still",
+     "t": 3.48
+    },
+    {
+     "w": "be",
+     "t": 3.74
+    },
+    {
+     "w": "lying",
+     "t": 3.9
+    },
+    {
+     "w": "exactly",
+     "t": 4.18
+    },
+    {
+     "w": "where",
+     "t": 4.64
+    },
+    {
+     "w": "they",
+     "t": 4.98
+    },
+    {
+     "w": "were",
+     "t": 5.1
+    },
+    {
+     "w": "placed.",
+     "t": 5.26
+    },
+    {
+     "w": "Wrapped",
+     "t": 5.72
+    },
+    {
+     "w": "in",
+     "t": 6.48
+    },
+    {
+     "w": "cloth,",
+     "t": 6.6
+    },
+    {
+     "w": "pinned",
+     "t": 7.44
+    },
+    {
+     "w": "to",
+     "t": 7.66
+    },
+    {
+     "w": "the",
+     "t": 7.86
+    },
+    {
+     "w": "bottom,",
+     "t": 7.96
+    },
+    {
+     "w": "waiting.",
+     "t": 8.9
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "data": {
+    "text": "168 people. 7,000 years. Brains that refused to disappear.",
+    "emphasis": [
+     "168",
+     "brains"
+    ]
+   },
+   "start": 606.72,
+   "transition": "cut",
+   "chapter": 7,
+   "beat": 77,
+   "end": 613.42,
+   "words": [
+    {
+     "w": "waiting.",
+     "t": -0.04
+    },
+    {
+     "w": "168",
+     "t": 1.16
+    },
+    {
+     "w": "people,",
+     "t": 1.72
+    },
+    {
+     "w": "7000",
+     "t": 2.84
+    },
+    {
+     "w": "years,",
+     "t": 3.16
+    },
+    {
+     "w": "and",
+     "t": 4.44
+    },
+    {
+     "w": "brains",
+     "t": 4.56
+    },
+    {
+     "w": "that",
+     "t": 4.92
+    },
+    {
+     "w": "refuse",
+     "t": 5.14
+    },
+    {
+     "w": "to",
+     "t": 5.46
+    },
+    {
+     "w": "disappear.",
+     "t": 5.76
+    }
+   ]
+  },
+  {
+   "type": "title",
+   "data": {
+    "title": "Windover",
+    "subtitle": "Titusville, Florida · c. 5200 BC",
+    "kicker": "Remember them"
+   },
+   "start": 613.42,
+   "transition": "cut",
+   "chapter": 7,
+   "beat": 78,
+   "end": 620.699,
+   "words": [
+    {
+     "w": "The",
+     "t": 0.12
+    },
+    {
+     "w": "pond",
+     "t": 0.24
+    },
+    {
+     "w": "kept",
+     "t": 0.52
+    },
+    {
+     "w": "them",
+     "t": 0.74
+    },
+    {
+     "w": "safe",
+     "t": 0.96
+    },
+    {
+     "w": "for",
+     "t": 1.22
+    },
+    {
+     "w": "all",
+     "t": 1.44
+    },
+    {
+     "w": "that",
+     "t": 1.62
+    },
+    {
+     "w": "time.",
+     "t": 1.8
+    },
+    {
+     "w": "Now",
+     "t": 2.76
+    },
+    {
+     "w": "it",
+     "t": 2.92
+    },
+    {
+     "w": "is",
+     "t": 3.1
+    },
+    {
+     "w": "our",
+     "t": 3.2
+    },
+    {
+     "w": "turn",
+     "t": 3.42
+    },
+    {
+     "w": "to",
+     "t": 3.7
+    },
+    {
+     "w": "remember",
+     "t": 3.9
+    },
+    {
+     "w": "them.",
+     "t": 4.16
+    }
+   ]
+  }
+ ],
+ "subtitles": [
+  {
+   "start": 0.0,
+   "end": 1.07,
+   "text": "In 1982,"
+  },
+  {
+   "start": 1.64,
+   "end": 3.56,
+   "text": "a man clearing land for a new road in"
+  },
+  {
+   "start": 3.58,
+   "end": 5.78,
+   "text": "central Florida dipped his backhoe into a"
+  },
+  {
+   "start": 5.8,
+   "end": 6.95,
+   "text": "small, muddy pond."
+  },
+  {
+   "start": 7.46,
+   "end": 9.440000000000001,
+   "text": "When the bucket came up, something pale"
+  },
+  {
+   "start": 9.46,
+   "end": 10.79,
+   "text": "was sitting in the black mud."
+  },
+  {
+   "start": 11.22,
+   "end": 11.95,
+   "text": "Human skulls."
+  },
+  {
+   "start": 12.48,
+   "end": 13.09,
+   "text": "Not one."
+  },
+  {
+   "start": 13.44,
+   "end": 13.73,
+   "text": "Several."
+  },
+  {
+   "start": 14.12,
+   "end": 15.09,
+   "text": "The police were called."
+  },
+  {
+   "start": 15.38,
+   "end": 17.11,
+   "text": "Everyone assumed it was a crime scene."
+  },
+  {
+   "start": 17.32,
+   "end": 19.76,
+   "text": "A forgotten murder, perhaps, or an old"
+  },
+  {
+   "start": 19.78,
+   "end": 21.85,
+   "text": "family cemetery nobody had written down."
+  },
+  {
+   "start": 22.6,
+   "end": 24.65,
+   "text": "But these bones were not decades old."
+  },
+  {
+   "start": 24.94,
+   "end": 27.13,
+   "text": "They were more than 7 ,000 years old."
+  },
+  {
+   "start": 27.42,
+   "end": 29.06,
+   "text": "And when scientists looked inside the"
+  },
+  {
+   "start": 29.08,
+   "end": 31.0,
+   "text": "skulls, they found something that should"
+  },
+  {
+   "start": 31.02,
+   "end": 31.85,
+   "text": "not exist."
+  },
+  {
+   "start": 32.3,
+   "end": 33.19,
+   "text": "Human brains."
+  },
+  {
+   "start": 33.72,
+   "end": 36.13999999999999,
+   "text": "Shrunken and dark, but still there, after"
+  },
+  {
+   "start": 36.16,
+   "end": 37.81,
+   "text": "7 ,000 years underwater."
+  },
+  {
+   "start": 38.22,
+   "end": 41.49,
+   "text": "In the end, the pond gave up 168 people."
+  },
+  {
+   "start": 41.92,
+   "end": 44.059999999999995,
+   "text": "This is the story of Windover and of the"
+  },
+  {
+   "start": 44.08,
+   "end": 45.99,
+   "text": "people who were laid to rest beneath it."
+  },
+  {
+   "start": 49.78,
+   "end": 51.66,
+   "text": "The pond sat near the town of Titusville"
+  },
+  {
+   "start": 51.68,
+   "end": 54.3,
+   "text": "on Florida's Atlantic coast, just across"
+  },
+  {
+   "start": 54.32,
+   "end": 56.059999999999995,
+   "text": "the water from where rockets now launch"
+  },
+  {
+   "start": 56.08,
+   "end": 56.75,
+   "text": "into space."
+  },
+  {
+   "start": 57.24,
+   "end": 58.959999999999994,
+   "text": "The land was being cleared for a housing"
+  },
+  {
+   "start": 58.98,
+   "end": 61.32,
+   "text": "development called Windover Farms, and the"
+  },
+  {
+   "start": 61.34,
+   "end": 62.25,
+   "text": "plan was simple."
+  },
+  {
+   "start": 62.68,
+   "end": 64.75,
+   "text": "Fill in the pond, build a road over it."
+  },
+  {
+   "start": 64.94,
+   "end": 66.62,
+   "text": "The medical examiner took one look at the"
+  },
+  {
+   "start": 66.64,
+   "end": 68.71,
+   "text": "bones and ruled out a modern crime."
+  },
+  {
+   "start": 69.1,
+   "end": 69.83,
+   "text": "These were old."
+  },
+  {
+   "start": 70.14,
+   "end": 71.67,
+   "text": "The only question was how old."
+  },
+  {
+   "start": 72.26,
+   "end": 74.41,
+   "text": "What the developers did next was unusual."
+  },
+  {
+   "start": 74.82,
+   "end": 76.58,
+   "text": "Instead of quietly pouring concrete over"
+  },
+  {
+   "start": 76.6,
+   "end": 78.66000000000001,
+   "text": "the problem, they stopped work and paid"
+  },
+  {
+   "start": 78.68,
+   "end": 79.93,
+   "text": "for scientific dating."
+  },
+  {
+   "start": 80.24,
+   "end": 82.08,
+   "text": "For a moment, the future of the site"
+  },
+  {
+   "start": 82.1,
+   "end": 83.96000000000001,
+   "text": "depended on a few people deciding that the"
+  },
+  {
+   "start": 83.98,
+   "end": 85.66000000000001,
+   "text": "past mattered more than a construction"
+  },
+  {
+   "start": 85.68,
+   "end": 86.35,
+   "text": "schedule."
+  },
+  {
+   "start": 86.84,
+   "end": 88.68,
+   "text": "Two bones were sent to a laboratory for"
+  },
+  {
+   "start": 88.7,
+   "end": 89.95,
+   "text": "radiocarbon testing."
+  },
+  {
+   "start": 90.42,
+   "end": 93.10000000000001,
+   "text": "The results came back at about 7 ,200 and"
+  },
+  {
+   "start": 93.12,
+   "end": 94.81,
+   "text": "7 ,300 years."
+  },
+  {
+   "start": 95.46,
+   "end": 96.74000000000001,
+   "text": "That makes these people older than"
+  },
+  {
+   "start": 96.76,
+   "end": 99.48,
+   "text": "writing, older than Stonehenge, older than"
+  },
+  {
+   "start": 99.5,
+   "end": 101.38000000000001,
+   "text": "the Great Pyramid of Egypt by more than 2"
+  },
+  {
+   "start": 101.4,
+   "end": 102.19,
+   "text": ",000 years."
+  },
+  {
+   "start": 102.78,
+   "end": 104.4,
+   "text": "When the Windover people were laid in this"
+  },
+  {
+   "start": 104.42,
+   "end": 106.96000000000001,
+   "text": "pond, there were no empires anywhere on"
+  },
+  {
+   "start": 106.98,
+   "end": 107.31,
+   "text": "Earth."
+  },
+  {
+   "start": 107.74,
+   "end": 110.57,
+   "text": "No kings, no alphabet, no written word."
+  },
+  {
+   "start": 110.9,
+   "end": 112.68,
+   "text": "On the other side of the world, farming"
+  },
+  {
+   "start": 112.7,
+   "end": 114.38000000000001,
+   "text": "villages were still slowly spreading"
+  },
+  {
+   "start": 114.4,
+   "end": 115.10000000000001,
+   "text": "across Europe."
+  },
+  {
+   "start": 115.12,
+   "end": 117.39,
+   "text": "And one more thing was already clear."
+  },
+  {
+   "start": 117.88,
+   "end": 119.44,
+   "text": "These people had not been dumped in the"
+  },
+  {
+   "start": 119.46,
+   "end": 119.85,
+   "text": "pond."
+  },
+  {
+   "start": 120.36,
+   "end": 122.74000000000001,
+   "text": "They had been placed there, carefully, one"
+  },
+  {
+   "start": 122.76,
+   "end": 123.59,
+   "text": "by one."
+  },
+  {
+   "start": 127.66,
+   "end": 129.0,
+   "text": "Archaeologists from Florida State"
+  },
+  {
+   "start": 129.02,
+   "end": 131.28,
+   "text": "University took over the site, but they"
+  },
+  {
+   "start": 131.3,
+   "end": 133.23999999999998,
+   "text": "faced a problem no textbook had an answer"
+  },
+  {
+   "start": 133.26,
+   "end": 133.75,
+   "text": "for."
+  },
+  {
+   "start": 134.08,
+   "end": 135.57,
+   "text": "Their cemetery was underwater."
+  },
+  {
+   "start": 136.16,
+   "end": 137.85999999999999,
+   "text": "Digging blind through mud and water would"
+  },
+  {
+   "start": 137.88,
+   "end": 139.48,
+   "text": "destroy the very thing they wanted to"
+  },
+  {
+   "start": 139.5,
+   "end": 139.91,
+   "text": "study."
+  },
+  {
+   "start": 140.3,
+   "end": 141.57999999999998,
+   "text": "So they came up with an engineering"
+  },
+  {
+   "start": 141.6,
+   "end": 142.23,
+   "text": "solution."
+  },
+  {
+   "start": 142.46,
+   "end": 144.16,
+   "text": "The team surrounded the pond with a ring"
+  },
+  {
+   "start": 144.18,
+   "end": 145.73,
+   "text": "of 160 wells."
+  },
+  {
+   "start": 146.08,
+   "end": 148.06,
+   "text": "Without them, every shovel of peat would"
+  },
+  {
+   "start": 148.08,
+   "end": 149.6,
+   "text": "have filled with water the moment it was"
+  },
+  {
+   "start": 149.62,
+   "end": 150.09,
+   "text": "lifted."
+  },
+  {
+   "start": 150.36,
+   "end": 152.34,
+   "text": "With them, the bottom of the pond slowly"
+  },
+  {
+   "start": 152.36,
+   "end": 153.55,
+   "text": "became a dig site."
+  },
+  {
+   "start": 154.18,
+   "end": 156.16,
+   "text": "Pumps drew the groundwater down, lowering"
+  },
+  {
+   "start": 156.18,
+   "end": 157.89999999999998,
+   "text": "the water table until the peat at the"
+  },
+  {
+   "start": 157.92,
+   "end": 159.51999999999998,
+   "text": "bottom of the pond could be reached and"
+  },
+  {
+   "start": 159.54,
+   "end": 160.83,
+   "text": "excavated by hand."
+  },
+  {
+   "start": 161.32,
+   "end": 163.1,
+   "text": "Season after season, they worked down"
+  },
+  {
+   "start": 163.12,
+   "end": 164.88,
+   "text": "through the peat, recording the exact"
+  },
+  {
+   "start": 164.9,
+   "end": 167.01999999999998,
+   "text": "position of every bone before anything was"
+  },
+  {
+   "start": 167.04,
+   "end": 167.55,
+   "text": "lifted."
+  },
+  {
+   "start": 167.78,
+   "end": 169.39999999999998,
+   "text": "And everything had to be handled with"
+  },
+  {
+   "start": 169.42,
+   "end": 170.28,
+   "text": "extreme care."
+  },
+  {
+   "start": 170.3,
+   "end": 172.61999999999998,
+   "text": "Material that has spent thousands of years"
+  },
+  {
+   "start": 172.64,
+   "end": 174.98,
+   "text": "underwater can crack and crumble quickly"
+  },
+  {
+   "start": 175.0,
+   "end": 176.87,
+   "text": "once it is exposed to open air."
+  },
+  {
+   "start": 177.24,
+   "end": 179.56,
+   "text": "What emerged was not a jumble of bones, it"
+  },
+  {
+   "start": 179.58,
+   "end": 181.11,
+   "text": "was an organized cemetery."
+  },
+  {
+   "start": 181.56,
+   "end": 183.16,
+   "text": "About a hundred of the burials had never"
+  },
+  {
+   "start": 183.18,
+   "end": 183.97,
+   "text": "been disturbed."
+  },
+  {
+   "start": 184.42,
+   "end": 185.85999999999999,
+   "text": "Their skeletons were still fully"
+  },
+  {
+   "start": 185.88,
+   "end": 188.44,
+   "text": "articulated, every bone still lying next"
+  },
+  {
+   "start": 188.46,
+   "end": 189.73,
+   "text": "to the one it once joined."
+  },
+  {
+   "start": 190.32,
+   "end": 191.7,
+   "text": "Most of the dead had been laid on their"
+  },
+  {
+   "start": 191.72,
+   "end": 193.79999999999998,
+   "text": "sides, with their knees drawn up toward"
+  },
+  {
+   "start": 193.82,
+   "end": 195.79,
+   "text": "the chest, as if they were asleep."
+  },
+  {
+   "start": 196.32,
+   "end": 198.11,
+   "text": "And many of them had been pinned in place."
+  },
+  {
+   "start": 198.52,
+   "end": 200.1,
+   "text": "Sharpened wooden stakes had been driven"
+  },
+  {
+   "start": 200.12,
+   "end": 201.67999999999998,
+   "text": "down through their wrappings and into the"
+  },
+  {
+   "start": 201.7,
+   "end": 202.41,
+   "text": "peat below."
+  },
+  {
+   "start": 203.38,
+   "end": 205.06,
+   "text": "Why would anyone stake the dead to the"
+  },
+  {
+   "start": 205.08,
+   "end": 205.99,
+   "text": "bottom of a pond?"
+  },
+  {
+   "start": 206.42,
+   "end": 207.93,
+   "text": "One explanation is practical."
+  },
+  {
+   "start": 208.34,
+   "end": 210.17999999999998,
+   "text": "A body underwater can float back to the"
+  },
+  {
+   "start": 210.2,
+   "end": 210.69,
+   "text": "surface."
+  },
+  {
+   "start": 211.08,
+   "end": 212.43,
+   "text": "The stakes held them down."
+  },
+  {
+   "start": 212.82,
+   "end": 214.38,
+   "text": "Whatever the reason, the people of"
+  },
+  {
+   "start": 214.4,
+   "end": 216.48,
+   "text": "Windover chose water as the resting place"
+  },
+  {
+   "start": 216.5,
+   "end": 217.27,
+   "text": "for their dead."
+  },
+  {
+   "start": 217.54,
+   "end": 219.28,
+   "text": "And that water would keep their secret for"
+  },
+  {
+   "start": 219.3,
+   "end": 220.55,
+   "text": "7 ,000 years."
+  },
+  {
+   "start": 224.68,
+   "end": 226.63,
+   "text": "As the skulls were lifted out of the peat,"
+  },
+  {
+   "start": 226.8,
+   "end": 228.66,
+   "text": "the excavators realized that something was"
+  },
+  {
+   "start": 228.68,
+   "end": 229.69,
+   "text": "still inside them."
+  },
+  {
+   "start": 229.92,
+   "end": 232.34,
+   "text": "In 91 of the skulls, the excavators found"
+  },
+  {
+   "start": 232.36,
+   "end": 233.99,
+   "text": "preserved human brain tissue."
+  },
+  {
+   "start": 234.6,
+   "end": 236.79999999999998,
+   "text": "The brains had shrunk and darkened, but"
+  },
+  {
+   "start": 236.82,
+   "end": 238.5,
+   "text": "their shape and folds could still be made"
+  },
+  {
+   "start": 238.52,
+   "end": 238.97,
+   "text": "out."
+  },
+  {
+   "start": 239.3,
+   "end": 240.49,
+   "text": "And that should have been impossible."
+  },
+  {
+   "start": 241.02,
+   "end": 242.5,
+   "text": "Brain tissue is usually one of the first"
+  },
+  {
+   "start": 242.52,
+   "end": 243.93,
+   "text": "parts of the body to decay."
+  },
+  {
+   "start": 244.32,
+   "end": 246.39999999999998,
+   "text": "So how did a human brain survive for 7"
+  },
+  {
+   "start": 246.42,
+   "end": 247.21,
+   "text": ",000 years?"
+  },
+  {
+   "start": 247.7,
+   "end": 249.57,
+   "text": "The answer lies in the pond itself."
+  },
+  {
+   "start": 249.94,
+   "end": 251.57999999999998,
+   "text": "The peat at the bottom was water logged"
+  },
+  {
+   "start": 251.6,
+   "end": 252.89,
+   "text": "and starved of oxygen."
+  },
+  {
+   "start": 253.24,
+   "end": 255.06,
+   "text": "So the microbes that normally break a body"
+  },
+  {
+   "start": 255.08,
+   "end": 256.26,
+   "text": "down could barely work."
+  },
+  {
+   "start": 256.28,
+   "end": 258.58000000000004,
+   "text": "The bodies also seem to have gone into the"
+  },
+  {
+   "start": 258.6,
+   "end": 259.87,
+   "text": "water soon after death."
+  },
+  {
+   "start": 260.24,
+   "end": 262.39,
+   "text": "The bones show no marks from scavengers,"
+  },
+  {
+   "start": 262.54,
+   "end": 264.26,
+   "text": "so animals never had the chance to reach"
+  },
+  {
+   "start": 264.28,
+   "end": 264.69,
+   "text": "them."
+  },
+  {
+   "start": 265.02,
+   "end": 266.97,
+   "text": "There was one more crucial ingredient."
+  },
+  {
+   "start": 267.46,
+   "end": 269.28000000000003,
+   "text": "Europe's famous bog bodies kept their"
+  },
+  {
+   "start": 269.3,
+   "end": 271.8,
+   "text": "skin, but the acidic water of those bogs"
+  },
+  {
+   "start": 271.82,
+   "end": 273.55,
+   "text": "slowly dissolved their bones."
+  },
+  {
+   "start": 274.16,
+   "end": 276.12,
+   "text": "At Windover, the water was close to"
+  },
+  {
+   "start": 276.14,
+   "end": 276.61,
+   "text": "neutral."
+  },
+  {
+   "start": 276.96,
+   "end": 278.72,
+   "text": "The skin and flesh were gone, but the"
+  },
+  {
+   "start": 278.74,
+   "end": 280.88,
+   "text": "bones survived, and so did what was sealed"
+  },
+  {
+   "start": 280.9,
+   "end": 281.89,
+   "text": "inside the skulls."
+  },
+  {
+   "start": 282.3,
+   "end": 284.56,
+   "text": "Then came the discovery that made Windover"
+  },
+  {
+   "start": 284.58,
+   "end": 286.95,
+   "text": "famous among scientists around the world."
+  },
+  {
+   "start": 287.24,
+   "end": 288.09,
+   "text": "In 1988,"
+  },
+  {
+   "start": 288.72,
+   "end": 289.66,
+   "text": "researchers announced that they had"
+  },
+  {
+   "start": 289.68,
+   "end": 291.46000000000004,
+   "text": "recovered DNA from one of the Windover"
+  },
+  {
+   "start": 291.48,
+   "end": 293.68,
+   "text": "brains, one of the oldest human genetic"
+  },
+  {
+   "start": 293.7,
+   "end": 295.51,
+   "text": "samples ever studied at the time."
+  },
+  {
+   "start": 295.84,
+   "end": 297.58000000000004,
+   "text": "At the time, this was cutting -edge"
+  },
+  {
+   "start": 297.6,
+   "end": 298.27,
+   "text": "science."
+  },
+  {
+   "start": 298.62,
+   "end": 300.90000000000003,
+   "text": "Only four years earlier, researchers had"
+  },
+  {
+   "start": 300.92,
+   "end": 302.96000000000004,
+   "text": "recovered DNA from an extinct animal for"
+  },
+  {
+   "start": 302.98,
+   "end": 304.17,
+   "text": "the very first time."
+  },
+  {
+   "start": 304.7,
+   "end": 306.42,
+   "text": "Ancient human DNA was a brand new"
+  },
+  {
+   "start": 306.44,
+   "end": 307.07,
+   "text": "frontier."
+  },
+  {
+   "start": 307.62,
+   "end": 309.76,
+   "text": "It was a message written in genes, sent"
+  },
+  {
+   "start": 309.78,
+   "end": 311.40000000000003,
+   "text": "from people who lived thousands of years"
+  },
+  {
+   "start": 311.42,
+   "end": 313.75,
+   "text": "before Columbus, before the pyramids,"
+  },
+  {
+   "start": 314.18,
+   "end": 316.23,
+   "text": "before almost everything we call history."
+  },
+  {
+   "start": 316.6,
+   "end": 318.64000000000004,
+   "text": "And the DNA confirmed what the burials"
+  },
+  {
+   "start": 318.66,
+   "end": 319.87,
+   "text": "already suggested."
+  },
+  {
+   "start": 320.34,
+   "end": 322.96000000000004,
+   "text": "These were ancient Native Americans, part"
+  },
+  {
+   "start": 322.98,
+   "end": 325.0,
+   "text": "of a long story that stretches back to the"
+  },
+  {
+   "start": 325.02,
+   "end": 326.49,
+   "text": "first people in the Americas."
+  },
+  {
+   "start": 330.6,
+   "end": 332.38,
+   "text": "The pond preserved something else that"
+  },
+  {
+   "start": 332.4,
+   "end": 334.63,
+   "text": "almost never survives from the Stone Age."
+  },
+  {
+   "start": 335.12,
+   "end": 335.65,
+   "text": "Cloth."
+  },
+  {
+   "start": 336.36,
+   "end": 338.51,
+   "text": "37 of the graves contained woven fabric."
+  },
+  {
+   "start": 338.92,
+   "end": 342.13,
+   "text": "86 pieces in all, made from plant fibers."
+  },
+  {
+   "start": 342.58,
+   "end": 344.14000000000004,
+   "text": "The dead had been wrapped in it before"
+  },
+  {
+   "start": 344.16,
+   "end": 344.73,
+   "text": "burial."
+  },
+  {
+   "start": 345.04,
+   "end": 347.04,
+   "text": "Some were bundled in tight, finely made"
+  },
+  {
+   "start": 347.06,
+   "end": 349.97,
+   "text": "weaves, others in looser, more open ones."
+  },
+  {
+   "start": 350.38,
+   "end": 352.05,
+   "text": "Think about what that cloth required."
+  },
+  {
+   "start": 352.5,
+   "end": 354.03,
+   "text": "Plant fibers had to be gathered,"
+  },
+  {
+   "start": 354.2,
+   "end": 356.44,
+   "text": "processed, twisted into cord, and then"
+  },
+  {
+   "start": 356.46,
+   "end": 357.51,
+   "text": "woven by hand."
+  },
+  {
+   "start": 357.96,
+   "end": 359.98,
+   "text": "A single burial wrap could represent many"
+  },
+  {
+   "start": 360.0,
+   "end": 360.95,
+   "text": "hours of work."
+  },
+  {
+   "start": 361.42,
+   "end": 363.56,
+   "text": "The weaving was complex, using several"
+  },
+  {
+   "start": 363.58,
+   "end": 364.36,
+   "text": "different techniques."
+  },
+  {
+   "start": 364.38,
+   "end": 366.96000000000004,
+   "text": "These were skilled craftspeople, and their"
+  },
+  {
+   "start": 366.98,
+   "end": 368.68,
+   "text": "textiles are among the oldest of their"
+  },
+  {
+   "start": 368.7,
+   "end": 369.83,
+   "text": "kind ever found."
+  },
+  {
+   "start": 370.16,
+   "end": 371.78000000000003,
+   "text": "And that work was not spent on clothing"
+  },
+  {
+   "start": 371.8,
+   "end": 372.51,
+   "text": "for the living."
+  },
+  {
+   "start": 372.72,
+   "end": 374.03,
+   "text": "It was spent on the dead."
+  },
+  {
+   "start": 374.42,
+   "end": 375.86,
+   "text": "That tells us something about how much"
+  },
+  {
+   "start": 375.88,
+   "end": 377.53,
+   "text": "these people mattered to each other."
+  },
+  {
+   "start": 377.96,
+   "end": 379.82,
+   "text": "Alongside the bodies lay the objects of"
+  },
+  {
+   "start": 379.84,
+   "end": 380.69,
+   "text": "everyday life."
+  },
+  {
+   "start": 381.22,
+   "end": 382.45,
+   "text": "Tools of bone and antler."
+  },
+  {
+   "start": 382.98,
+   "end": 383.49,
+   "text": "Shark teeth."
+  },
+  {
+   "start": 383.94,
+   "end": 385.72,
+   "text": "Pieces of bottle gourd, used as"
+  },
+  {
+   "start": 385.74,
+   "end": 386.29,
+   "text": "containers."
+  },
+  {
+   "start": 386.98,
+   "end": 389.07,
+   "text": "These people had no metal and no pottery."
+  },
+  {
+   "start": 389.5,
+   "end": 391.33,
+   "text": "Everything they made came from the land,"
+  },
+  {
+   "start": 391.56,
+   "end": 393.20000000000005,
+   "text": "the water and the animals around them."
+  },
+  {
+   "start": 393.22,
+   "end": 395.62,
+   "text": "They lived from Florida's rivers, marshes"
+  },
+  {
+   "start": 395.64,
+   "end": 397.78000000000003,
+   "text": "and coast, moving with the seasons and"
+  },
+  {
+   "start": 397.8,
+   "end": 400.56,
+   "text": "returning, again and again, to this one"
+  },
+  {
+   "start": 400.58,
+   "end": 401.45,
+   "text": "small pond."
+  },
+  {
+   "start": 401.76,
+   "end": 403.93,
+   "text": "The care in these burials is unmistakable."
+  },
+  {
+   "start": 404.22,
+   "end": 406.02000000000004,
+   "text": "The wrapping, the objects, the careful"
+  },
+  {
+   "start": 406.04,
+   "end": 406.57,
+   "text": "placement."
+  },
+  {
+   "start": 407.1,
+   "end": 408.94,
+   "text": "This was a community that honored its"
+  },
+  {
+   "start": 408.96,
+   "end": 409.39,
+   "text": "dead."
+  },
+  {
+   "start": 413.48,
+   "end": 415.57,
+   "text": "The bones also tell personal stories."
+  },
+  {
+   "start": 416.0,
+   "end": 417.88,
+   "text": "The people buried here ranged from newborn"
+  },
+  {
+   "start": 417.9,
+   "end": 420.37,
+   "text": "babies to elders more than 60 years old."
+  },
+  {
+   "start": 420.78,
+   "end": 422.6,
+   "text": "Children were buried here too, many of"
+  },
+  {
+   "start": 422.62,
+   "end": 422.95,
+   "text": "them."
+  },
+  {
+   "start": 423.3,
+   "end": 425.38,
+   "text": "In a world without medicine, childhood was"
+  },
+  {
+   "start": 425.4,
+   "end": 425.82,
+   "text": "dangerous."
+  },
+  {
+   "start": 425.84,
+   "end": 428.26,
+   "text": "And the pond holds that loss alongside"
+  },
+  {
+   "start": 428.28,
+   "end": 429.33,
+   "text": "everything else."
+  },
+  {
+   "start": 429.8,
+   "end": 431.56,
+   "text": "Many of the adults had worn joints and"
+  },
+  {
+   "start": 431.58,
+   "end": 432.17,
+   "text": "arthritis."
+  },
+  {
+   "start": 432.58,
+   "end": 434.5,
+   "text": "The marks of hard, physical lives spent"
+  },
+  {
+   "start": 434.52,
+   "end": 436.27,
+   "text": "walking, carrying and working."
+  },
+  {
+   "start": 436.68,
+   "end": 438.44,
+   "text": "But one skeleton stopped the researchers"
+  },
+  {
+   "start": 438.46,
+   "end": 439.41,
+   "text": "in their tracks."
+  },
+  {
+   "start": 439.82,
+   "end": 442.19,
+   "text": "A boy, about 15 years old."
+  },
+  {
+   "start": 442.48,
+   "end": 444.76,
+   "text": "He had been born with spina bifida, a"
+  },
+  {
+   "start": 444.78,
+   "end": 446.66,
+   "text": "condition in which the spine does not form"
+  },
+  {
+   "start": 446.68,
+   "end": 447.27,
+   "text": "properly."
+  },
+  {
+   "start": 447.6,
+   "end": 449.70000000000005,
+   "text": "He had also lost one of his feet, and the"
+  },
+  {
+   "start": 449.72,
+   "end": 451.55,
+   "text": "bone of his lower leg had healed over."
+  },
+  {
+   "start": 451.92,
+   "end": 453.52000000000004,
+   "text": "He had survived that injury for a long"
+  },
+  {
+   "start": 453.54,
+   "end": 453.90000000000003,
+   "text": "time."
+  },
+  {
+   "start": 453.92,
+   "end": 456.20000000000005,
+   "text": "In a band of hunter -gatherers that moved"
+  },
+  {
+   "start": 456.22,
+   "end": 458.24,
+   "text": "through the landscape on foot, a child"
+  },
+  {
+   "start": 458.26,
+   "end": 459.72,
+   "text": "like this could not have kept up on his"
+  },
+  {
+   "start": 459.74,
+   "end": 460.15,
+   "text": "own."
+  },
+  {
+   "start": 460.5,
+   "end": 461.84000000000003,
+   "text": "He would have needed help every single"
+  },
+  {
+   "start": 461.86,
+   "end": 462.33,
+   "text": "day."
+  },
+  {
+   "start": 462.76,
+   "end": 463.61,
+   "text": "And he got it."
+  },
+  {
+   "start": 463.94,
+   "end": 464.85,
+   "text": "Someone fed him."
+  },
+  {
+   "start": 465.16,
+   "end": 466.17,
+   "text": "Someone carried him."
+  },
+  {
+   "start": 466.4,
+   "end": 468.89,
+   "text": "Someone cared for him, year after year,"
+  },
+  {
+   "start": 469.04,
+   "end": 470.27,
+   "text": "for his entire life."
+  },
+  {
+   "start": 470.68,
+   "end": 472.33,
+   "text": "Think about what that meant in practice."
+  },
+  {
+   "start": 472.76,
+   "end": 474.94,
+   "text": "Every time the group moved, someone had to"
+  },
+  {
+   "start": 474.96,
+   "end": 475.61,
+   "text": "carry him."
+  },
+  {
+   "start": 475.86,
+   "end": 478.11,
+   "text": "Every meal, someone made sure he ate."
+  },
+  {
+   "start": 478.56,
+   "end": 481.14000000000004,
+   "text": "Not for a week or a season, but for 15"
+  },
+  {
+   "start": 481.16,
+   "end": 481.73,
+   "text": "years."
+  },
+  {
+   "start": 482.14,
+   "end": 485.14000000000004,
+   "text": "7 ,000 years ago, with no medicine, no"
+  },
+  {
+   "start": 485.16,
+   "end": 487.22,
+   "text": "metal, and no writing, the people of"
+  },
+  {
+   "start": 487.24,
+   "end": 488.6,
+   "text": "Windover looked after their most"
+  },
+  {
+   "start": 488.62,
+   "end": 489.21,
+   "text": "vulnerable."
+  },
+  {
+   "start": 489.74,
+   "end": 491.62,
+   "text": "It is a powerful reminder that compassion"
+  },
+  {
+   "start": 491.64,
+   "end": 493.77,
+   "text": "is far older than civilization."
+  },
+  {
+   "start": 498.04,
+   "end": 499.70000000000005,
+   "text": "Which brings us back to the strangest"
+  },
+  {
+   "start": 499.72,
+   "end": 500.61,
+   "text": "question of all."
+  },
+  {
+   "start": 501.2,
+   "end": 502.45,
+   "text": "Why bury the dead in water?"
+  },
+  {
+   "start": 502.86,
+   "end": 504.09,
+   "text": "No one knows for certain."
+  },
+  {
+   "start": 504.32,
+   "end": 505.98,
+   "text": "The people of Windover left no written"
+  },
+  {
+   "start": 506.0,
+   "end": 508.21,
+   "text": "record, only the choices they made,"
+  },
+  {
+   "start": 508.38,
+   "end": 509.47,
+   "text": "preserved in the peat."
+  },
+  {
+   "start": 509.86,
+   "end": 511.68,
+   "text": "Burying the dead underwater is rare in the"
+  },
+  {
+   "start": 511.7,
+   "end": 512.62,
+   "text": "archaeological record."
+  },
+  {
+   "start": 512.64,
+   "end": 515.1800000000001,
+   "text": "Most ancient people buried their dead in"
+  },
+  {
+   "start": 515.2,
+   "end": 517.55,
+   "text": "the ground, in caves or in mounds."
+  },
+  {
+   "start": 518.22,
+   "end": 520.28,
+   "text": "Windover is different, and that difference"
+  },
+  {
+   "start": 520.3,
+   "end": 521.47,
+   "text": "is part of its mystery."
+  },
+  {
+   "start": 522.1,
+   "end": 524.37,
+   "text": "We do know the pond was not used once."
+  },
+  {
+   "start": 524.78,
+   "end": 526.89,
+   "text": "It was returned to again and again,"
+  },
+  {
+   "start": 527.24,
+   "end": 529.64,
+   "text": "generation after generation, as if it were"
+  },
+  {
+   "start": 529.66,
+   "end": 531.39,
+   "text": "a place that mattered deeply to them."
+  },
+  {
+   "start": 531.66,
+   "end": 534.16,
+   "text": "Some see the water as a doorway, a passage"
+  },
+  {
+   "start": 534.18,
+   "end": 535.88,
+   "text": "between the world of the living and the"
+  },
+  {
+   "start": 535.9,
+   "end": 536.79,
+   "text": "world of the dead."
+  },
+  {
+   "start": 537.52,
+   "end": 538.89,
+   "text": "Others think the reason was practical."
+  },
+  {
+   "start": 539.44,
+   "end": 541.16,
+   "text": "Under the water, the dead were safe from"
+  },
+  {
+   "start": 541.18,
+   "end": 543.2,
+   "text": "animals, and safe from the heat of the"
+  },
+  {
+   "start": 543.22,
+   "end": 544.01,
+   "text": "Florida sun."
+  },
+  {
+   "start": 544.56,
+   "end": 545.53,
+   "text": "Perhaps it was both."
+  },
+  {
+   "start": 545.96,
+   "end": 547.9200000000001,
+   "text": "A sacred place that also protected the"
+  },
+  {
+   "start": 547.94,
+   "end": 548.85,
+   "text": "people they loved."
+  },
+  {
+   "start": 549.16,
+   "end": 550.96,
+   "text": "Whatever they believed, their choice"
+  },
+  {
+   "start": 550.98,
+   "end": 552.34,
+   "text": "worked better than they could ever have"
+  },
+  {
+   "start": 552.36,
+   "end": 552.95,
+   "text": "imagined."
+  },
+  {
+   "start": 557.1,
+   "end": 558.07,
+   "text": "In 1987,"
+  },
+  {
+   "start": 558.7,
+   "end": 560.5,
+   "text": "Windover was declared a national historic"
+  },
+  {
+   "start": 560.52,
+   "end": 561.15,
+   "text": "landmark."
+  },
+  {
+   "start": 561.62,
+   "end": 563.04,
+   "text": "One of the most important archaeological"
+  },
+  {
+   "start": 563.06,
+   "end": 564.51,
+   "text": "sites in North America."
+  },
+  {
+   "start": 564.98,
+   "end": 566.86,
+   "text": "Today, the people of Windover are also"
+  },
+  {
+   "start": 566.88,
+   "end": 568.29,
+   "text": "part of a larger conversation."
+  },
+  {
+   "start": 568.78,
+   "end": 570.4,
+   "text": "These were ancestors of Native American"
+  },
+  {
+   "start": 570.42,
+   "end": 572.64,
+   "text": "communities, and many people believe their"
+  },
+  {
+   "start": 572.66,
+   "end": 574.64,
+   "text": "remains deserve not just study, but"
+  },
+  {
+   "start": 574.66,
+   "end": 575.25,
+   "text": "respect."
+  },
+  {
+   "start": 575.7,
+   "end": 577.72,
+   "text": "How to balance scientific discovery with"
+  },
+  {
+   "start": 577.74,
+   "end": 579.7,
+   "text": "the wishes of indigenous people is a"
+  },
+  {
+   "start": 579.72,
+   "end": 581.5,
+   "text": "question archaeology is still learning to"
+  },
+  {
+   "start": 581.52,
+   "end": 582.05,
+   "text": "answer."
+  },
+  {
+   "start": 582.36,
+   "end": 584.19,
+   "text": "Windover is part of that story too."
+  },
+  {
+   "start": 584.7,
+   "end": 586.22,
+   "text": "And in a decision that still surprises"
+  },
+  {
+   "start": 586.24,
+   "end": 588.78,
+   "text": "people, the archaeologists did not empty"
+  },
+  {
+   "start": 588.8,
+   "end": 589.79,
+   "text": "the entire pond."
+  },
+  {
+   "start": 590.28,
+   "end": 591.58,
+   "text": "Part of it was deliberately left"
+  },
+  {
+   "start": 591.6,
+   "end": 594.5,
+   "text": "untouched, sealed in its peat, waiting for"
+  },
+  {
+   "start": 594.52,
+   "end": 596.24,
+   "text": "scientists with better tools and better"
+  },
+  {
+   "start": 596.26,
+   "end": 597.39,
+   "text": "questions than ours."
+  },
+  {
+   "start": 597.9,
+   "end": 600.0600000000001,
+   "text": "Somewhere beneath that dark water, more of"
+  },
+  {
+   "start": 600.08,
+   "end": 601.94,
+   "text": "the people of Windover may still be lying"
+  },
+  {
+   "start": 601.96,
+   "end": 603.48,
+   "text": "exactly where they were placed."
+  },
+  {
+   "start": 603.5,
+   "end": 606.21,
+   "text": "Wrapped in cloth, pinned to the bottom,"
+  },
+  {
+   "start": 606.68,
+   "end": 607.05,
+   "text": "waiting."
+  },
+  {
+   "start": 607.88,
+   "end": 611.84,
+   "text": "168 people, 7000 years, and brains that"
+  },
+  {
+   "start": 611.86,
+   "end": 613.05,
+   "text": "refuse to disappear."
+  },
+  {
+   "start": 613.54,
+   "end": 615.71,
+   "text": "The pond kept them safe for all that time."
+  },
+  {
+   "start": 616.18,
+   "end": 618.01,
+   "text": "Now it is our turn to remember them."
+  }
+ ]
+}

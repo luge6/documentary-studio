@@ -177,7 +177,7 @@ const FOCUS = {
   full: [0, -0.4, 0, 13], skull: [0, 2.7, 0.05, 3.2], jaw: [0, 2.3, 0.3, 2.4], teeth: [0, 2.3, 0.3, 2.4], chest: [0, 0.9, 0, 5], spine: [0, 0.4, -0.5, 6],
   left_shoulder: [0.85, 1.25, -0.35, 3.4], right_shoulder: [-0.85, 1.25, -0.35, 3.4], pelvis: [0, -0.55, 0, 4], hips: [0, -0.55, 0, 4],
   left_arm: [1.08, -0.3, 0, 4.6], right_arm: [-1.08, -0.3, 0, 4.6], left_leg: [0.4, -2.2, 0, 4.8], right_leg: [-0.4, -2.2, 0, 4.8],
-  left_knee: [0.38, -2.15, 0.05, 2.8], right_knee: [-0.38, -2.15, 0.05, 2.8], abdomen: [0, 0.0, 0.2, 4.5],
+  left_knee: [0.38, -2.15, 0.05, 4.6], right_knee: [-0.38, -2.15, 0.05, 4.6], abdomen: [0, 0.0, 0.2, 4.5],
 };
 function skeleton(BONE, FLESH) {
   const sk = new THREE.Group();

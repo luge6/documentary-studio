@@ -81,9 +81,10 @@ for i, sh in enumerate(TL["shots"]):
     elif typ == "quote": place(sfx, boom(55, 40, 2.5), s0 + 0.1, 0.25)
     elif typ == "statement":
         place(sfx, boom(70, 38, 1.8), s0 + 0.05, 0.35)
-        for w in d.get("emphasis", []):
-            t = cue(w)
-            if t is not None: place(sfx, boom(95, 40, 1.2), s0 + t, 0.4)
+        toks = str(d.get("text", "")).split(); step = min(0.16, dur * 0.35 / max(1, len(toks)))
+        emph = {norm_word(w) for w in d.get("emphasis", [])}
+        hits = [0.15 + i * step for i, w in enumerate(toks) if norm_word(w) in emph]
+        if hits: place(sfx, boom(95, 40, 1.2), s0 + hits[0], 0.4)
     elif typ == "number":
         end = max(0.6, dur * 0.55); t = 0.15; step = 0.05
         while t < end: place(sfx, click(0.006), s0 + t, 0.09); step *= 1.06; t += step
