@@ -3,11 +3,13 @@ import { renderer, loadFonts, loadImage, loadModel, models, images, disposeTree 
 import { W, H, G, F, C, post, lin, sm, lerp, text, wrap, mk } from './core.js';
 import * as A from './shots_a.js';
 import * as B from './shots_b.js';
+import { footage } from './shots_f.js';
 
 const BUILD = {
   title: A.title, chapter: A.chapter, statement: A.statement, number: A.number, board: A.board, checklist: A.checklist,
   document: A.document_, quote: A.quote, map: B.map, timeline: B.timeline, photo: B.photo, bars: B.bars,
   xray: B.xray_, artifact: B.artifact, landscape: B.landscape, molecule: B.molecule,
+  footage: (d, S, i) => footage(d, S, i, PROJ),
 };
 window.SHOT_TYPES = Object.keys(BUILD);
 const params = new URLSearchParams(location.search);
@@ -43,11 +45,12 @@ function get(i) {
     if (!fn) throw new Error(`unknown shot type "${s.type}" (shot ${i})`);
     const o = fn(s.data || {}, makeS(s), i); o.S = makeS(s); inst.set(i, o);
   }
-  for (const k of [...inst.keys()]) if (k < i - 1 || k > i + 1) { disposeTree(inst.get(k).scene); inst.delete(k); }
+  for (const k of [...inst.keys()]) if (k < i - 1 || k > i + 1) { const o = inst.get(k); if (o.scene) disposeTree(o.scene); inst.delete(k); }
   return inst.get(i);
 }
-function drawShot(i, lt, g) {
+async function drawShot(i, lt, g) {
   const o = get(i); const s = TL.shots[i]; lt = Math.max(0, Math.min(lt, s.end - s.start));
+  if (o.footage) { await o.prepare(lt); const prev = G.ctx; g.save(); o.draw(lt, g); g.restore(); G.ctx = prev; return; }
   o.update(lt); renderer.render(o.scene, o.camera);
   g.drawImage(renderer.domElement, 0, 0, W, H);
   if (o.overlay) { const prev = G.ctx; G.ctx = g; g.save(); o.overlay(lt); g.restore(); G.ctx = prev; }
@@ -62,15 +65,15 @@ function subtitles(t) {
   ctx.fillStyle = '#fff'; ctx.fillText(s.text, 960, 1003); ctx.restore();
 }
 
-window.renderFrame = (t) => {
+window.renderFrame = async (t) => {
   const frame = Math.round(t * (TL.fps || 24)); G.frame = frame; G.t = t;
   ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.globalAlpha = 1; ctx.globalCompositeOperation = 'source-over';
   const i = shotAt(t), s = TL.shots[i], lt = t - s.start, dur = s.end - s.start;
   const tr = s.transition || 'cut', TD = 0.5;
   if (tr === 'fade' && i > 0 && lt < TD) {
-    const p = TL.shots[i - 1]; drawShot(i - 1, t - p.start, ctx); drawShot(i, lt, bctx);
+    const p = TL.shots[i - 1]; await drawShot(i - 1, t - p.start, ctx); await drawShot(i, lt, bctx);
     ctx.save(); ctx.globalAlpha = sm(lt / TD); ctx.drawImage(buf, 0, 0); ctx.restore();
-  } else drawShot(i, lt, ctx);
+  } else await drawShot(i, lt, ctx);
   let k = 0;
   if (tr === 'dip') k = Math.max(k, 1 - lin(lt, 0, 0.45));
   const nx = TL.shots[i + 1]; if (nx && nx.transition === 'dip') k = Math.max(k, lin(lt, dur - 0.45, dur));
@@ -81,8 +84,8 @@ window.renderFrame = (t) => {
 };
 
 // Thumbnail: a frame of shot i at local time lt with big punchy text on the left.
-window.renderThumb = (i, lt, words = '', accent = '') => {
-  const s = TL.shots[i]; ctx.setTransform(1, 0, 0, 1, 0, 0); drawShot(i, lt ?? (s.end - s.start) * 0.7, ctx); post(ctx, 1, 0.05);
+window.renderThumb = async (i, lt, words = '', accent = '') => {
+  const s = TL.shots[i]; ctx.setTransform(1, 0, 0, 1, 0, 0); await drawShot(i, lt ?? (s.end - s.start) * 0.7, ctx); post(ctx, 1, 0.05);
   const gr = ctx.createLinearGradient(0, 0, W * 0.75, 0); gr.addColorStop(0, 'rgba(0,0,0,0.85)'); gr.addColorStop(1, 'rgba(0,0,0,0)'); ctx.fillStyle = gr; ctx.fillRect(0, 0, W, H);
   const lines = String(words).toUpperCase().split('|'); const size = lines.length > 2 ? 150 : 180;
   lines.forEach((l, k) => { const y = H / 2 - ((lines.length - 1) * size * 1.05) / 2 + k * size * 1.05 + size * 0.35; G.ctx = ctx;
@@ -90,7 +93,7 @@ window.renderThumb = (i, lt, words = '', accent = '') => {
 };
 // Render a frame and return it as a JPEG (base64) - far faster than a page screenshot.
 window.grabFrame = async (t, q = 0.92) => {
-  window.renderFrame(t);
+  await window.renderFrame(t);
   const blob = await new Promise(r => main.toBlob(r, 'image/jpeg', q));
   const b = new Uint8Array(await blob.arrayBuffer()); let s = '';
   for (let i = 0; i < b.length; i += 0x8000) s += String.fromCharCode.apply(null, b.subarray(i, i + 0x8000));
@@ -103,7 +106,7 @@ window.profile = (t) => {
   return { type: s.type, update: t1 - t0, gl: t2 - t1, blit: t3 - t2, post: t4 - t3 };
 };
 window.profileGrab = async (t) => {
-  const a = performance.now(); window.renderFrame(t); const gl = renderer.getContext(); ctx.getImageData(0, 0, 1, 1); const b = performance.now();
+  const a = performance.now(); await window.renderFrame(t); const gl = renderer.getContext(); ctx.getImageData(0, 0, 1, 1); const b = performance.now();
   const blob = await new Promise(r => main.toBlob(r, 'image/jpeg', 0.92)); const c = performance.now();
   const raw = ctx.getImageData(0, 0, W, H); const d = performance.now();
   return { render: b - a, toBlob: c - b, getImageData: d - c, kb: blob.size / 1024 };

@@ -84,12 +84,34 @@
  ],
  "shots": [
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "plains",
-    "time": "dusk",
-    "caption": "Central Florida",
-    "sub": "1982"
+    "clips": [
+     {
+      "id": "ai_backhoe",
+      "caption": "Central Florida",
+      "sub": "1982 · Dramatization"
+     },
+     "px12060113"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s000_0",
+      "t0": 0.0,
+      "t1": 3.67,
+      "caption": "Central Florida",
+      "sub": "1982 · Dramatization",
+      "n": 100
+     },
+     {
+      "dir": "assets/frames/s000_1",
+      "t0": 3.67,
+      "t1": 7.34,
+      "caption": null,
+      "sub": null,
+      "n": 93
+     }
+    ]
    },
    "start": 0.0,
    "transition": "cut",
@@ -184,12 +206,30 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Human skulls. Not one. Several.",
-    "emphasis": [
-     "skulls",
-     "several"
+    "clips": [
+     {
+      "id": "ai_skulls_bucket",
+      "sub": "Dramatization"
+     }
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Human skulls.",
+     "emphasis": [
+      "skulls"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s001_0",
+      "t0": 0.0,
+      "t1": 6.66,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 165
+     }
     ]
    },
    "start": 7.34,
@@ -273,25 +313,37 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Windover pond",
-    "cards": [
+    "clips": [
+     "px7714378",
+     "px6581271",
+     "px10466486"
+    ],
+    "segs": [
      {
-      "kind": "clip",
-      "source": "Local news",
-      "headline": "Skulls found at construction site",
-      "cue": "police"
+      "dir": "assets/frames/s002_0",
+      "t0": 0.0,
+      "t1": 2.827,
+      "caption": null,
+      "sub": null,
+      "n": 80
      },
      {
-      "kind": "note",
-      "text": "Homicide?",
-      "cue": "murder"
+      "dir": "assets/frames/s002_1",
+      "t0": 2.827,
+      "t1": 5.653,
+      "caption": null,
+      "sub": null,
+      "n": 80
      },
      {
-      "kind": "note",
-      "text": "Old family cemetery?",
-      "cue": "cemetery"
+      "dir": "assets/frames/s002_2",
+      "t0": 5.653,
+      "t1": 8.48,
+      "caption": null,
+      "sub": null,
+      "n": 73
      }
     ]
    },
@@ -400,12 +452,28 @@
    ]
   },
   {
-   "type": "number",
+   "type": "footage",
    "data": {
-    "value": "7000",
-    "suffix": "+",
-    "label": "years old",
-    "kicker": "Age of the bones"
+    "clips": [
+     "px5762177"
+    ],
+    "overlay": {
+     "kind": "number",
+     "value": "7000",
+     "label": "years old",
+     "suffix": "+",
+     "kicker": "Age of the bones"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s003_0",
+      "t0": 0.0,
+      "t1": 4.82,
+      "caption": null,
+      "sub": null,
+      "n": 120
+     }
+    ]
    },
    "start": 22.48,
    "transition": "cut",
@@ -476,15 +544,27 @@
    ]
   },
   {
-   "type": "xray",
+   "type": "footage",
    "data": {
-    "focus": "skull",
-    "cue": "something",
-    "label": "Soft tissue detected",
-    "detail": "Inside the cranium",
-    "markerShape": "sphere",
-    "subject": "Windover burial",
-    "scan": "Cranial scan"
+    "clips": [
+     "px8413556"
+    ],
+    "overlay": {
+     "kind": "hud",
+     "label": "Soft tissue detected",
+     "detail": "Inside the cranium",
+     "scan": "Cranial scan"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s004_0",
+      "t0": 0.0,
+      "t1": 4.88,
+      "caption": null,
+      "sub": null,
+      "n": 122
+     }
+    ]
    },
    "start": 27.3,
    "transition": "cut",
@@ -551,11 +631,30 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Human brains. Still there after 7,000 years.",
-    "emphasis": [
-     "brains"
+    "clips": [
+     {
+      "id": "ai_brain",
+      "sub": "Dramatization"
+     }
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Human brains.",
+     "emphasis": [
+      "brains"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s005_0",
+      "t0": 0.0,
+      "t1": 5.92,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 147
+     }
     ]
    },
    "start": 32.18,
@@ -752,13 +851,38 @@
    "words": []
   },
   {
-   "type": "map",
+   "type": "footage",
    "data": {
-    "place": "Windover Pond",
-    "coords": "28.6° N, 80.8° W",
-    "region": "Titusville, Florida",
-    "terrain": "coast",
-    "cue": "Titusville"
+    "clips": [
+     {
+      "id": "px8360189",
+      "caption": "Titusville, Florida",
+      "sub": "Atlantic coast"
+     },
+     {
+      "id": "px854269",
+      "caption": "Cape Canaveral",
+      "sub": "Across the water"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s008_0",
+      "t0": 0.0,
+      "t1": 3.78,
+      "caption": "Titusville, Florida",
+      "sub": "Atlantic coast",
+      "n": 103
+     },
+     {
+      "dir": "assets/frames/s008_1",
+      "t0": 3.78,
+      "t1": 7.56,
+      "caption": "Cape Canaveral",
+      "sub": "Across the water",
+      "n": 96
+     }
+    ]
    },
    "start": 49.56,
    "transition": "dip",
@@ -861,12 +985,34 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "forest",
-    "time": "day",
-    "caption": "Windover Farms",
-    "sub": "Brevard County, Florida"
+    "clips": [
+     {
+      "id": "px28978188",
+      "caption": "Windover Farms",
+      "sub": "Housing development"
+     },
+     "px12060113"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s009_0",
+      "t0": 0.0,
+      "t1": 3.85,
+      "caption": "Windover Farms",
+      "sub": "Housing development",
+      "n": 104
+     },
+     {
+      "dir": "assets/frames/s009_1",
+      "t0": 3.85,
+      "t1": 7.7,
+      "caption": null,
+      "sub": null,
+      "n": 97
+     }
+    ]
    },
    "start": 57.12,
    "transition": "cut",
@@ -981,24 +1127,28 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Medical examiner",
-    "subtitle": "First assessment",
-    "items": [
+    "clips": [
+     "px10482310",
+     "px5762181"
+    ],
+    "segs": [
      {
-      "text": "Recent homicide",
-      "mark": "cross",
-      "markCue": "crime"
+      "dir": "assets/frames/s010_0",
+      "t0": 0.0,
+      "t1": 3.66,
+      "caption": null,
+      "sub": null,
+      "n": 100
      },
      {
-      "text": "Old burial",
-      "mark": "check",
-      "markCue": "old"
-     },
-     {
-      "text": "Age of remains",
-      "mark": "question"
+      "dir": "assets/frames/s010_1",
+      "t0": 3.66,
+      "t1": 7.32,
+      "caption": null,
+      "sub": null,
+      "n": 93
      }
     ]
    },
@@ -1107,24 +1257,28 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Windover pond",
-    "cards": [
+    "clips": [
+     "px3214535",
+     "px9573754"
+    ],
+    "segs": [
      {
-      "kind": "index",
-      "lines": [
-       "SITE:     WINDOVER POND",
-       "STATUS:   WORK HALTED",
-       "ACTION:   RADIOCARBON TEST",
-       "SAMPLES:  2 BONES"
-      ],
-      "cue": "stopped"
+      "dir": "assets/frames/s011_0",
+      "t0": 0.0,
+      "t1": 3.99,
+      "caption": null,
+      "sub": null,
+      "n": 108
      },
      {
-      "kind": "polaroid",
-      "scene": "forest",
-      "caption": "Windover Farms, 1982"
+      "dir": "assets/frames/s011_1",
+      "t0": 3.99,
+      "t1": 7.98,
+      "caption": null,
+      "sub": null,
+      "n": 101
      }
     ]
    },
@@ -1229,11 +1383,20 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "The past mattered more than the schedule.",
-    "emphasis": [
-     "past"
+    "clips": [
+     "px6550424"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s012_0",
+      "t0": 0.0,
+      "t1": 6.6,
+      "caption": null,
+      "sub": null,
+      "n": 163
+     }
     ]
    },
    "start": 80.12,
@@ -1337,20 +1500,37 @@
    ]
   },
   {
-   "type": "bars",
+   "type": "footage",
    "data": {
-    "title": "Radiocarbon results (years before present)",
-    "items": [
+    "clips": [
+     "px9573754",
+     "px8540609"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "7,210 and 7,320 years old",
+     "emphasis": [
+      "7,320"
+     ]
+    },
+    "segs": [
      {
-      "label": "Bone sample 1",
-      "value": 7210
+      "dir": "assets/frames/s013_0",
+      "t0": 0.0,
+      "t1": 4.31,
+      "caption": null,
+      "sub": null,
+      "n": 115
      },
      {
-      "label": "Bone sample 2",
-      "value": 7320
+      "dir": "assets/frames/s013_1",
+      "t0": 4.31,
+      "t1": 8.62,
+      "caption": null,
+      "sub": null,
+      "n": 108
      }
-    ],
-    "highlight": 1
+    ]
    },
    "start": 86.72,
    "transition": "cut",
@@ -1449,30 +1629,51 @@
    ]
   },
   {
-   "type": "timeline",
+   "type": "footage",
    "data": {
-    "events": [
+    "clips": [
      {
-      "date": "c. 5200 BC",
-      "label": "People are buried in Windover Pond"
+      "id": "px7492694",
+      "caption": "Writing",
+      "sub": "c. 3200 BC"
      },
      {
-      "date": "c. 3200 BC",
-      "label": "Writing is invented",
-      "cue": "writing"
+      "id": "px15939381",
+      "caption": "Stone circles",
+      "sub": "c. 3000 BC"
      },
      {
-      "date": "c. 3000 BC",
-      "label": "Work begins at Stonehenge",
-      "cue": "stonehenge"
-     },
-     {
-      "date": "c. 2560 BC",
-      "label": "The Great Pyramid of Giza",
-      "cue": "pyramid"
+      "id": "px20284255",
+      "caption": "The Great Pyramid",
+      "sub": "c. 2560 BC"
      }
     ],
-    "highlight": 0
+    "segs": [
+     {
+      "dir": "assets/frames/s014_0",
+      "t0": 0.0,
+      "t1": 2.44,
+      "caption": "Writing",
+      "sub": "c. 3200 BC",
+      "n": 71
+     },
+     {
+      "dir": "assets/frames/s014_1",
+      "t0": 2.44,
+      "t1": 4.88,
+      "caption": "Stone circles",
+      "sub": "c. 3000 BC",
+      "n": 71
+     },
+     {
+      "dir": "assets/frames/s014_2",
+      "t0": 4.88,
+      "t1": 7.32,
+      "caption": "The Great Pyramid",
+      "sub": "c. 2560 BC",
+      "n": 63
+     }
+    ]
    },
    "start": 95.34,
    "transition": "cut",
@@ -1575,12 +1776,30 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "plains",
-    "time": "dawn",
-    "caption": "The world in 5200 BC",
-    "sub": "Before cities, kings or writing"
+    "clips": [
+     "px4460025",
+     "px16572179"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s015_0",
+      "t0": 0.0,
+      "t1": 6.17,
+      "caption": null,
+      "sub": null,
+      "n": 160
+     },
+     {
+      "dir": "assets/frames/s015_1",
+      "t0": 6.17,
+      "t1": 12.34,
+      "caption": null,
+      "sub": null,
+      "n": 153
+     }
+    ]
    },
    "start": 102.66,
    "transition": "cut",
@@ -1743,11 +1962,23 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "They had been placed there. One by one.",
-    "emphasis": [
-     "placed"
+    "clips": [
+     {
+      "id": "ai_ancient_burial",
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s016_0",
+      "t0": 0.0,
+      "t1": 8.8,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 194
+     }
     ]
    },
    "start": 115.0,
@@ -1873,12 +2104,25 @@
    "words": []
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "coast",
-    "time": "dawn",
-    "caption": "Windover Pond",
-    "sub": "A cemetery under water"
+    "clips": [
+     {
+      "id": "ai_excavation",
+      "caption": "The excavation",
+      "sub": "1984 – 1986 · Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s018_0",
+      "t0": 0.0,
+      "t1": 8.74,
+      "caption": "The excavation",
+      "sub": "1984 – 1986 · Dramatization",
+      "n": 194
+     }
+    ]
    },
    "start": 127.3,
    "transition": "dip",
@@ -1985,11 +2229,20 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "How do you excavate a pond?",
-    "emphasis": [
-     "pond"
+    "clips": [
+     "px5701468"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s019_0",
+      "t0": 0.0,
+      "t1": 6.3,
+      "caption": null,
+      "sub": null,
+      "n": 156
+     }
     ]
    },
    "start": 136.04,
@@ -2093,11 +2346,28 @@
    ]
   },
   {
-   "type": "number",
+   "type": "footage",
    "data": {
-    "value": "160",
-    "label": "wells around the pond",
-    "kicker": "The dewatering system"
+    "clips": [
+     "px13368021"
+    ],
+    "overlay": {
+     "kind": "number",
+     "value": "160",
+     "label": "wells around the pond",
+     "suffix": "",
+     "kicker": "The dewatering system"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s020_0",
+      "t0": 0.0,
+      "t1": 3.62,
+      "caption": null,
+      "sub": null,
+      "n": 92
+     }
+    ]
    },
    "start": 142.34,
    "transition": "cut",
@@ -2152,13 +2422,21 @@
    ]
   },
   {
-   "type": "map",
+   "type": "footage",
    "data": {
-    "place": "Windover Pond",
-    "coords": "Ring of 160 wells",
-    "region": "Dewatering the site",
-    "terrain": "plains",
-    "cue": "shovel"
+    "clips": [
+     "px5479433"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s021_0",
+      "t0": 0.0,
+      "t1": 8.1,
+      "caption": null,
+      "sub": null,
+      "n": 199
+     }
+    ]
    },
    "start": 145.96,
    "transition": "cut",
@@ -2281,25 +2559,22 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Excavation plan",
-    "subtitle": "Windover, 1984",
-    "items": [
+    "clips": [
      {
-      "text": "Drill 160 wells",
-      "mark": "check",
-      "markCue": "pumps"
-     },
+      "id": "px13368021",
+      "start": 12
+     }
+    ],
+    "segs": [
      {
-      "text": "Lower the water table",
-      "mark": "check",
-      "markCue": "lowering"
-     },
-     {
-      "text": "Excavate the peat by hand",
-      "mark": "check",
-      "markCue": "hand"
+      "dir": "assets/frames/s022_0",
+      "t0": 0.0,
+      "t1": 7.14,
+      "caption": null,
+      "sub": null,
+      "n": 176
      }
     ]
    },
@@ -2412,27 +2687,23 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Field records",
-    "cards": [
+    "clips": [
      {
-      "kind": "polaroid",
-      "scene": "lab",
-      "caption": "Field season, 1985"
-     },
+      "id": "ai_excavation",
+      "start": 3,
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
      {
-      "kind": "index",
-      "lines": [
-       "GRID:     N12 / E07",
-       "DEPTH:    PEAT LAYER",
-       "BURIAL:   ARTICULATED",
-       "RECORD:   IN SITU"
-      ]
-     },
-     {
-      "kind": "note",
-      "text": "Map every bone before lifting."
+      "dir": "assets/frames/s023_0",
+      "t0": 0.0,
+      "t1": 6.46,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 122
      }
     ]
    },
@@ -2525,25 +2796,35 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Handling the finds",
-    "subtitle": "Field conservation",
-    "items": [
+    "clips": [
      {
-      "text": "Keep everything wet",
-      "mark": "check",
-      "markCue": "water"
+      "id": "ai_excavation",
+      "start": 5,
+      "sub": "Dramatization"
      },
      {
-      "text": "Lift slowly, by hand",
-      "mark": "check",
-      "markCue": "care"
+      "id": "px5479433",
+      "start": 6
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s024_0",
+      "t0": 0.0,
+      "t1": 4.73,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 74
      },
      {
-      "text": "Never let it dry out",
-      "mark": "check",
-      "markCue": "crumble"
+      "dir": "assets/frames/s024_1",
+      "t0": 4.73,
+      "t1": 9.46,
+      "caption": null,
+      "sub": null,
+      "n": 118
      }
     ]
    },
@@ -2672,11 +2953,30 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Not a jumble of bones. A cemetery.",
-    "emphasis": [
-     "cemetery"
+    "clips": [
+     {
+      "id": "px5762549",
+      "start": 2
+     }
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Not a jumble of bones. A cemetery.",
+     "emphasis": [
+      "cemetery"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s025_0",
+      "t0": 0.0,
+      "t1": 4.32,
+      "caption": null,
+      "sub": null,
+      "n": 108
+     }
     ]
    },
    "start": 177.12,
@@ -2740,12 +3040,37 @@
    ]
   },
   {
-   "type": "xray",
+   "type": "footage",
    "data": {
-    "focus": "full",
-    "marker": false,
-    "subject": "Burial · fully articulated",
-    "scan": "Skeletal survey"
+    "clips": [
+     {
+      "id": "ai_excavation",
+      "start": 4,
+      "sub": "Dramatization"
+     },
+     {
+      "id": "px5762549",
+      "start": 5
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s026_0",
+      "t0": 0.0,
+      "t1": 4.38,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 98
+     },
+     {
+      "dir": "assets/frames/s026_1",
+      "t0": 4.38,
+      "t1": 8.76,
+      "caption": null,
+      "sub": null,
+      "n": 110
+     }
+    ]
    },
    "start": 181.44,
    "transition": "cut",
@@ -2864,21 +3189,24 @@
    ]
   },
   {
-   "type": "document",
+   "type": "footage",
    "data": {
-    "heading": "Burial position",
-    "style": "typed",
-    "lines": [
-     "Body placed on its side.",
-     "Knees drawn up toward the chest.",
-     "Wrapped in woven material.",
-     "Covered by peat at the bottom of the pond."
+    "clips": [
+     {
+      "id": "ai_stakes",
+      "sub": "Dramatization"
+     }
     ],
-    "highlight": [
-     "Knees drawn up toward the chest."
-    ],
-    "caption": "Typical burial",
-    "sub": "Windover Pond"
+    "segs": [
+     {
+      "dir": "assets/frames/s027_0",
+      "t0": 0.0,
+      "t1": 6.0,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 149
+     }
+    ]
    },
    "start": 190.2,
    "transition": "cut",
@@ -2981,11 +3309,26 @@
    ]
   },
   {
-   "type": "artifact",
+   "type": "footage",
    "data": {
-    "object": "stake",
-    "label": "Sharpened wooden stake",
-    "detail": "Driven through the burial wrappings"
+    "clips": [
+     {
+      "id": "ai_stakes",
+      "start": 2,
+      "caption": "Sharpened wooden stakes",
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s028_0",
+      "t0": 0.0,
+      "t1": 7.06,
+      "caption": "Sharpened wooden stakes",
+      "sub": "Dramatization",
+      "n": 146
+     }
+    ]
    },
    "start": 196.2,
    "transition": "cut",
@@ -3092,23 +3435,32 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Why the stakes?",
-    "subtitle": "Open question",
-    "items": [
+    "clips": [
+     "px11028763",
      {
-      "text": "Keep bodies from floating up",
-      "mark": "check",
-      "markCue": "held"
+      "id": "ai_stakes",
+      "start": 4,
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s029_0",
+      "t0": 0.0,
+      "t1": 4.72,
+      "caption": null,
+      "sub": null,
+      "n": 125
      },
      {
-      "text": "Mark or protect the graves",
-      "mark": "question"
-     },
-     {
-      "text": "A ritual we do not understand",
-      "mark": "question"
+      "dir": "assets/frames/s029_1",
+      "t0": 4.72,
+      "t1": 9.44,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 98
      }
     ]
    },
@@ -3241,12 +3593,21 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "coast",
-    "time": "night",
-    "caption": "Windover Pond",
-    "sub": "c. 5200 BC"
+    "clips": [
+     "px14067717"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s030_0",
+      "t0": 0.0,
+      "t1": 8.09,
+      "caption": null,
+      "sub": null,
+      "n": 199
+     }
+    ]
    },
    "start": 212.7,
    "transition": "cut",
@@ -3379,11 +3740,20 @@
    "words": []
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Something was still inside.",
-    "emphasis": [
-     "inside"
+    "clips": [
+     "px5762181"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s032_0",
+      "t0": 0.0,
+      "t1": 5.51,
+      "caption": null,
+      "sub": null,
+      "n": 137
+     }
     ]
    },
    "start": 224.29,
@@ -3467,11 +3837,31 @@
    ]
   },
   {
-   "type": "number",
+   "type": "footage",
    "data": {
-    "value": "91",
-    "label": "skulls with brain tissue",
-    "kicker": "Windover Pond"
+    "clips": [
+     {
+      "id": "px5762177",
+      "start": 3
+     }
+    ],
+    "overlay": {
+     "kind": "number",
+     "value": "91",
+     "label": "skulls with brain tissue",
+     "suffix": "",
+     "kicker": "Windover Pond"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s033_0",
+      "t0": 0.0,
+      "t1": 4.68,
+      "caption": null,
+      "sub": null,
+      "n": 117
+     }
+    ]
    },
    "start": 229.8,
    "transition": "cut",
@@ -3530,15 +3920,24 @@
    ]
   },
   {
-   "type": "xray",
+   "type": "footage",
    "data": {
-    "focus": "skull",
-    "cue": "folds",
-    "label": "Brain tissue",
-    "detail": "Shrunken · structure intact",
-    "markerShape": "sphere",
-    "subject": "Windover burial",
-    "scan": "Cranial scan"
+    "clips": [
+     {
+      "id": "ai_brain",
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s034_0",
+      "t0": 0.0,
+      "t1": 9.72,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 194
+     }
+    ]
    },
    "start": 234.48,
    "transition": "cut",
@@ -3693,11 +4092,27 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "How did a brain survive 7,000 years?",
-    "emphasis": [
-     "7,000"
+    "clips": [
+     "px8108914"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "How did a brain survive 7,000 years?",
+     "emphasis": [
+      "7,000"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s035_0",
+      "t0": 0.0,
+      "t1": 3.38,
+      "caption": null,
+      "sub": null,
+      "n": 86
+     }
     ]
    },
    "start": 244.2,
@@ -3753,25 +4168,28 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Conditions in the peat",
-    "subtitle": "Why decay stopped",
-    "items": [
+    "clips": [
+     "px19409611",
+     "px38533119"
+    ],
+    "segs": [
      {
-      "text": "Waterlogged peat",
-      "mark": "check",
-      "markCue": "waterlogged"
+      "dir": "assets/frames/s036_0",
+      "t0": 0.0,
+      "t1": 4.29,
+      "caption": null,
+      "sub": null,
+      "n": 115
      },
      {
-      "text": "Almost no oxygen",
-      "mark": "check",
-      "markCue": "oxygen"
-     },
-     {
-      "text": "Microbes held back",
-      "mark": "check",
-      "markCue": "microbes"
+      "dir": "assets/frames/s036_1",
+      "t0": 4.29,
+      "t1": 8.58,
+      "caption": null,
+      "sub": null,
+      "n": 108
      }
     ]
    },
@@ -3908,23 +4326,19 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "The evidence",
-    "cards": [
+    "clips": [
+     "px18335306"
+    ],
+    "segs": [
      {
-      "kind": "index",
-      "lines": [
-       "SCAVENGER MARKS:  NONE",
-       "BURIAL:  SOON AFTER DEATH",
-       "ENVIRONMENT:  NO OXYGEN"
-      ],
-      "cue": "scavengers"
-     },
-     {
-      "kind": "note",
-      "text": "Animals never reached them.",
-      "cue": "animals"
+      "dir": "assets/frames/s037_0",
+      "t0": 0.0,
+      "t1": 8.74,
+      "caption": null,
+      "sub": null,
+      "n": 215
      }
     ]
    },
@@ -4053,20 +4467,23 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Two kinds of bog",
-    "cards": [
+    "clips": [
      {
-      "kind": "clip",
-      "source": "Northern Europe",
-      "headline": "Bog bodies: skin preserved, bones dissolved",
-      "cue": "europe"
-     },
+      "id": "px11515016",
+      "caption": "Peat bogs",
+      "sub": "Northern Europe"
+     }
+    ],
+    "segs": [
      {
-      "kind": "polaroid",
-      "scene": "forest",
-      "caption": "Peat bog, northern Europe"
+      "dir": "assets/frames/s038_0",
+      "t0": 0.0,
+      "t1": 9.14,
+      "caption": "Peat bogs",
+      "sub": "Northern Europe",
+      "n": 224
      }
     ]
    },
@@ -4175,11 +4592,27 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Neutral water. The bones survived. So did the brains.",
-    "emphasis": [
-     "brains"
+    "clips": [
+     "px5701468"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Neutral water. The bones survived. So did the brains.",
+     "emphasis": [
+      "brains"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s039_0",
+      "t0": 0.0,
+      "t1": 8.14,
+      "caption": null,
+      "sub": null,
+      "n": 200
+     }
     ]
    },
    "start": 274.04,
@@ -4299,12 +4732,21 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "coast",
-    "time": "dusk",
-    "caption": "Windover Pond",
-    "sub": "Titusville, Florida"
+    "clips": [
+     "px3214535"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s040_0",
+      "t0": 0.0,
+      "t1": 4.94,
+      "caption": null,
+      "sub": null,
+      "n": 123
+     }
+    ]
    },
    "start": 282.18,
    "transition": "cut",
@@ -4367,16 +4809,34 @@
    ]
   },
   {
-   "type": "molecule",
+   "type": "footage",
    "data": {
-    "rings": 2,
-    "extra": [
-     "N",
-     "O",
-     "N"
+    "clips": [
+     {
+      "id": "px8540609",
+      "caption": "Ancient DNA",
+      "sub": "1988"
+     },
+     "px35967934"
     ],
-    "name": "Ancient DNA",
-    "formula": "Recovered from a 7,000-year-old brain · 1988"
+    "segs": [
+     {
+      "dir": "assets/frames/s041_0",
+      "t0": 0.0,
+      "t1": 4.3,
+      "caption": "Ancient DNA",
+      "sub": "1988",
+      "n": 115
+     },
+     {
+      "dir": "assets/frames/s041_1",
+      "t0": 4.3,
+      "t1": 8.6,
+      "caption": null,
+      "sub": null,
+      "n": 108
+     }
+    ]
    },
    "start": 287.12,
    "transition": "cut",
@@ -4495,21 +4955,25 @@
    ]
   },
   {
-   "type": "timeline",
+   "type": "footage",
    "data": {
-    "events": [
+    "clips": [
      {
-      "date": "1984",
-      "label": "First DNA from an extinct animal",
-      "cue": "earlier"
-     },
-     {
-      "date": "1988",
-      "label": "DNA from a Windover brain",
-      "cue": "frontier"
+      "id": "px9573754",
+      "caption": "First DNA from an extinct animal",
+      "sub": "1984"
      }
     ],
-    "highlight": 1
+    "segs": [
+     {
+      "dir": "assets/frames/s042_0",
+      "t0": 0.0,
+      "t1": 11.78,
+      "caption": "First DNA from an extinct animal",
+      "sub": "1984",
+      "n": 288
+     }
+    ]
    },
    "start": 295.72,
    "transition": "cut",
@@ -4652,11 +5116,27 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "A message written in genes.",
-    "emphasis": [
-     "genes"
+    "clips": [
+     "px35967934"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "A message written in genes.",
+     "emphasis": [
+      "genes"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s043_0",
+      "t0": 0.0,
+      "t1": 8.98,
+      "caption": null,
+      "sub": null,
+      "n": 220
+     }
     ]
    },
    "start": 307.5,
@@ -4772,25 +5252,19 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Genetic results",
-    "cards": [
+    "clips": [
+     "px6417633"
+    ],
+    "segs": [
      {
-      "kind": "index",
-      "lines": [
-       "SOURCE:    BRAIN TISSUE",
-       "MATERIAL:  ANCIENT DNA",
-       "RESULT:    NATIVE AMERICAN",
-       "AGE:       c. 7,000 YEARS"
-      ],
-      "cue": "dna"
-     },
-     {
-      "kind": "polaroid",
-      "scene": "portrait",
-      "caption": "Windover, c. 5200 BC",
-      "cue": "ancient"
+      "dir": "assets/frames/s044_0",
+      "t0": 0.0,
+      "t1": 10.24,
+      "caption": null,
+      "sub": null,
+      "n": 251
      }
     ]
    },
@@ -4933,11 +5407,27 @@
    "words": []
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Cloth. Seven thousand years old.",
-    "emphasis": [
-     "cloth"
+    "clips": [
+     "px7318530"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Cloth.",
+     "emphasis": [
+      "cloth"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s046_0",
+      "t0": 0.0,
+      "t1": 5.38,
+      "caption": null,
+      "sub": null,
+      "n": 134
+     }
     ]
    },
    "start": 330.22,
@@ -5005,20 +5495,31 @@
    ]
   },
   {
-   "type": "bars",
+   "type": "footage",
    "data": {
-    "title": "Textiles recovered",
-    "items": [
+    "clips": [
      {
-      "label": "Graves with fabric",
-      "value": 37
-     },
-     {
-      "label": "Fabric pieces",
-      "value": 86
+      "id": "px7318530",
+      "start": 8
      }
     ],
-    "highlight": 1
+    "overlay": {
+     "kind": "number",
+     "value": "86",
+     "label": "pieces of woven fabric",
+     "suffix": "",
+     "kicker": "37 graves"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s047_0",
+      "t0": 0.0,
+      "t1": 6.86,
+      "caption": null,
+      "sub": null,
+      "n": 169
+     }
+    ]
    },
    "start": 335.6,
    "transition": "cut",
@@ -5089,13 +5590,25 @@
    ]
   },
   {
-   "type": "photo",
+   "type": "footage",
    "data": {
-    "scene": "forest",
-    "bw": true,
-    "layout": "desk",
-    "caption": "Burial wrappings",
-    "credit": "Woven plant fiber"
+    "clips": [
+     {
+      "id": "ai_ancient_burial",
+      "start": 3,
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s048_0",
+      "t0": 0.0,
+      "t1": 7.8,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 122
+     }
+    ]
    },
    "start": 342.46,
    "transition": "cut",
@@ -5198,25 +5711,22 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Making the cloth",
-    "subtitle": "Every step by hand",
-    "items": [
+    "clips": [
      {
-      "text": "Gather plant fibers",
-      "mark": "check",
-      "markCue": "gathered"
-     },
+      "id": "ai_weaving",
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
      {
-      "text": "Twist them into cord",
-      "mark": "check",
-      "markCue": "twisted"
-     },
-     {
-      "text": "Weave by hand",
-      "mark": "check",
-      "markCue": "woven"
+      "dir": "assets/frames/s049_0",
+      "t0": 0.0,
+      "t1": 11.04,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 194
      }
     ]
    },
@@ -5353,11 +5863,20 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Among the oldest woven textiles ever found.",
-    "emphasis": [
-     "oldest"
+    "clips": [
+     "px2121092"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s050_0",
+      "t0": 0.0,
+      "t1": 8.74,
+      "caption": null,
+      "sub": null,
+      "n": 215
+     }
     ]
    },
    "start": 361.3,
@@ -5465,11 +5984,23 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "That work was spent on the dead.",
-    "emphasis": [
-     "dead"
+    "clips": [
+     {
+      "id": "ai_ancient_burial",
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s051_0",
+      "t0": 0.0,
+      "t1": 7.8,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 192
+     }
     ]
    },
    "start": 370.04,
@@ -5601,11 +6132,36 @@
    ]
   },
   {
-   "type": "artifact",
+   "type": "footage",
    "data": {
-    "object": "bone",
-    "label": "Bone and antler tools",
-    "detail": "Buried with the dead"
+    "clips": [
+     {
+      "id": "px19904298",
+      "caption": "Bone and antler"
+     },
+     {
+      "id": "px20616363",
+      "caption": "Shark teeth"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s052_0",
+      "t0": 0.0,
+      "t1": 4.51,
+      "caption": "Bone and antler",
+      "sub": null,
+      "n": 120
+     },
+     {
+      "dir": "assets/frames/s052_1",
+      "t0": 4.51,
+      "t1": 9.02,
+      "caption": "Shark teeth",
+      "sub": null,
+      "n": 113
+     }
+    ]
    },
    "start": 377.84,
    "transition": "cut",
@@ -5708,12 +6264,33 @@
    ]
   },
   {
-   "type": "artifact",
+   "type": "footage",
    "data": {
-    "object": "jar",
-    "material": "wood",
-    "label": "No pottery, no metal",
-    "detail": "Containers came from nature"
+    "clips": [
+     "px852338",
+     {
+      "id": "px19904298",
+      "start": 6
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s053_0",
+      "t0": 0.0,
+      "t1": 3.12,
+      "caption": null,
+      "sub": null,
+      "n": 87
+     },
+     {
+      "dir": "assets/frames/s053_1",
+      "t0": 3.12,
+      "t1": 6.24,
+      "caption": null,
+      "sub": null,
+      "n": 80
+     }
+    ]
    },
    "start": 386.86,
    "transition": "cut",
@@ -5812,12 +6389,25 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "forest",
-    "time": "day",
-    "caption": "Florida's Atlantic coast",
-    "sub": "The world of the Windover people"
+    "clips": [
+     {
+      "id": "px8387490",
+      "start": 10,
+      "caption": "Florida's rivers and marshes"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s054_0",
+      "t0": 0.0,
+      "t1": 8.54,
+      "caption": "Florida's rivers and marshes",
+      "sub": null,
+      "n": 210
+     }
+    ]
    },
    "start": 393.1,
    "transition": "cut",
@@ -5916,31 +6506,25 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Signs of ceremony",
-    "subtitle": "Windover burials",
-    "items": [
+    "clips": [
      {
-      "text": "Bodies wrapped in woven cloth",
-      "mark": "check",
-      "markCue": "wrapping"
-     },
-     {
-      "text": "Objects placed with the dead",
-      "mark": "check",
-      "markCue": "objects"
-     },
-     {
-      "text": "Careful burial position",
-      "mark": "check",
-      "markCue": "placement"
+      "id": "ai_ancient_burial",
+      "start": 4,
+      "sub": "Dramatization"
      }
     ],
-    "stamp": {
-     "text": "Honored",
-     "cue": "honored"
-    }
+    "segs": [
+     {
+      "dir": "assets/frames/s055_0",
+      "t0": 0.0,
+      "t1": 7.97,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 98
+     }
+    ]
    },
    "start": 401.64,
    "transition": "cut",
@@ -6053,12 +6637,30 @@
    "words": []
   },
   {
-   "type": "number",
+   "type": "footage",
    "data": {
-    "value": "60",
-    "suffix": "+",
-    "label": "years: the oldest elders",
-    "kicker": "Age range at Windover"
+    "clips": [
+     "px6849063",
+     "px8971157"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s057_0",
+      "t0": 0.0,
+      "t1": 3.775,
+      "caption": null,
+      "sub": null,
+      "n": 103
+     },
+     {
+      "dir": "assets/frames/s057_1",
+      "t0": 3.775,
+      "t1": 7.55,
+      "caption": null,
+      "sub": null,
+      "n": 96
+     }
+    ]
    },
    "start": 413.11,
    "transition": "dip",
@@ -6153,12 +6755,21 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "forest",
-    "time": "dawn",
-    "caption": "Windover",
-    "sub": "Every age, every generation"
+    "clips": [
+     "px14067717"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s058_0",
+      "t0": 0.0,
+      "t1": 9.02,
+      "caption": null,
+      "sub": null,
+      "n": 221
+     }
+    ]
    },
    "start": 420.66,
    "transition": "cut",
@@ -6269,15 +6880,27 @@
    ]
   },
   {
-   "type": "xray",
+   "type": "footage",
    "data": {
-    "focus": "left_knee",
-    "cue": "arthritis",
-    "label": "Joint wear",
-    "detail": "Arthritis",
-    "markerShape": "sphere",
-    "subject": "Adult · Windover",
-    "scan": "Skeletal survey"
+    "clips": [
+     "px5453588"
+    ],
+    "overlay": {
+     "kind": "hud",
+     "label": "Joint wear",
+     "detail": "Arthritis",
+     "scan": "Skeletal survey"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s059_0",
+      "t0": 0.0,
+      "t1": 6.88,
+      "caption": null,
+      "sub": null,
+      "n": 170
+     }
+    ]
    },
    "start": 429.68,
    "transition": "cut",
@@ -6368,24 +6991,23 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Burial file",
-    "cards": [
+    "clips": [
      {
-      "kind": "polaroid",
-      "scene": "portrait",
-      "caption": "Male, about 15 years"
-     },
+      "id": "px5762549",
+      "caption": "Burial: male",
+      "sub": "About 15 years old"
+     }
+    ],
+    "segs": [
      {
-      "kind": "index",
-      "lines": [
-       "SEX:       MALE",
-       "AGE:       ~15 YEARS",
-       "CONDITION: SPINA BIFIDA",
-       "NOTE:      FOOT MISSING"
-      ],
-      "cue": "fifteen"
+      "dir": "assets/frames/s060_0",
+      "t0": 0.0,
+      "t1": 5.8,
+      "caption": "Burial: male",
+      "sub": "About 15 years old",
+      "n": 144
      }
     ]
    },
@@ -6458,15 +7080,27 @@
    ]
   },
   {
-   "type": "xray",
+   "type": "footage",
    "data": {
-    "focus": "spine",
-    "cue": "spina",
-    "label": "Spina bifida",
-    "detail": "Congenital spinal defect",
-    "markerShape": "sphere",
-    "subject": "Male · ~15 years",
-    "scan": "Skeletal survey"
+    "clips": [
+     "px7579843"
+    ],
+    "overlay": {
+     "kind": "hud",
+     "label": "Spina bifida",
+     "detail": "Congenital spinal defect",
+     "scan": "Skeletal survey"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s061_0",
+      "t0": 0.0,
+      "t1": 5.12,
+      "caption": null,
+      "sub": null,
+      "n": 128
+     }
+    ]
    },
    "start": 442.36,
    "transition": "cut",
@@ -6545,15 +7179,27 @@
    ]
   },
   {
-   "type": "xray",
+   "type": "footage",
    "data": {
-    "focus": "right_leg",
-    "cue": "healed",
-    "label": "Healed amputation",
-    "detail": "Lower leg · bone remodeled",
-    "markerShape": "sphere",
-    "subject": "Male · ~15 years",
-    "scan": "Skeletal survey"
+    "clips": [
+     "px5724099"
+    ],
+    "overlay": {
+     "kind": "hud",
+     "label": "Healed amputation",
+     "detail": "Lower leg · bone remodeled",
+     "scan": "Skeletal survey"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s062_0",
+      "t0": 0.0,
+      "t1": 6.32,
+      "caption": null,
+      "sub": null,
+      "n": 156
+     }
+    ]
    },
    "start": 447.48,
    "transition": "cut",
@@ -6672,24 +7318,22 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "To survive, he needed",
-    "items": [
+    "clips": [
      {
-      "text": "Food brought to him",
-      "mark": "check",
-      "markCue": "help"
-     },
+      "id": "ai_carried",
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
      {
-      "text": "To be carried between camps",
-      "mark": "check",
-      "markCue": "every"
-     },
-     {
-      "text": "Care for his whole life",
-      "mark": "check",
-      "markCue": "day"
+      "dir": "assets/frames/s063_0",
+      "t0": 0.0,
+      "t1": 8.84,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 194
      }
     ]
    },
@@ -6834,11 +7478,24 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Someone carried him. For his entire life.",
-    "emphasis": [
-     "carried"
+    "clips": [
+     {
+      "id": "ai_carried",
+      "start": 3,
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s064_0",
+      "t0": 0.0,
+      "t1": 7.92,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 122
+     }
     ]
    },
    "start": 462.64,
@@ -6934,11 +7591,28 @@
    ]
   },
   {
-   "type": "number",
+   "type": "footage",
    "data": {
-    "value": "15",
-    "label": "years of care",
-    "kicker": "Day after day"
+    "clips": [
+     "px4978271"
+    ],
+    "overlay": {
+     "kind": "number",
+     "value": "15",
+     "label": "years of care",
+     "suffix": "",
+     "kicker": "Day after day"
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s065_0",
+      "t0": 0.0,
+      "t1": 11.62,
+      "caption": null,
+      "sub": null,
+      "n": 257
+     }
+    ]
    },
    "start": 470.56,
    "transition": "cut",
@@ -7093,12 +7767,24 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "forest",
-    "time": "dusk",
-    "caption": "Florida",
-    "sub": "c. 5200 BC"
+    "clips": [
+     {
+      "id": "px6417633",
+      "start": 8
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s066_0",
+      "t0": 0.0,
+      "t1": 7.44,
+      "caption": null,
+      "sub": null,
+      "n": 183
+     }
+    ]
    },
    "start": 482.18,
    "transition": "cut",
@@ -7193,11 +7879,30 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Compassion is older than civilization.",
-    "emphasis": [
-     "compassion"
+    "clips": [
+     {
+      "id": "px8971157",
+      "start": 5
+     }
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Compassion is older than civilization.",
+     "emphasis": [
+      "compassion"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s067_0",
+      "t0": 0.0,
+      "t1": 4.46,
+      "caption": null,
+      "sub": null,
+      "n": 112
+     }
     ]
    },
    "start": 489.62,
@@ -7271,11 +7976,27 @@
    "words": []
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Why bury the dead in water?",
-    "emphasis": [
-     "water"
+    "clips": [
+     "px10122703"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Why bury the dead in water?",
+     "emphasis": [
+      "water"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s069_0",
+      "t0": 0.0,
+      "t1": 5.16,
+      "caption": null,
+      "sub": null,
+      "n": 129
+     }
     ]
    },
    "start": 497.58,
@@ -7351,12 +8072,21 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "coast",
-    "time": "storm",
-    "caption": "Windover Pond",
-    "sub": "No written record"
+    "clips": [
+     "px11515016"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s070_0",
+      "t0": 0.0,
+      "t1": 7.0,
+      "caption": null,
+      "sub": null,
+      "n": 173
+     }
+    ]
    },
    "start": 502.74,
    "transition": "cut",
@@ -7455,25 +8185,19 @@
    ]
   },
   {
-   "type": "checklist",
+   "type": "footage",
    "data": {
-    "title": "Ancient burial practices",
-    "subtitle": "How Windover differs",
-    "items": [
+    "clips": [
+     "px9610463"
+    ],
+    "segs": [
      {
-      "text": "In the ground",
-      "mark": "cross",
-      "markCue": "ground"
-     },
-     {
-      "text": "In caves or mounds",
-      "mark": "cross",
-      "markCue": "mounds"
-     },
-     {
-      "text": "Under the water of a pond",
-      "mark": "check",
-      "markCue": "different"
+      "dir": "assets/frames/s071_0",
+      "t0": 0.0,
+      "t1": 12.24,
+      "caption": null,
+      "sub": null,
+      "n": 268
      }
     ]
    },
@@ -7626,25 +8350,21 @@
    ]
   },
   {
-   "type": "timeline",
+   "type": "footage",
    "data": {
-    "events": [
-     {
-      "date": "Generation 1",
-      "label": "The first burials in the pond"
-     },
-     {
-      "date": "Centuries",
-      "label": "The community keeps returning",
-      "cue": "again"
-     },
-     {
-      "date": "168",
-      "label": "People laid to rest in total",
-      "cue": "generation"
-     }
+    "clips": [
+     "px16572179"
     ],
-    "highlight": 2
+    "segs": [
+     {
+      "dir": "assets/frames/s072_0",
+      "t0": 0.0,
+      "t1": 9.56,
+      "caption": null,
+      "sub": null,
+      "n": 234
+     }
+    ]
    },
    "start": 521.98,
    "transition": "cut",
@@ -7775,19 +8495,19 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Theories",
-    "cards": [
+    "clips": [
+     "px11028763"
+    ],
+    "segs": [
      {
-      "kind": "note",
-      "text": "A passage to another world?",
-      "cue": "doorway"
-     },
-     {
-      "kind": "polaroid",
-      "scene": "sea",
-      "caption": "Still water"
+      "dir": "assets/frames/s073_0",
+      "t0": 0.0,
+      "t1": 5.86,
+      "caption": null,
+      "sub": null,
+      "n": 145
      }
     ]
    },
@@ -7884,23 +8604,19 @@
    ]
   },
   {
-   "type": "board",
+   "type": "footage",
    "data": {
-    "title": "Theories",
-    "cards": [
+    "clips": [
+     "px10041468"
+    ],
+    "segs": [
      {
-      "kind": "note",
-      "text": "A passage to another world?"
-     },
-     {
-      "kind": "polaroid",
-      "scene": "sea",
-      "caption": "Still water"
-     },
-     {
-      "kind": "note",
-      "text": "Protection from animals and heat",
-      "cue": "practical"
+      "dir": "assets/frames/s074_0",
+      "t0": 0.0,
+      "t1": 7.04,
+      "caption": null,
+      "sub": null,
+      "n": 174
      }
     ]
    },
@@ -8009,12 +8725,28 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "A sacred place that protected the people they loved.",
-    "emphasis": [
-     "sacred",
-     "loved"
+    "clips": [
+     "px14067717"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "A sacred place that protected the people they loved.",
+     "emphasis": [
+      "sacred",
+      "loved"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s075_0",
+      "t0": 0.0,
+      "t1": 4.6,
+      "caption": null,
+      "sub": null,
+      "n": 115
+     }
     ]
    },
    "start": 544.44,
@@ -8082,12 +8814,24 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "coast",
-    "time": "dawn",
-    "caption": "Windover Pond",
-    "sub": "7,000 years later"
+    "clips": [
+     {
+      "id": "px16572179",
+      "start": 12
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s076_0",
+      "t0": 0.0,
+      "t1": 4.16,
+      "caption": null,
+      "sub": null,
+      "n": 105
+     }
+    ]
    },
    "start": 549.04,
    "transition": "cut",
@@ -8164,28 +8908,25 @@
    "words": []
   },
   {
-   "type": "timeline",
+   "type": "footage",
    "data": {
-    "events": [
+    "clips": [
      {
-      "date": "c. 5200 BC",
-      "label": "Burials in Windover Pond"
-     },
-     {
-      "date": "1982",
-      "label": "Skulls found by a backhoe"
-     },
-     {
-      "date": "1984-86",
-      "label": "Excavation of the pond"
-     },
-     {
-      "date": "1987",
-      "label": "National Historic Landmark",
-      "cue": "landmark"
+      "id": "px16572179",
+      "caption": "National Historic Landmark",
+      "sub": "1987"
      }
     ],
-    "highlight": 3
+    "segs": [
+     {
+      "dir": "assets/frames/s078_0",
+      "t0": 0.0,
+      "t1": 8.16,
+      "caption": "National Historic Landmark",
+      "sub": "1987",
+      "n": 201
+     }
+    ]
    },
    "start": 556.7,
    "transition": "dip",
@@ -8272,11 +9013,27 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "Not just study. Respect.",
-    "emphasis": [
-     "respect"
+    "clips": [
+     "px6417633"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "Not just study. Respect.",
+     "emphasis": [
+      "respect"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s079_0",
+      "t0": 0.0,
+      "t1": 10.72,
+      "caption": null,
+      "sub": null,
+      "n": 262
+     }
     ]
    },
    "start": 564.86,
@@ -8412,12 +9169,21 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "coast",
-    "time": "dusk",
-    "caption": "Windover Pond",
-    "sub": "Ancestors, not just specimens"
+    "clips": [
+     "px6550424"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s080_0",
+      "t0": 0.0,
+      "t1": 9.0,
+      "caption": null,
+      "sub": null,
+      "n": 221
+     }
+    ]
    },
    "start": 575.58,
    "transition": "cut",
@@ -8536,11 +9302,20 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "They did not empty the entire pond.",
-    "emphasis": [
-     "not"
+    "clips": [
+     "px5701468"
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s081_0",
+      "t0": 0.0,
+      "t1": 5.58,
+      "caption": null,
+      "sub": null,
+      "n": 139
+     }
     ]
    },
    "start": 584.58,
@@ -8616,12 +9391,25 @@
    ]
   },
   {
-   "type": "landscape",
+   "type": "footage",
    "data": {
-    "terrain": "plains",
-    "time": "night",
-    "caption": "Windover Pond today",
-    "sub": "Part of the site left untouched"
+    "clips": [
+     {
+      "id": "px19409611",
+      "caption": "Windover Pond today",
+      "sub": "Part of the site left untouched"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s082_0",
+      "t0": 0.0,
+      "t1": 7.62,
+      "caption": "Windover Pond today",
+      "sub": "Part of the site left untouched",
+      "n": 188
+     }
+    ]
    },
    "start": 590.16,
    "transition": "cut",
@@ -8720,12 +9508,24 @@
    ]
   },
   {
-   "type": "xray",
+   "type": "footage",
    "data": {
-    "focus": "full",
-    "marker": false,
-    "subject": "Unexcavated · Windover Pond",
-    "scan": "Still in the peat"
+    "clips": [
+     {
+      "id": "ai_stakes",
+      "sub": "Dramatization"
+     }
+    ],
+    "segs": [
+     {
+      "dir": "assets/frames/s083_0",
+      "t0": 0.0,
+      "t1": 8.94,
+      "caption": null,
+      "sub": "Dramatization",
+      "n": 194
+     }
+    ]
    },
    "start": 597.78,
    "transition": "cut",
@@ -8848,12 +9648,28 @@
    ]
   },
   {
-   "type": "statement",
+   "type": "footage",
    "data": {
-    "text": "168 people. 7,000 years. Brains that refused to disappear.",
-    "emphasis": [
-     "168",
-     "brains"
+    "clips": [
+     "px5762177"
+    ],
+    "overlay": {
+     "kind": "statement",
+     "text": "168 people. 7,000 years. Brains that refused to disappear.",
+     "emphasis": [
+      "168",
+      "brains"
+     ]
+    },
+    "segs": [
+     {
+      "dir": "assets/frames/s084_0",
+      "t0": 0.0,
+      "t1": 6.7,
+      "caption": null,
+      "sub": null,
+      "n": 166
+     }
     ]
    },
    "start": 606.72,

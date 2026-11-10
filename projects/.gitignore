@@ -6,3 +6,8 @@ render.log
 final.mp4
 *.mp4
 *.wav
+shots_3d_backup.json
+assets/clips/
+assets/frames/
+render2.log
+Windover_final.mp4

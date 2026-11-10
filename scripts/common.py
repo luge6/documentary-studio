@@ -6,7 +6,7 @@ SHOT_TYPES = {
     "title": ["title"], "chapter": ["title"], "statement": ["text"], "number": ["value"],
     "board": ["cards"], "checklist": ["items"], "document": [], "quote": ["text"],
     "map": ["place"], "timeline": ["events"], "photo": [], "bars": ["items"],
-    "xray": [], "artifact": [], "landscape": [], "molecule": [],
+    "xray": [], "artifact": [], "landscape": [], "molecule": [], "footage": ["clips"],
 }
 WPM = 150          # typical documentary narration pace
 CARD_SECONDS = 3.5  # pause inserted for each chapter card

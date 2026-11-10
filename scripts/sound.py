@@ -108,6 +108,17 @@ for i, sh in enumerate(TL["shots"]):
             for k in range(3): place(sfx, beep(1860, 0.09), s0 + ht + k * 0.18, 0.09)
     elif typ == "artifact": place(sfx, whoosh(1.6, 100, 1200), s0, 0.25); place(sfx, shimmer(1.8), s0 + 0.3, 0.12)
     elif typ == "molecule": place(sfx, shimmer(2.2), s0 + 0.1, 0.25)
+    elif typ == "footage":
+        ov = d.get("overlay") or {}
+        if ov.get("kind") == "number":
+            end = max(0.8, dur * 0.5); t = 0.2; step = 0.05
+            while t < end: place(sfx, click(0.006), s0 + t, 0.08); step *= 1.06; t += step
+            place(sfx, boom(100, 50, 0.8), s0 + end, 0.35)
+        elif ov.get("kind") == "statement": place(sfx, boom(70, 38, 1.8), s0 + 0.15, 0.3)
+        elif ov.get("kind") == "hud":
+            n = int(dur * SR); tt = T(n); place(sfx, ((np.sin(2 * np.pi * 120 * tt) * np.minimum(1, tt / 0.3) * np.minimum(1, (dur - tt) / 0.2))).astype(np.float32), s0, 0.03)
+            for k in range(3): place(sfx, beep(1860, 0.09), s0 + dur * 0.3 + k * 0.18, 0.08)
+        if i > 0 and TL["shots"][i - 1]["type"] != "footage": place(sfx, whoosh(0.6, 300, 3000), s0 - 0.2, 0.08)
     elif typ == "landscape":
         n = int((s1 - s0) * SR); w = noise(n, 60, 700) * (0.7 + 0.3 * np.sin(2 * np.pi * 0.2 * T(n))) * np.minimum(1, T(n) / 0.6) * np.minimum(1, (s1 - s0 - T(n)) / 0.6)
         place(bed, w, s0, 0.12)
