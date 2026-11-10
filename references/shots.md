@@ -1,5 +1,17 @@
 # Shot reference
 
+## footage - real video (default for every narrated line)
+```
+{"type":"footage","clips":["px5762177", {"id":"ai_brain","start":2,"caption":"Windover skull","sub":"Dramatization"}],
+ "overlay":{"kind":"number","value":"91","label":"skulls with brain tissue","suffix":"","kicker":"Windover Pond"}}
+```
+- `clips`: ids from `assets/clips.json`; the shot's time is split evenly between them (crossfaded). `start` = seconds into the clip.
+  Short clips are slowed up to 3x automatically. Per-clip `caption`/`sub` show as a lower third.
+- `overlay` (optional): `number` (counting gold figure: value, label, suffix, kicker), `statement` (text, emphasis[]),
+  `hud` (scan readout over X-ray footage: label, detail, scan).
+- Shot-level `caption` / `sub` also work.
+
+
 Every beat in `shots.json` has a `say` (the narration it covers) and a `shot` (what is on screen while it is said).
 All shots are real-time 3D scenes (Three.js): lit, shadowed, with camera moves. Text shown on screen is short;
 the narration carries the story.

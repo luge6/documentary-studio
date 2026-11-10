@@ -12,6 +12,24 @@ flyovers, timelines, molecules. Music and sound design are generated and synced 
 
 `$SKILL` below means this skill's directory. A project is a folder (e.g. `~/docs/<slug>/`).
 
+## The visual rule (most important)
+**Every shot must literally show what the narration says at that moment.** If the line is "a man on a backhoe
+was clearing land", the viewer sees a man on a backhoe clearing land. Never use abstract stand-ins, stick
+figures or the procedural X-ray skeleton for real people or events.
+- Default shot type is `footage` (real video). Per beat, search stock footage with `vidiq_generate_broll`
+  (1 credit, free Pexels clips; prefer `hd_1920_1080` / `hd_1280_720` files, avoid `640_360`). Read clip titles
+  in the Pexels URL slug and reject anything that contradicts the line (wrong animal, wrong body part, modern
+  props for ancient scenes, "tiny planet" effects).
+- Use `vidiq_generate_video` (minimax-h3, 768p, 8 s ≈ 120 credits) only for moments stock cannot show
+  (historical reenactments, specific discoveries). Label them `"sub": "Dramatization"`. If a prompt is
+  rejected as sensitive, rephrase (e.g. avoid "teenage boy"), credits are refunded.
+- 3D shots are for chapter cards and the title only, plus numbers/statements as overlays on footage.
+- Register every clip in `<project>/assets/clips.json`, then run `scripts/footage.py` after `align.py`.
+  Footage shot: `{"type":"footage","clips":["px123", {"id":"ai_x","start":3,"caption":"...","sub":"..."}],
+  "overlay": {"kind":"number|statement|hud", ...}}` (see references/shots.md).
+- QC every contact sheet against the script line by line before the full render.
+- Network hosts needed: videos.pexels.com, images.pexels.com, videogen.vidiq.com, assets.vidiq.com.
+
 ## Phase 0 - setup (once per machine/session)
 ```bash
 bash $SKILL/scripts/setup.sh
@@ -49,6 +67,7 @@ When the user provides the recording, save it as `<project>/voiceover.<ext>` and
 ```bash
 python3 $SKILL/scripts/transcribe.py <project>          # word timestamps -> words.json (~1/4 of real time)
 python3 $SKILL/scripts/align.py <project>               # beats -> real timing -> timeline.json, subtitles.srt, chapters.txt
+python3 $SKILL/scripts/footage.py <project>             # download clips, extract frames, credits.md
 node $SKILL/scripts/render.mjs <project> --sheet        # QC: one frame per shot -> qc/sheet_XX.png
 ```
 - Read `align.py` output: the match rate should be > 80 %. Warnings name beats that were skipped/ad-libbed (their
